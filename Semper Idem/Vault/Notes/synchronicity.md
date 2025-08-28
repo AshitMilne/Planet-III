@@ -1,0 +1,1 @@
+**Synchronicity** Meaningful coincidences that seem to defy causality, often perceived as signs or patterns; experiences where questions become affirmations of what is deeply known.

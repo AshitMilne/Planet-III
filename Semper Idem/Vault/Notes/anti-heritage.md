@@ -1,0 +1,1 @@
+ The accumulation of material or cultural preoccupations that degrade emotional, social, or environmental well-being; the erosion of relationships and institutions through overconsumption or neglect of ethical equilibrium.

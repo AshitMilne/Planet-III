@@ -1,0 +1,1 @@
+The starting point of coordinated renewal; the conceptual origin of Act III and the essay’s broader exploration of legitimacy, value, and ethical governance.

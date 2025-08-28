@@ -1,0 +1,1 @@
+A computational or systemic approach relying on exhaustive trial-and-error rather than coordinated, ethical, or principle-driven design. In the essay, this is contrasted with holistic, coordinated approaches to value and governance.

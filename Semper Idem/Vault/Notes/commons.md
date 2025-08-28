@@ -1,0 +1,1 @@
+A structured set of shared and collectively owned resources, rules, and institutions through which individuals coexist and interact. Includes both societal governance structures and natural systems; the ethical anchor or stake for human coordination.

@@ -1,0 +1,1 @@
+French term for “computer,” implying systemic calculation, coordination, and coherent outcome rather than brute-force processing.

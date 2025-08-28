@@ -1,0 +1,1 @@
+*"Polish this text fully: fix grammar, punctuation, spelling; standardize headings, spacing, emphasis, quotes; make it publication-ready in Markdown or Word."*

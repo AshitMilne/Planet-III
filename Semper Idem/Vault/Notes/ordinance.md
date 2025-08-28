@@ -1,0 +1,1 @@
+A law or regulation enacted by a local authority to organize specific matters within a jurisdiction.

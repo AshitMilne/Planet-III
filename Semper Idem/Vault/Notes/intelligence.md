@@ -1,0 +1,1 @@
+A form of holistic and intentional agency that is systemically aware. It operates objectively (truth) and manifests aesthetic appeal  (beauty). As such it commands universal legitimacy. It is the seeker's objective.
