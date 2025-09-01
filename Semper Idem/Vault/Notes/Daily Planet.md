@@ -1,0 +1,1 @@
+A series of autobiographical essays relating to my Calling which deals with the structured use of processes and technology for governance. The Daily Planet, created by Jerry Siegal and Joe Shuster is loosely based on the Toronto Star - my adoptive hometown' main newspaper. My given name Ashit (अशित) is Sanskrit and means planet. 

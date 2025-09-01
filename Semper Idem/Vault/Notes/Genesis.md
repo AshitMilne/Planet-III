@@ -1,1 +1,1 @@
-The starting point of coordinated renewal; the conceptual origin of Act III and the essay’s broader exploration of legitimacy, value, and ethical governance.
+The starting point of coordinated renewal; the conceptual origin of Act III and the essay’s broader exploration of legitimacy, value, and ethical governance. A leading indicator as language is debased that paradigm shifts are no longer tenable and renewal is required (see Hyundai branding decisions).

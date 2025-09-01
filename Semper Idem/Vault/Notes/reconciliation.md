@@ -1,0 +1,1 @@
+Settlement and balance: The sense that is at equilibrium and operating sustainably as a creative individual without toil. All work is flow. Outcome is felt as equanimity and appreciation of self (gratitude for one's life).

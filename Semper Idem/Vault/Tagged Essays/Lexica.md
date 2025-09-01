@@ -11,6 +11,9 @@ An emergent and dynamic order, manifesting without centralized coordination thro
 **Anti-heritage**
  The accumulation of material or cultural preoccupations that degrade emotional, social, or environmental well-being; the erosion of relationships and institutions through overconsumption or neglect of ethical equilibrium.
 
+**Atheism**
+Not merely the denial of gods, but the refusal to posit a fundamental separation between creator and creation. Non-dualist traditions such as Taoism, Advaita Vedanta, and Buddhism operate within this frame, maintaining depth without recourse to a deity apart from the world. Pagan and animist systems, by contrast, may be read as entropic proliferations of deities arising from the tension between dualist and non-dualist worldviews.
+
 ------
 
 ## B
@@ -26,7 +29,7 @@ An emergent and dynamic order, manifesting without centralized coordination thro
 ## C
 
 **Commons**
- A structured set of shared and collectively owned resources, rules, and institutions through which individuals coexist and interact. Includes both societal governance structures and natural systems; the ethical anchor or stake for human coordination.
+A structured set of shared and collectively owned resources, rules, and institutions through which individuals coexist and interact. Includes both societal governance structures and natural systems; the ethical anchor or stake for human coordination.
 
 **Commonwealth**
 Synonym for the Commons or commonweal. A structured set of shared resources, rules, and institutions through which individuals coexist and interact. Includes both societal governance structures and natural systems; the ethical anchor for human coordination. The addition of weal or wealth implies a currency of culture and its notional equivalent, money is in common use, cycling continuously through it.
@@ -40,15 +43,15 @@ A state of awareness tied to the idea of a universal or divine mind particularly
 **Coordination**
  The process of aligning individual actions, intentions, or contributions to produce a coherent and ethical outcome for the self, commons, or creation.
 
+**Creation**
+A synonym for the ecology or nature of ‘the environment,’ flowing beyond personal or sovereign boundaries. Used throughout these essays (semper idem) to highlight creative behavior by the self and commons as a means to align outcomes and address the tragedy of the commons.
+
 ------
 
 ## E
 
 **Emergence**
  The appearance of patterns, value, or behavior from interactions among actors or systems, often unpredictable but manifesting as meaningful structures in society or nature.
-
-**Entropy**
- Complexity or apparent chaos in human, societal, or systemic behavior. Not simply disorder, but the fragmentation that provides the substrate for new patterns, coordination, and creative opportunity.
 
 **Entropy**
  Complexity or apparent chaos in human, societal, or systemic behavior. Not simply disorder, but the fragmentation that provides the substrate for new patterns, coordination, and creative opportunity.
@@ -63,9 +66,8 @@ A state of awareness tied to the idea of a universal or divine mind particularly
 **Global Village**
  A term adapted from Marshall McLuhan, describing the networked state of human communication and awareness, where central narratives influence collective consciousness.
 
-------
-
-## I
+**God**
+Generally God is framed as a deity: custodian, guardian and protector. Innocents (the young or those who have yet to learn the capacity for emotional self-restraint) are, in complex societies, are often at first instructed ethics in simple terms of good and bad behaviour being rewarded and punished by God to effect the desired behaviour.
 
 **Information Technology (IT)**
 The systems, protocols, and networks facilitating data transmission, computation, and coordination among individuals and institutions. In the essay, IT is positioned as a catalyst for societal evolution and the emergence of legitimate value systems.
@@ -73,7 +75,6 @@ The systems, protocols, and networks facilitating data transmission, computation
 **Intelligence**
 A form of holistic and intentional agency that is systemically aware. It operates objectively (truth) and manifests aesthetic appeal  (beauty). As such it commands universal legitimacy. It is the seeker's objective.
 
-IA form of holistic and intentional agency that is systemically aware. It operates objectively (truth) and manifests aesthetic appeal  (beauty). As such it commands universal legitimacy. It is the seeker's objective.
 
 **Identity Stack**
  A layered conceptual model of identity including cryptographic (wallets, blockchain), semantic (domains, digital handles, semper idem), and human (personal, social) layers, used to anchor ethical and coordinated action in digital systems. Metaphorically this is Dial Square
@@ -81,6 +82,9 @@ IA form of holistic and intentional agency that is systemically aware. It operat
 ------
 
 ## L
+
+**Legitimate**
+That which lives up to a consensus of expectations held at large by those with agency, namely the sentient and is extended to that which has meets systemic expectations objectively measured and accounted for over time. Legitimacy may be jurisdictionally bounded however to the degree it is universally acknowledge it also commands relative prestige and acclaim. Compliance is irrelevant
 
 **Le Prix**
  French for “The Price,” used in the essay to signify the genesis of legitimate global consensus—a valuation derived from coordinated, ethical interaction rather than brute-force imposition.
@@ -98,6 +102,9 @@ IA form of holistic and intentional agency that is systemically aware. It operat
 ------
 
 ## S
+
+**Salary**
+Compensation for the labour of those capable of taking and executing instructions from a superior in a hierarchical structure. A boy becomes man by becoming worth his salt when he understand clear distinctions at work between right and wrong. Derived from the Latin Salarium (salt) paid as wage to Rome's soldiers. 
 
 **Self-Sovereignty**
 Autonomy over one’s own decisions, life, and outcomes; moral and practical independence requiring a radical assumption of responsibility and personal accountability for well-being and persistence necessitating self-awareness and purpose.
@@ -127,7 +134,7 @@ A method of problem-solving or improvement by the strategic removal of elements,
 ## Y
 
 **Yoga / Yoga Element**
-An awareness discovered through divination (introversion) of the true connection or yolk that binds the self to creation via humanity through creative behaviour (one's truth from utility - *Calling*). 
+An awareness discovered through divination (introversion) of the true connection or yolk that binds the self to creation via humanity through creative behaviour (one's truth from utility - *Calling). 
 
 ------
 

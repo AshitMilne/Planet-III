@@ -1,0 +1,1 @@
+A metaphor that makes substantive through reference to *element*  the thread that yolks the self to the commons and thence creation. Santosha (sufficient satisfaction or contentment that is content which is meant - i.e. intentional and substantive - संतोष) is derived through the alignment of the self with the Universal - the *one* which constitutes *all*.

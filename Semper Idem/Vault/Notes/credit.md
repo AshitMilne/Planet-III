@@ -1,0 +1,1 @@
+A general sense of appreciation or gratitude felt by one who has been creative. Time well spent in hindsight is immeasurably satisfying. In the final analysis purely notional and felt rather than paid as token or even as compliment.

@@ -1,1 +1,1 @@
-An awareness discovered through divination (or contemplation) of the connection or yolk that binds the self to creation via humanity through creative behaviour (one's truth from utility discovered incrementally - _Calling).
+An awareness discovered through divination (or contemplation) of the connection or yolk that binds the self to creation via humanity through creative behaviour (one's truth from utility discovered incrementally - Calling).

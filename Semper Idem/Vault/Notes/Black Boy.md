@@ -1,0 +1,1 @@
+Shorthand for a hard-line militant masculine charisma that intuitively demands insurgent rigour in the expression of  anarchist aesthetic and objectively high performing engines or systems.  Che Guevera, Imran Khan, Yukio Mishima, Steve Jobs, John F. Kennedy, Sparta, Viking, Maori, Seminole, Apache, English (Jacobite *and* Roundhead) are exemplary.
