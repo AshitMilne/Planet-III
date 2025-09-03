@@ -628,6 +628,27 @@ header, .context-menu, .megamenu-content, footer{
 
   <hr>
   <button id="connect">Connect Wallet</button>
+
+<script src="https://cdn.jsdelivr.net/npm/@solana/wallet-adapter-base@latest/lib/index.iife.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@solana/wallet-adapter-wallets@latest/lib/index.iife.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@solana/wallet-adapter-react-ui@latest/lib/index.iife.js"></script>
+<script>
+  const connectBtn = document.getElementById("connect-wallet-btn");
+
+  connectBtn.addEventListener("click", async () => {
+    if (window.solana) {
+      try {
+        const resp = await window.solana.connect();
+        alert("Connected wallet: " + resp.publicKey.toString());
+      } catch (err) {
+        console.error(err);
+      }
+    } else {
+      alert("No Solana wallet found. Please install Phantom, Glow, or Solflare.");
+    }
+  });
+</script>
+
   <p id="status"></p>
 
   <script type="module">
