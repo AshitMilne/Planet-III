@@ -1,3 +1,14 @@
-# Welcome to Planet III
+# Planet III
 
-This is a test page to make sure Eleventy is working.
+>## Semper Idem ##
+>
+>### Dial Square ###
+>
+>#### Stone Rose ####
+>#### Hour Glass Redcurrant ####
+>#### The Yoga Element ####
+
+**Act III**
+
+Toronto, Canada 2025
+
