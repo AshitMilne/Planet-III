@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f30b04f29ed52987",
@@ -165,9 +164,17 @@
   },
   "active": "5abfa861d5cdfc6e",
   "lastOpenFiles": [
+    "Machina.md",
+    "Tagged Essays/2. Machina - Planet Coordinates.md",
+    "Tagged Essays/1. Genesis - The Planet Begins Again.md",
+    "Notes/Sine Qua Non.md",
+    "Tagged Essays/0. Deus - The Universal.md",
+    "Notes/Stone Rose.md",
+    "Tagged Essays/Lexica.md",
+    "Untitled.base",
+    "Notes/anti-heritage.md",
     "Untitled.canvas",
     "Images/ChinaKanji.png",
-    "Untitled.base",
     "Planet - Act III - God Fodder/1. Genesis - The Planet Begins Again.md",
     "ordinance.md",
     "ordination.md",
@@ -186,13 +193,6 @@
     "commons.md",
     "[[commons.md",
     "brute-force derivation.md",
-    "anti-heritage.md",
-    "Bitcoin.md",
-    "2025-08-24.md",
-    "Untitled 1.md",
-    "Planet - Act III - God Fodder",
-    "Lexica.md",
-    "Untitled.md",
-    "Untitled 2.md"
+    "Planet - Act III - God Fodder"
   ]
 }
