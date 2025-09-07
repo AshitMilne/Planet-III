@@ -1,0 +1,1 @@
+In opposition to federalism, a confederation (e.g. Canada) devolves power substantially to provincial or county governance. Decentralization manifests and multi-centredness and ultimately self-sovereignty (centredness) that aligns universally (in contrast to self-centredness) to partner(s), communities and Creation (or the ecology).

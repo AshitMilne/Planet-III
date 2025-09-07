@@ -1,1 +1,1 @@
- A decentralized digital currency and transaction protocol that emerged in 2009, serving as a model for objective ordering of value and coordination beyond traditional sovereign-controlled monetary systems.
+A decentralized digital currency and transaction protocol that emerged in 2009, serving as a model for objective ordering of value and coordination beyond traditional sovereign-controlled monetary systems.

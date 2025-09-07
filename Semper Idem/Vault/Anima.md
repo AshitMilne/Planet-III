@@ -1,0 +1,1 @@
+Is the jolly good ape aspect of humanity capable of the five dimensioned (emotional) intelligence blob which constitutes love and reconciles it with the flora and fauna who though capable of love can imagine no future with or without it. Those dimensions are emotional connection, empathy, clock time, memory and shared purpose.

@@ -8,6 +8,9 @@ A third 'elder' phase of life forward-looking and committed to the future synthe
 **Anarchy**
 An emergent and dynamic order, manifesting without centralized coordination through a network or ecology through identification of objective truth and aesthetic (minimal) purpose or utility in a specific context. It contrasts with chaos: a self-evident disorder and incongruity.
 
+**Anthropocene**
+The **Anthropocene** is our geological epoch. It is defined by the significant and lasting impact of human activity on Earth's geology, climate, and ecosystems. It confirms with finality that humanity is a dominant force of change on the planet, rivaling natural geological processes. God put us in the scene and it was not enough. We responded that we wanted to *feel* 'seen'.
+
 **Anti-heritage**
  The accumulation of material or cultural preoccupations that degrade emotional, social, or environmental well-being; the erosion of relationships and institutions through overconsumption or neglect of ethical equilibrium.
 
@@ -15,17 +18,18 @@ An emergent and dynamic order, manifesting without centralized coordination thro
 Not merely the denial of gods, but the refusal to posit a fundamental separation between creator and creation. Non-dualist traditions such as Taoism, Advaita Vedanta, and Buddhism operate within this frame, maintaining depth without recourse to a deity apart from the world. Pagan and animist systems, by contrast, may be read as entropic proliferations of deities arising from the tension between dualist and non-dualist worldviews.
 
 ------
-
 ## B
 
 **Bitcoin**
- A decentralized digital currency and transaction protocol that emerged in 2009, serving as a model for objective ordering of value and coordination beyond traditional sovereign-controlled monetary systems.
+A decentralized digital currency and transaction protocol that emerged in 2009, serving as a model for objective ordering of value and coordination beyond traditional sovereign-controlled monetary systems.
+
+**Black Boy**
+Shorthand for a hard-line militant masculine charisma that intuitively demands insurgent rigour in the expression of  anarchist aesthetic and objectively high performing engines or systems. Oliver Cromwell, Thomas Edward Lawrence, Josip Tito, Gamal Abdel Nasser, Che Guevera, Fidel Castro, Imran Khan, Yukio Mishima, Steve Jobs, Sparta, Viking, Maori, Seminole, Apache, English (Jacobite *and* Roundhead) are exemplary. Bauhaus and Zen aesthetic are culturally representative of the ethos. It demands that You be key in response to Corporate White (collar) boy p
 
 **Brute-force derivation**
- A computational or systemic approach relying on exhaustive trial-and-error rather than coordinated, ethical, or principle-driven design. In the essay, this is contrasted with holistic, coordinated approaches to value and governance.
+A computational or systemic approach relying on exhaustive trial-and-error rather than coordinated, ethical, or principle-driven design. In the essay, this is contrasted with holistic, coordinated approaches to value and governance.
 
 ------
-
 ## C
 
 **Commons**
@@ -33,6 +37,9 @@ A structured set of shared and collectively owned resources, rules, and institut
 
 **Commonwealth**
 Synonym for the Commons or commonweal. A structured set of shared resources, rules, and institutions through which individuals coexist and interact. Includes both societal governance structures and natural systems; the ethical anchor for human coordination. The addition of weal or wealth implies a currency of culture and its notional equivalent, money is in common use, cycling continuously through it.
+
+**Confederation**
+In opposition to federalism, a confederation (e.g. Canada) devolves power substantially to provincial or county governance. Decentralization manifests and multi-centredness and ultimately self-sovereignty (centredness) that aligns universally (in contrast to self-centredness) to partner(s), communities and Creation (or the ecology).
 
 **Consciousness**
 A state of awareness tied to the idea of a universal or divine mind particularly in states of 'flow' wherein one is deeply immersed in the current - a manifestation that is both both instant and constant.
@@ -46,6 +53,9 @@ A state of awareness tied to the idea of a universal or divine mind particularly
 **Creation**
 A synonym for the ecology or nature of ‘the environment,’ flowing beyond personal or sovereign boundaries. Used throughout these essays (semper idem) to highlight creative behavior by the self and commons as a means to align outcomes and address the tragedy of the commons.
 
+Centralization
+The centredness felt when decision-making returns to one's *legitimate* self-sovereign core from various peripheral nodes including sovereign and hegemonic. The realization of philosophical anarchy as practical autonomy. The circumstance wherein what one has to offer is accepted by the commons and what one receives is self-determined.
+
 ------
 
 ## E
@@ -57,7 +67,6 @@ A synonym for the ecology or nature of ‘the environment,’ flowing beyond per
  Complexity or apparent chaos in human, societal, or systemic behavior. Not simply disorder, but the fragmentation that provides the substrate for new patterns, coordination, and creative opportunity.
 
 ------
-
 ## G
 
 **Genesis**
@@ -69,18 +78,24 @@ A synonym for the ecology or nature of ‘the environment,’ flowing beyond per
 **God**
 Generally God is framed as a deity: custodian, guardian and protector. Innocents (the young or those who have yet to learn the capacity for emotional self-restraint) are, in complex societies, are often at first instructed ethics in simple terms of good and bad behaviour being rewarded and punished by God to effect the desired behaviour.
 
+------
+# I
+
 **Information Technology (IT)**
 The systems, protocols, and networks facilitating data transmission, computation, and coordination among individuals and institutions. In the essay, IT is positioned as a catalyst for societal evolution and the emergence of legitimate value systems.
 
 **Intelligence**
 A form of holistic and intentional agency that is systemically aware. It operates objectively (truth) and manifests aesthetic appeal  (beauty). As such it commands universal legitimacy. It is the seeker's objective.
 
-
 **Identity Stack**
  A layered conceptual model of identity including cryptographic (wallets, blockchain), semantic (domains, digital handles, semper idem), and human (personal, social) layers, used to anchor ethical and coordinated action in digital systems. Metaphorically this is Dial Square
 
 ------
+## J
+**Jack**
+The mythical lad, master of none is the upwardly mobile spirit who amounts to a hill of beans - a mound that lifts all boats. If he stalks it's the indolent giant. His is the prospect of a pearl from oyster, grist from the mill collected. Quietly casts in the river or pans for the prospect for prosperity. Quiet soldier of fortune is the discussive and adventurous spirit of Dick Whittington and Jack London. In a suite there is no female equivalence - this is archetype of the penitent soldier and priest serving a higher order than the household in civilization he serves sovereign duality (King and Queen) in the service of Creation.
 
+------
 ## L
 
 **Legitimate**
@@ -90,37 +105,39 @@ That which lives up to a consensus of expectations held at large by those with a
  French for “The Price,” used in the essay to signify the genesis of legitimate global consensus—a valuation derived from coordinated, ethical interaction rather than brute-force imposition.
 
 ------
+## N
 
+**Nakamoto Consensus**
+From Naka meaning middle and that which is derived from exchange of due consideration and Moto meaning base. Compromise to reach price settlement without transparency on innate value implies a loss to the coinbase (the finite reality of the planet). This technical debt is to be settled through the evolution monetary governance and eventually reconciled as fiscal rectitude. It is the matter constituting the recovery of MEV (Maximum Extractable Value) of priority transactions that meet a higher standard of rigour than merely the ability to pay for prioritization as we prove our stake to the finite reality of our planet. The path to consensus extends as a series of blocks into an *internal* horizon represented an infinitely divisible whole of extracted *alpha*.
+
+------
 ## O
 
 **Ordinateur / Ordination / Ordinance**
-
 - *Ordinateur*: French term for “computer,” implying systemic calculation, coordination, and coherent outcome rather than brute-force processing.
 - *Ordination*: Conferring of order, either in religious or systemic sense; the ethical structuring of collective action.
 - *Ordinance*: A law or regulation enacted by a local authority to organize specific matters within a jurisdiction.
 
 ------
-
-## S
-
-**Salary**
-Compensation for the labour of those capable of taking and executing instructions from a superior in a hierarchical structure. A boy becomes man by becoming worth his salt when he understand clear distinctions at work between right and wrong. Derived from the Latin Salarium (salt) paid as wage to Rome's soldiers. 
-
-**Self-Sovereignty**
-Autonomy over one’s own decisions, life, and outcomes; moral and practical independence requiring a radical assumption of responsibility and personal accountability for well-being and persistence necessitating self-awareness and purpose.
-
-**Synchronicity**
-Meaningful coincidences that seem to defy causality, often perceived as signs or patterns; experiences where questions become affirmations of what is deeply known.
-
-------
-
 ## R
 
 **Ripple**
 The metaphorical effect of individual or transactional action extending into the commons and creation, creating consequences beyond the immediate act.
 
 **Regenerative Systems**
- Systems designed to sustain, amplify, or restore value, rather than deplete resources or well-being, applying to economics, governance, and ecological contexts.
+Systems designed to sustain, amplify, or restore value, rather than deplete resources or well-being, applying to economics, governance, and ecological contexts.
+
+------
+## S
+
+**Semper Idem**
+Latin for constant and unchanging this application of the term allows for the evolution of personality and character as one journeys through a saeculum - it is an abbreviation of *Semantic Perimeter of Identity Embodied*. In short this is identity abstraction or the encapsulation digitally of an identity's personality in letters in both sense.
+
+**Stone Rose**
+A metaphor for the layers of habits that are put or pat down by a person that  dictate behaviour. These are analogous to an archeological mound a tel (תל) or a tal (تَلّ) that denotes layers of human settlement. A culture rose, flowered and left its mark in stone. In the context of Semper Idem they  combine and mishpat (מִשְׁפָּט) mishtal (מִשְׁתָּל) to create a mound placed as a focal point for order, rule, law or justice (tal/tel) and so, culture if  tended but chaos if not - mishmash (in Yiddish מישמאַ)
+
+**Synchronicity**
+**Synchronicity** are meaningful coincidences that seem to defy causality, often perceived as signs or patterns; experiences where questions become affirmations of what is deeply known. These may be seen as fragments of our collective semantic perimeter *semper idem* as it pixelate for an instance into view through careful curious attention without followed by the still introspection within of a meditative practise as the symbols of our collective consciousness. It manifests as a religious or profoundly spiritual moment.
 
 ------
 
@@ -137,7 +154,6 @@ A method of problem-solving or improvement by the strategic removal of elements,
 An awareness discovered through divination (introversion) of the true connection or yolk that binds the self to creation via humanity through creative behaviour (one's truth from utility - *Calling). 
 
 ------
-
 ## Z
 
 **Zeitgeist**

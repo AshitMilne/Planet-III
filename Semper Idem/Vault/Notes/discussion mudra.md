@@ -1,0 +1,1 @@
+Gesture struck during contemplation acting as a placebo to affect or influence an outcome. The discussion mudra relevant for this corpus is to seek equivalence or self-similarity of the self to creation and through the symbols distilled in language and momentarily stilled the commons of which the contemplative is a part.
