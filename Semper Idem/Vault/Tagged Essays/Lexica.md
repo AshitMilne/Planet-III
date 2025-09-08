@@ -1,12 +1,14 @@
-# **Glossary**
 
 ## A
 
 **Act III**
-A third 'elder' phase of life forward-looking and committed to the future synthesizes prior reflection (a cycling of apprehension and introversion) to apply semper idem to societal evolution.
+A third 'elder' phase of life forward-looking and committed to the future synthesizes prior reflection (a cycling of apprehension and introversion) to apply *semper idem* to societal evolution. It begins approximately at 60 and extends as a natural life and circumstances allow.
 
 **Anarchy**
 An emergent and dynamic order, manifesting without centralized coordination through a network or ecology through identification of objective truth and aesthetic (minimal) purpose or utility in a specific context. It contrasts with chaos: a self-evident disorder and incongruity.
+
+**Anima**
+Is the jolly good ape aspect of humanity capable of the five dimensioned (emotional) intelligence blob (irregularly shaped whole) which constitutes love and reconciles it with the flora and fauna who though capable of love can imagine no future with or without it. Shorn of it he is is a self-centred Machina (without *Dei*) which like corporatism and cancer grows for growth's own sake. Those dimensions are emotional connection, empathy, clock time, memory and shared purpose.
 
 **Anthropocene**
 The **Anthropocene** is our geological epoch. It is defined by the significant and lasting impact of human activity on Earth's geology, climate, and ecosystems. It confirms with finality that humanity is a dominant force of change on the planet, rivaling natural geological processes. God put us in the scene and it was not enough. We responded that we wanted to *feel* 'seen'.
@@ -24,7 +26,7 @@ Not merely the denial of gods, but the refusal to posit a fundamental separation
 A decentralized digital currency and transaction protocol that emerged in 2009, serving as a model for objective ordering of value and coordination beyond traditional sovereign-controlled monetary systems.
 
 **Black Boy**
-Shorthand for a hard-line militant masculine charisma that intuitively demands insurgent rigour in the expression of  anarchist aesthetic and objectively high performing engines or systems. Oliver Cromwell, Thomas Edward Lawrence, Josip Tito, Gamal Abdel Nasser, Che Guevera, Fidel Castro, Imran Khan, Yukio Mishima, Steve Jobs, Sparta, Viking, Maori, Seminole, Apache, English (Jacobite *and* Roundhead) are exemplary. Bauhaus and Zen aesthetic are culturally representative of the ethos. It demands that You be key in response to Corporate White (collar) boy p
+An underdog hard-line militant masculine charisma that intuitively demands insurgent rigour in the expression of  anarchist aesthetic and objectively high performing engines or systems regardless of the prospect for success. It is the anima turned animus in the modern world. Thomas Edward Lawrence, Josip Tito, Gamal Abdel Nasser, Che Guevera, Fidel Castro, Imran Khan, Yukio Mishima, Steve Jobs, Tottenham Hotspur, Sparta, Viking, Maori, Seminole, Apache, English (Jacobite *and* Roundhead) are exemplary. Ligne Claire, Bauhaus and Zen aesthetic are representative of the ethos. It demands that you be key - the POM - in response to Corporate White (collar) boy POL.
 
 **Brute-force derivation**
 A computational or systemic approach relying on exhaustive trial-and-error rather than coordinated, ethical, or principle-driven design. In the essay, this is contrasted with holistic, coordinated approaches to value and governance.
@@ -105,6 +107,12 @@ That which lives up to a consensus of expectations held at large by those with a
  French for “The Price,” used in the essay to signify the genesis of legitimate global consensus—a valuation derived from coordinated, ethical interaction rather than brute-force imposition.
 
 ------
+## M
+
+**Money**
+Notionally this is food or its caloric equivalents (shelter and clothing as required). It needs to be eaten, planted as seed or tended as cattle. It spoils if stockpiled or neglected: it will be subject to debasement or become available for illicit and/or unethical behaviour. Paper cash has this quality. Like crop and husbandry money requires a boundary in order to be well-governed. This boundary forms a Commons or a Sovereign jurisdiction and the 'crop's yield maybe seen as the 'risk-free' rate.
+
+------
 ## N
 
 **Nakamoto Consensus**
@@ -126,6 +134,9 @@ The metaphorical effect of individual or transactional action extending into the
 
 **Regenerative Systems**
 Systems designed to sustain, amplify, or restore value, rather than deplete resources or well-being, applying to economics, governance, and ecological contexts.
+
+**Regnum Dei**
+Latin for Kingdom of god encapsulates whole trifecta of governance (). Self-sovereign is common (regular) man, in (numbers) collective in the midst of *Dei* (God) which is diverse, equitable and inclusive in his realm to all. The Japanese character for country (国) illustrates the bounded reality of material transaction as the trifecta unite to manifest Regnum Dei
 
 ------
 ## S

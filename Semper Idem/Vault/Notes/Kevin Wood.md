@@ -1,0 +1,1 @@
+Pseudonymous aggregation to represent HGR this is Que Vin (what wine) and wood naturally 'left' upright. Used to create a feedback loop to generate an incoming signal on social media. This is an experimental idea that tests weirdness in the Digital Commons (red room qualities - simulacra and simulation) and inferable connection.
