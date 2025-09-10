@@ -1,0 +1,1 @@
+The discussion mudra frames the 'OK' gesture as the contemplative sits in meditation. It seeks equivalence (three fingers) to seek and hold the whole in quietude. OK Computer as another way to look at intelligence - as Deus En Machina - a virtual machine in the hands of one animated with the dimensions of love constituting anima and shorn of animus
