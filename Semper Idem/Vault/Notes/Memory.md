@@ -1,0 +1,1 @@
+A shared ledger, if you will, which immutably expresses what is commonly and transparently known and accepted as truth

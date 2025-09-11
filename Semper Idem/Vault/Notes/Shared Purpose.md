@@ -1,0 +1,1 @@
+We gravitate around a distilled outcome becoming from many one - [[E Pluribus Unum]]*. This is our notional capital. Whatever the legal *ownership* of capital in a very real sense it is a shared utility because we cannot escape some degree of assessment for our choices given our shared experience on a finite planet with billions of aspiring human beings

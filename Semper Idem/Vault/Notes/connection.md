@@ -1,0 +1,1 @@
+A shared notion of what constitutes a high-fidelity commitment.

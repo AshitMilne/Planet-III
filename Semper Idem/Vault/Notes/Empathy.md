@@ -1,0 +1,1 @@
+an understanding of the things that makes the 'other' distinct as a stakeholder from oneself

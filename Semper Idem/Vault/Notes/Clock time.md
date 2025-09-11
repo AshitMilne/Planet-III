@@ -1,0 +1,1 @@
+ A shared sense of what constitutes time (and critically what time is worth) in context and the objectives or milestones that a journey of shared time (roadmap) entails

@@ -1,0 +1,1 @@
+The acknowledgement of a paradigm or simulation of the universe that had broad acceptance or at least acquiescence without its acceptance as a legitimate world view. Dissonance demands internal rejection of broadly accepted institutions and frameworks (private property and regime paper cash) while behaviour pivots towards an alternative vision
