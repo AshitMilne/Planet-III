@@ -1,4 +1,4 @@
-### The Principle of the Three Decamerons
+### The Principle of Decamerons 旬
 
 The core of this system is the division of the month into three distinct 10-day segments, or **Decamerons**. These are not just time periods but phases of a cycle.
 

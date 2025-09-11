@@ -8,7 +8,10 @@ A third 'elder' phase of life forward-looking and committed to the future synthe
 An emergent and dynamic order, manifesting without centralized coordination through a network or ecology through identification of objective truth and aesthetic (minimal) purpose or utility in a specific context. It contrasts with chaos: a self-evident disorder and incongruity.
 
 **Anima**
-Is the jolly good ape aspect of humanity capable of the five dimensioned (emotional) intelligence blob (irregularly shaped whole) which constitutes love and reconciles it with the flora and fauna who though capable of love can imagine no future with or without it. Shorn of it he is is a self-centred Machina (without *Dei*) which like corporatism and cancer grows for growth's own sake. Those dimensions are emotional connection, empathy, clock time, memory and shared purpose.
+Is the jolly good ape aspect of humanity capable of the five dimensioned (emotional) intelligence blob (irregularly shaped whole) which constitutes love and reconciles it with the flora and fauna. Those dimensions are emotional connection, empathy, clock time, memory and shared purpose. Shorn of it man is a self-centred version of Machina (without *Dei*) - a paranoid android - expressing Animus which like corporatism and cancer grows for growth's own sake. 
+
+**Animus
+The masculine aspect of the feminine. Hostile and defensive it arises when rational and competent masculine energy that defends a perimeter is lost profoundly; this is the case when the Sovereign sounding ever more shrill and expressing paranoia and nativist instincts loses legitimacy. Pervasive in society when households are  bereft of men expressing feminine energy in the household, or absent altogether.
 
 **Anthropocene**
 The **Anthropocene** is our geological epoch. It is defined by the significant and lasting impact of human activity on Earth's geology, climate, and ecosystems. It confirms with finality that humanity is a dominant force of change on the planet, rivaling natural geological processes. God put us in the scene and it was not enough. We responded that we wanted to *feel* 'seen'.
@@ -17,7 +20,7 @@ The **Anthropocene** is our geological epoch. It is defined by the significant a
  The accumulation of material or cultural preoccupations that degrade emotional, social, or environmental well-being; the erosion of relationships and institutions through overconsumption or neglect of ethical equilibrium.
 
 **Atheism**
-Not merely the denial of gods, but the refusal to posit a fundamental separation between creator and creation. Non-dualist traditions such as Taoism, Advaita Vedanta, and Buddhism operate within this frame, maintaining depth without recourse to a deity apart from the world. Pagan and animist systems, by contrast, may be read as entropic proliferations of deities arising from the tension between dualist and non-dualist worldviews.
+The refusal to admit a fundamental separation between a creator and Creation (Nature). Non-dualist traditions such as Taoism, Advaita Vedanta, and Buddhism operate within this frame, maintaining depth without recourse to a deity apart from the world. Pagan and animist systems, by contrast, may be read as entropic proliferations of deities arising from the tension between dualist and non-dualist worldviews.
 
 ------
 ## B
@@ -34,14 +37,23 @@ A computational or systemic approach relying on exhaustive trial-and-error rathe
 ------
 ## C
 
+**Centralization**
+The centredness felt when decision-making returns to one's *legitimate* self-sovereign core from various core nodes. Or paradoxically the centralization of power at the sovereign and hegemonic core: the social science equivalent of a 'Black Hole' - where people need to be and are pulled towards inexorably away from those they are to represent. 
+
 **Commons**
 A structured set of shared and collectively owned resources, rules, and institutions through which individuals coexist and interact. Includes both societal governance structures and natural systems; the ethical anchor or stake for human coordination.
 
 **Commonwealth**
 Synonym for the Commons or commonweal. A structured set of shared resources, rules, and institutions through which individuals coexist and interact. Includes both societal governance structures and natural systems; the ethical anchor for human coordination. The addition of weal or wealth implies a currency of culture and its notional equivalent, money is in common use, cycling continuously through it.
 
+**Compromise**
+An imperfect settlement that splits the difference in a transaction for which a lack of transparency prevents a full accounting of due consideration. Maximum extraction of value is prevented. The Japanese character for middle is extended to represent this externalization that is negated into the commons and creation as loss. This is also the 'Ce qu'on voit et ce qu'on ne voit pas' (What is seen and What is Not Seen) of Frédéric Bastiat. In the virtual civil engineering of technology information this accumulates as 'technical' debt.
+
 **Confederation**
-In opposition to federalism, a confederation (e.g. Canada) devolves power substantially to provincial or county governance. Decentralization manifests and multi-centredness and ultimately self-sovereignty (centredness) that aligns universally (in contrast to self-centredness) to partner(s), communities and Creation (or the ecology).
+In opposition to federalism, a confederation devolves power substantially from the dense gravitational centre of a capital to provincial, municipal or county governance. Decentralization manifests as multi-centredness and ultimately self-sovereignty (centredness) that aligns universally (in contrast to self-centredness) to partner(s), communities and Creation (or the ecology).
+
+**Connection**
+A shared notion of what constitutes a high-fidelity commitment.
 
 **Consciousness**
 A state of awareness tied to the idea of a universal or divine mind particularly in states of 'flow' wherein one is deeply immersed in the current - a manifestation that is both both instant and constant.
@@ -55,8 +67,8 @@ A state of awareness tied to the idea of a universal or divine mind particularly
 **Creation**
 A synonym for the ecology or nature of ‘the environment,’ flowing beyond personal or sovereign boundaries. Used throughout these essays (semper idem) to highlight creative behavior by the self and commons as a means to align outcomes and address the tragedy of the commons.
 
-Centralization
-The centredness felt when decision-making returns to one's *legitimate* self-sovereign core from various peripheral nodes including sovereign and hegemonic. The realization of philosophical anarchy as practical autonomy. The circumstance wherein what one has to offer is accepted by the commons and what one receives is self-determined.
+**Credit**
+A general sense of appreciation or gratitude felt by one who has been creative. Time well spent in hindsight is immeasurably satisfying. In the final analysis purely notional and felt rather than paid as token or even as compliment. However potential credit (i.e. a social debit) may be expressed as a token to actuate sound governance through incentivized behaviour.
 
 ------
 
