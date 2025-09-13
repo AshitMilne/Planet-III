@@ -1,6 +1,8 @@
 ---
 layout: "base.njk"
 title: "Deus"
+date: "2025-09-13"
+tags: ["Canon"]
 series: "Sine Qua Non"
 part: 1
 ---

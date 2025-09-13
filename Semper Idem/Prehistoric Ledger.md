@@ -1,15 +1,19 @@
 ---
 layout: "base.njk"
 title: "Prehistoric Ledger"
+date: "2025-09-13"
+tags: ["Canon"]
 series: "Sine Qua Non"
 part: 5
 ---
 
 ## Introduction ##
 
+If Anima is the innately rational yet *connected* aspect of intelligence regardless of linguistic convention, i.e the anarchic intelligence    emanated in Creation (the ecology), then we approach the 'other' as uniquely embodied identity, in plain language, a person (not a role, responsibility or title). Previously we noted that Creation expresses masculine and feminine *aspects* distinct from notions of gender or sex in all life. As humans we, compete, explore, press into adventures. However we also nurture, hold, mentor, encourage, long to be at home. These are not mutually exclusive traits nor are they paradoxes. We hold these seemingly contradictory aspects just as we in turn exhale and inhale to seek balance. We each have bespoke ratios of these traits and we imagine that we may guide each other to express our two aspects in perfect balance as a species, as a whole.
 
+This piece aims to reconcile notions of competition with anima that *exclude* animus - hostility and defensiveness (i.e. envy or vindictiveness). In our pastimes and games  we set forth rules and boundaries that define the parameters for legitimate behaviour (truth). Invariably it's when we emphasize the end result that beauty is removed from the spectacle.
 
-
+Any exploration of prehistoric reality is conjecture but we remain unchanged in a foundational sense for 50,000 to 100,000 years. The close-knit communities of our distance past were naturally inclined to expressing anima both at home, by the hearth as well as away in the wilderness - collaborating to scale their tribe. Animus was the impulse of the challenge - an exception to the rule when surviving at any cost became an imperative: a tribes introspection through internal dialogue having concluded keeping the tribe 'whole' precluded discovery of *equivalence* with the 'other'. In a sense a tribes capital had been completely depleted and its balance (or equilibrium) hacked. 
 
 
 

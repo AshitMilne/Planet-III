@@ -1,6 +1,10 @@
-# Affluence Pedaling #
+---
+layout: "base.njk"
+title: "Affluence Pedaling"
+series: "Daily Planet"
+---
 
-![FLXBabyMaker](C:\Users\Ash\Documents\Planet III\Semper Idem\Vault\Images\FLXBabyMaker.jpg)
+![](./assets/FLXBabyMaker.jpg)
 
 Above: Using my FLX Babymaker to show off my driveway and front yard (I planted those trees twenty years ago or so)
 
@@ -66,9 +70,11 @@ In my own life, I have looked and felt the best when I've owned a bicycle and us
 
 After Uni, I headed off to Japan where I whizzed through the streets and hillsides of Wakayama Prefecture or sub-urban Tokyo carving myself into wicked shape. I was on a bike at grad school in Ottawa coursing through the lanes along the Rideau Canal or tricking down campus steps.
 
-The term *Ars Technica* or Art of Technology implies that profoundly important technology can instill the kind of long-lived affection of emotional attachment. That's because good design is an intrinsic part of highly functioning apparatus. We can become highly possessive of our favourite kit as individuals but also as a people or more broadly as humanity. Trains are one that elicits jealous affection from a now tiny but still persistent group of trainspotting anoraks. Certain model of vehicle which are particularly well-made or just seem to have a personality about them - the Toyota Pickup for example or the Mini Cooper. Then there's the bicycle. Substantively unchanged, for some 150 years. The bicycle as it is now was first made in England when John Kemp Starley invented the Rover Safety Bicycle (below).
+The term *Ars Technica* or Art of Technology implies that profoundly important technology can instill the kind of long-lived affection of emotional attachment. That's because good design is an intrinsic part of highly functioning apparatus. We can become highly possessive of our favourite kit as individuals but also as a people or more broadly as humanity. Trains are one that elicits jealous affection from a now tiny but still persistent group of trainspotting anoraks. Certain model of vehicle which are particularly well-made or just seem to have a personality about them - the Toyota Pickup for example or the Mini Cooper. Then there's the bicycle. Substantively unchanged, for some 150 years. The bicycle as it is now was first made in England when John Kemp Starley invented the [Rover]: https://en.wikipedia.org/wiki/Safety_bicycle
 
-![img](//img1.wsimg.com/isteam/ip/674c7aa6-fcc2-4283-a438-de467701f51c/safetybicycle.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280)
+.
+
+
 
 ## Black Boy On Moped ##
 
