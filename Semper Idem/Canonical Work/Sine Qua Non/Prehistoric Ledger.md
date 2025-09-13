@@ -1,23 +1,35 @@
-# The Prehistoric Ledger #
+---
+layout: "base.njk"
+title: "Prehistoric Ledger"
+series: "Sine Qua Non"
+part: 5
+---
 
-I feel beneath the white
-There is a redskin suffering
-From centuries of taming
-I feel beneath the white
-There is a redskin suffering
-From centuries of taming
+## Introduction ##
 
-No method in our madness
-Just pride about our manner
-Antpeople are the warriors
-Antmusic is the banner
 
-A new royal family, a wild nobility
-We are the family
-A new royal family, a wild nobility
-We are the family
 
-~ Adam Ant ([Kings of the Wild Frontier](https://www.youtube.com/watch?v=5hE)) 
+
+
+
+
+> I feel beneath the white
+> There is a redskin suffering
+> From centuries of taming
+> I feel beneath the white
+> There is a redskin suffering
+> From centuries of taming
+
+> No method in our madness
+> Just pride about our manner
+> Ant people are the warriors
+> Ant music is the banner
+
+> A new royal family, a wild nobility
+> We are the family
+> A new royal family, a wild nobility
+> We are the family
+> ~ Adam Ant (Kings of the Wild Frontier) 
 
 ## Power Law ##
 

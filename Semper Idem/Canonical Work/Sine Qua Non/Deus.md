@@ -1,4 +1,9 @@
-# Sine Qua Non 0: Deus #
+---
+layout: "base.njk"
+title: "Deus"
+series: "Sine Qua Non"
+part: 1
+---
 
 ## Introduction ##
 
@@ -11,7 +16,6 @@ Living my life at the core of western hegemonic power, even born in the heart of
 I turn for inspiration, as many who possess the spirit of the west, to the natural world where anarchy reigns supreme. As we design systems for human affairs, we may look to an abstract form of biomimicry, gazing at nature and without trying to name or categorize what appears, we may take in the whole of its substance. We will note that in nature, agents are attuned to place and context, continuously transmitting and receiving signals that allow them to coexist in symphonic harmony. The order we perceive is not imposed but emerges - profoundly complex but somehow orderly - in a word anarchic (versus chaotic and haphazard). Higher-order species may still compete for territory and dominance, both across and within collectives. Yet these tensions are balanced by mechanisms that restore equilibrium swiftly so that we scarcely even perceive an imbalance at all. Prey and predator are one and the same while duality is left to night and day. It is less collaboration than it is synergy, less negotiation than symbiosis — a “give and go” of instinctive generosity, an automaticity of shared persistence rather than individual subsistence. 
 
 This first piece explores countervailing ripples - behaviours or habits established in the shadow of atomic science that offset each other because we aim to maximize our take personally in one sphere (poorly because 'more is often less') and then something else that is offered in the public sphere (the commons because the burden of paying for it is shared). We fail to see the connection between them and the potential for betterment through reductive methods. This leave us as profoundly dissatisfied. As individuals we look upon our lives with gaping dissatisfaction, collectively in the form of our governments we struggle with mounting debt. Creation meanwhile has its rhythms and rhymes. Its verse, six times rehearsed, will burn to a cinder our third stone satellite - ever less an Eden worthy of the Sun's sweetness and light.
-
 
 ## Deus Ex Machina ##
 
@@ -37,7 +41,7 @@ I can't believe in you
 Did you make mankind after we made you
  ~ XTC (Dear God)  
 
-God speaks to human beings through many vectors…but nowhere with such detail and grace and joy as through creation - when we destroy nature we diminish our capacity to sense the divine - [Robert F Kennedy Jr](https://www.congress.gov/118/meeting/house/116258/witnesses/HHRG-118-FD00-Bio-KennedyR-20230720.pdf). 
+God speaks to human beings through many vectors…but nowhere with such detail and grace and joy as through creation - when we destroy nature we diminish our capacity to sense the divine - Robert F. Kennedy Jr.
 
 In a conversation with long-form podcast creator Lex Fridman, Kennedy who as I write occupies the Health file in the second Trump Administration goes on to talk about Jung's reconciliation of faith and science and experiences of ‘synchronicity’ - the proliferation of happenstance or coincidence that occurs in some lives such that, say, even a hardcover opened at a random page or practically any show you watch infers some truth; it’s God tapping us on the shoulder. God is consciousness itself - we are in the mind of God, says Mr. Kennedy. The rational will object that patterns naturally appear when one is determined to see them - we look for what we *want* to see. But it is a reasonable idea nevertheless that we are a connected. Even at an atomic level odds are that you contain or once did, at any rate, a particle from every fauna and flora that ever was. Our genetic code is virtually identical the variances mere rounding errors. So it's extraordinary how disparate our priorities and worldviews are.  Yet we share a zeitgeist and the most compelling narratives played out at large in the world are trenchant echoes or *currents* of our most enduring and cherished distilled legacy - those expressed in the great works of our wisdom teachers and taught by grandmothers the world over in plain spoken common sense. The essential strands of thoughts that carry our collective on this orb are carried by ones who express through action that clarified truth. Clarity that burns clean like ghee in times when even wholesome butter's opacity is cause to suspect its purity and value at *any* price.
 
@@ -49,15 +53,12 @@ Mr. Kennedy, an accomplished attorney practiced in Environmental Law comes with 
 
 He seeks organic and earthy solutions to what ails us and would sooner get to the root and heart of the matter than fiddle and nitpick around the edges. In an age when people tire of having their collective identity (be it country or political philosophy) used to sell conflict at home and abroad, he offers a modern, humanist echo of the question posed by his uncle 'Ask not what your country can do for you-ask what you can do for your country'. John Kennedy's quiet addendum was answered in action with the Peace Corps - a substantive manifestation of Tom Paine's refrain 'the world is my country, to do good is my religion'. In the post-imperial era, it was a suitable follow-up to the Marshall Plan, and America's equitable and democratic response to the Suez Crisis. All striking the right notes even as discordant ones rained on Persia, Latin America, and of course Vietnam - almost as though America sought to split the difference between 'open' markets and to 'free' people.
 
+## L'etat Est Moi ##
 
-
-**L'etat Est Moi**
-
-When I am king
-You will be first against the wall
-With your opinion
-Which is of no consequence at all
-
+> When I am king
+ You will be first against the wall
+ With your opinion
+ Which is of no consequence at all
 ~ Radiohead (Paranoid Android)
 
 To free people has come to mean to affect Democracy which seeks nothing if not to quell scarcity in our world as a foundation for subsequent layers of self-actualization. Nietzsche claimed we killed God. What he meant was that through science, and democracy - a process by which we reach consensus on *how* we do what we do, we came to believe we were capable of harnessing the power of creation and through it to manufacture abundance for all. But if take an honest look 
@@ -70,7 +71,7 @@ What I have done essentially is 'fork' or separate from the typical life of a ma
 
 
 
-**The World Without and Its Manufactured Poverty**
+## The World Without and Its Manufactured Poverty ##
 
 The things that ail us is that we demand that the very things that nature demands remain scarce be made abundant. We refuse to obey creation. Again, we have killed God precisely so that we do not have to obey hymn. 
 
@@ -84,7 +85,8 @@ Now I don't for a minute suggest there isn't a place for the artificial and synt
 
 
 
-**Creature Comforts** 
+
+## Creature Comforts ##
 
 Regardless of religious tradition, anyone truly *being* in the midst of creation - on a mountain top before snowboarding it or looking out onto a lake in the deep stillness of the backcountry is apprehending the natural peace, order and good government of anarchy. No constant gardener is required to tend and maintain these spaces. Even the trails are well worn by bears, wolves, foxes, moose and deer and they carve a sensibly efficient path through the backcountry terrain. No discernible architect is required to inspect and certify this space. All of creation's structures are stable and it's voice is always sound - signal that is never noise. 
 
