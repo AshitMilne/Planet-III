@@ -2,12 +2,12 @@
 Imagine a real-time, on-chain version of Palantir Foundry—without centralized orchestration—where trusted identities transact freely across community, corporate, and sovereign boundaries. Here, data flows without censorship, governed transparently by rules that align individual self-interest with the commons. We call this Intelligent Capital: sound information (like good money) moving at the speed of light. It may not be immediately obvious but this is the stuff that twentieth-century anarchist dreams were made of. It paves the way to reimagining civil and economic governance by fully integrating good-faith pluralism and opportunism into our global reality.
 
 ##  Canon ##
-Canonical frameworks are explained are explained in a set of four series which explore core concepts:
+Canonical frameworks are explained are explained in a set of four myth-models which explore core concepts:
 
 - **Sine Qua Non**: What constitutes intelligence, how does one model it to determine priorities in a human-centric system
 - **E Pluribus Unum**:  What constitutes a token denoting value in an intelligent system
-- **Dial Square**: The sundial is rendered a unique signal in time and space with which to work reality and manufacture comfort to an subjective but legitimate degree. Three components make a semantic perimeter that embodies identity (semper idem)
-  - <u>Stone Rose</u>: an assembled identity stack or mound (tal/tel/tev) of attributes, behaviours, habits and attitudes which are interlock to express conscious flowering of personality
+- **Dial Square**: The sundial is rendered a unique signal in time and space with which to work reality and manufacture comfort to an subjective but legitimate degree. Three components embody an identity. I call mine *Semper Idem* (semantic perimeter of identity embodied) - an instance of object type Dial Square.
+  - <u>Stone Rose</u>: an assembled identity stack or mound (tal/tel/tev) of attributes, behaviours, habits and attitudes which are interlock to express conscious flowering of personality, as well as creative expression. 
   - <u>Hourglass of Redcurrant</u>: a process for distilling principles that govern optimal identity expression. Intellectual (creative) output is ultimately intellectual capital which is ultimately a common good.
   - <u>Yoga Element</u>: the principle that contentment (sufficient joy and satisfaction) occur when the self is aligned to community (Commons) and ecology (Creation)
 
