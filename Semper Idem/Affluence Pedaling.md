@@ -1,7 +1,8 @@
 ---
 layout: "base.njk"
 title: "Affluence Pedaling"
-series: "Daily Planet"
+date: "13-09-2025" 
+tags: ["Daily Planet", "Tout Sweet"]
 ---
 
 ![](./assets/FLXBabyMaker.jpg)

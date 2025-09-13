@@ -1,15 +1,10 @@
-# The Vision #
-Imagine a real-time, on-chain version of Palantir Foundry—without centralized orchestration—where trusted identities transact freely across community, corporate, and sovereign boundaries. Here, data flows without censorship, governed transparently by rules that align individual self-interest with the commons. We call this Intelligent Capital: sound information (like good money) moving at the speed of light. It may not be immediately obvious but this is the stuff that twentieth-century anarchist dreams were made of. It paves the way to reimagining civil and economic governance by fully integrating good-faith pluralism and opportunism into our global reality
+## The Vision ##
+Imagine a real-time, on-chain version of Palantir Foundry—without centralized orchestration—where trusted identities transact freely across community, corporate, and sovereign boundaries. Here, data flows without censorship, governed transparently by rules that align individual self-interest with the commons. We call this Intelligent Capital: sound information (like good money) moving at the speed of light. It may not be immediately obvious but this is the stuff that twentieth-century anarchist dreams were made of. It paves the way to reimagining civil and economic governance by fully integrating good-faith pluralism and opportunism into our global reality.
 
-#  The Foundation #
+##  Canon ##
+Canonical frameworks are explained are explained in a set of four series which explore core concepts:
 
-Compelling content delivered with urgency to articulate our challenges and opportunities is my objective. Restoring that content (as an evolving 'semantic perimeter of identity embodied' - semper idem) with a sovereign open source workflow -The Yoga Element — is a framework aligning values through an ontology (or semantic framework — 'Lingam') for one's identity stack (Stone Rose). Defining that 'philosophical framework' (a human-centric proof-of-stake architecture) — [H]our Glass of Redcurrant (HGR or 'hugger') — is the ultimate objective. Identity becomes a dynamic multi-faceted pulse with trend created by transactional data — a metric extensible to enterprise or community to assess trust and credibility in a zero-trust world. In totality this is Dial Square - a mechanism for developing personal credibility and trust; one developed through InHabit — self-sovereign trend-analysis to incentivize and align behaviour to community (the Commons) and ecology (Creation).
-
-The aim is to build a 'mill' that filters,  or perhaps rather, orders traffic to affect a more constructive front-run. The outcome being a credible and transparent prioritization of transactions and narratives, validated securely and processed in good faith. A “better ordering,” anchored in values, on Solana rails; this, versus privileged arbitrage on existing centralized (corporate) ones, we are building a top gear for the emerging fiat landscape — one founded on values to preserve value.
-
-# Born of Frustration #
-
-To articulate and implement anarchism (anarcho-syndicalism) as a governance architecture grounded in objectivity, reason, and empathy on-chain; one that pays the sovereign-self (Reg) and Commons (Num) to assume custody of Creation (Dei); to actualise productive behaviour (hour economy) sustainably (in our ecology); to manifest diversity, equity, and inclusion (DEI) for all creators great and small; a single distributive autonomous organ (Dao): A machine as a heart is (truth); an instrument as an artist (beauty). We move from the arbitrary 'Just is' to the objective 'Justice'.
-
-
-~ Ashit Milne ('Planet Come Together')
+- **Sine Qua Non**: What constitutes intelligence, how does one model it to determine priorities in a human-centric system
+- **E Pluribus Unum**:  What constitutes a token denoting value in an intelligent system
+- **Dial Square**: What are the components that make allow a semantic perimeter that embodies identity (semper idem)
+- **InHabit**: How do express behaviour by an identity to develop a view of transactional flow (dhara) to illuminate (diya) opportunities to incrementally enhance intelligence and live with with vision (drishti)

@@ -1,11 +1,13 @@
 ---
 layout: "base.njk"
 title: "Prehistoric Ledger"
-date: "2025-09-13"
+date: "13-09-2025"
 tags: ["Canon"]
 series: "Sine Qua Non"
 part: 5
 ---
+
+![](./assets/PrehistoricLedger.jpeg)
 
 ## Introduction ##
 
