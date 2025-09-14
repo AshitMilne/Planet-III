@@ -2,12 +2,17 @@
 layout: "base.njk"
 title: "Anima"
 date: "2025-09-13"
-tags: ["Canon"]
+tags: ["Regnum Dei"]
 series: "Sine Qua Non"
 part: 4
 ---
 
+![](./assets/crawford-anima.jpg)
+
+Sacred white cedar (its bark clads Haudenosaunee dwellings) at Milton's Crawford Lake grow right out of rock as if to express that primordial moment when life first appeared from stone.
+
 ## Introduction ##
+
 In short, our purpose here is to examine what constitutes a human-centric system design imbued with a natural and organic intelligence that is efficient. We use the term 'emotional intelligence' or empathy broadly in street psychology to describe a 'good people' vibe. A deeper understanding is required if we are to enable contracts with this intelligence, which is why I frame it as Anima. This piece explores Anima and the elements that constitute it. The short answer is that through an anarchist lens, crime, especially premeditated murder (which of course includes war) is a health matter (i.e., not intelligent).
 
 ## Animus ##

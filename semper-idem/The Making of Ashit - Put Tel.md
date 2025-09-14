@@ -1,6 +1,21 @@
-# The Making of Ashit Patel #
+---
+
+layout: "base.njk"
+title: "The Making of Ashit Patel"
+date: "2025-09-14"
+tags: ["Daily Planet"]
+
+---
+
+---
+
+![](./assets/tels.jpg)
+
+Above: My first passports. The clerks at the offices in London made sure to underscore the message - I was A Tel - and remind me that I was born a free man - Mister Patel, the Indian in a brave's New World; *mishpat* and *mishtal* in London's New Ham - in turn both profane and profound; lest I become a mishmash of those and irrevocably forget myself in the coming chaos.
 
 
+
+## A Mound To Something ##
 
 What befalls each man has been ordained in some way as conducive to his destiny. For we say that things *fall* to us as the masons too say that the huge squared stones in walls and pyramids *fall* into their places, adjusting themselves harmoniously to one another in a sort of structural unity
 
@@ -21,5 +36,3 @@ Leadership reveals itself first as guidance: mentorship, a firm but yielding (so
 There wasn't a better high school on Earth in 1983 than Richmond Hill High School (for a long time considered the best public high school in Ontario). RHHS. Our motto: *Sapere Aude* (Dare to Be Wise). We were the (Viking) Raiders — a tribute to a time when our country became pluralistic through the need to collaborate on newfound land five hundred years before Colon took his more southerly route into the continents of the Western Hemisphere.
 
 We know right from wrong and black from white; we won't be schooled or fooled by the unprincipled. We'll own you — mark my words. We know how to wage war without even inciting violence.
-
-~ Ashit Milne (Planet Come Together)

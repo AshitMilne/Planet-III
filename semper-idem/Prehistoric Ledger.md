@@ -15,7 +15,15 @@ If Anima is the innately rational yet *connected* aspect of intelligence regardl
 
 This piece aims to reconcile notions of competition with anima that *exclude* animus - hostility and defensiveness (i.e. envy or vindictiveness). In our pastimes and games  we set forth rules and boundaries that define the parameters for legitimate behaviour (truth). Invariably it's when we emphasize the end result that beauty is removed from the spectacle.
 
-Any exploration of prehistoric reality is conjecture but we remain unchanged in a foundational sense for 50,000 to 100,000 years. The close-knit communities of our distance past were naturally inclined to expressing anima both at home, by the hearth as well as away in the wilderness - collaborating to scale their tribe. Animus was the impulse of the challenge - an exception to the rule when surviving at any cost became an imperative: a tribes introspection through internal dialogue having concluded keeping the tribe 'whole' precluded discovery of *equivalence* with the 'other'. In a sense a tribes capital had been completely depleted and its balance (or equilibrium) hacked. 
+Any exploration of prehistoric reality is conjecture but, remaining, unchanged in a foundational sense for 50,000 to 100,000 years we may postulate with common sense as a foundation. The close-knit communities of our distance past were naturally inclined to expressing anima both at home, by the hearth as well as away in the wilderness - collaborating to scale their tribe. 
+
+Animus was the impulse of the *challenge* - a madness with method perhaps best exemplified by the Kiwi's thrilling Haka wherein the 'All-Blacks' tell their opponents in no uncertain terms that they will not partner with them today - they have an obligation to those they represent and to Creation itself to decimate them in the ritual of *good* sport. Brazil's *Capoeira* reflects a similar idea - but very differently.
+
+Pervasive through nature is the idea  that conservation of energy (capital) is tantamount especially in times of real *scarcity* It demands that peace and the search for equivalence be the *default* behaviour. 
+
+In the 'real world' however when surviving at any cost became an imperative a tribe's introspection through internal dialogue concludes that its persistence requires the decimation of the others. In a sense a tribe's store of capital had been depleted;its balance (or equilibrium) hacked it now needs to be *restored* at the another's expense while preserving what remains of its own (at this point life and the bloodline).
+
+This final segment of Sine Qua Non articulates a modern alternative for projecting apex authority: the power that comes from a self-sovereign narrative; an internal vision 'bored' into one's psyche so completely that one makes it real in the world. One takes maximal custody of the world and then through it husbands creation and the commons because the Sovereign, having lost legitimacy cannot maintain a persistent quorum among the people nor even decorum. We are transitioning to *swaraj* or self-sovereignty - anarchy.
 
 
 
@@ -36,6 +44,8 @@ Any exploration of prehistoric reality is conjecture but we remain unchanged in 
 > A new royal family, a wild nobility
 > We are the family
 > ~ Adam Ant (Kings of the Wild Frontier) 
+
+
 
 ## Power Law ##
 
@@ -82,5 +92,3 @@ Participants in Proof of Stake protocols - particularly those who have taken the
 The network secures privacy through encryption for the involved parties - but not anonymity. The anonymous - those that are faceless in any context, pre-historic or modern, have no place in a secure community (global or otherwise) - not in the context of money at least. Money is power and demands governance and oversight.
 
 *An veneration of ancient Maori temperament remains in sport - the modern proxy for conflict - the All Blacks' [Haka](https://www.youtube.com/watch?v=yiKFYTFJ_kw). There's no method to the 'madness' of their wild nobility, just a pride about their manner - they mean to subjugate their foe.
-
-~ Ashit Milne (Planet Come Together)

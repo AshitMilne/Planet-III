@@ -6,7 +6,9 @@ The core of this system is the division of the month into three distinct 10-day 
 - **The Second Decameron (Days 11-20):** Represents the middle, a period of consolidation and continuation.
 - **The Third Decameron (Days 21-30/31):** Represents the end of the cycle, and the user's interpretation, the **open segment of the character 月**. This is the most crucial phase, as it holds the most weight for the next cycle due to **recency bias**.
 
-This framework allows for the tracking of behavioral trends over time.
+When the third *decameron* closes you have sight (vision) on forward progression. The Japanese character and the word for seeing (見える) literally gives you a view on forward momentum or progress - an eye with legs.
+
+This framework allows for the tracking of behavioral trends over time and, is a fractal expressing in larger terms on life stages (Acts I, II, III)
 
 ------
 

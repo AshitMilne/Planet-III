@@ -5,7 +5,7 @@ date: "2025-09-13"
 tags: ["Daily Planet", "Tout Sweet"]
 ---
 
-2![](./assets/FLXBabyMaker.jpg)
+![](./assets/FLXBabyMaker.jpg)
 
 Above: Using my FLX Babymaker to show off my driveway and front yard (I planted those trees twenty years ago or so)
 

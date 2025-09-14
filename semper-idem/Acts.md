@@ -1,5 +1,13 @@
 # Acts I, II, III #
 
+**Summary**: Model to be developed as a foundation for how human capital is developed through (negative external 'value') internalized through tokens (as a form of UBI) to actualize and nudge behaviour. The objective is really to abolish the idea of 'work', 'vacation', 'retirement' etc: Stages of life that in any case have been imposed by industrialization (an increasingly obsolete stage of human economic development) rather than a 'natural' rhythm such as the saeculum. Over the long-term the concept is to guide people to discover, express and then extend the knowledge base and sophistication of their Calling (which in the final analysis amounts to being holistically human on earth - or an aspect thereof.
+
+*Humanism* (or non-dualism) is the ethical foundation for anarchy; it is consistent, compliant, compatible and even additive to existing faith traditions. Celebrating and *investing* in humanity is to recognize the esoteric meaning 'made in his image' and 'namaste' (the divine within me greets the divine within in you).
+
+Ideally in the existing incumbent system nothing at all should be invested in someone beyond age 30. They are paying society back for what was given them. From 30-60 they are in pay-back and 'stake' mode. From 60-90 they *should* be sufficiently capitalized and independent of support from the Sovereign. Restoring legitimacy to our institutions requires that we reverse this trend to a point at which even from 30-60 people are sufficiently capitalized and independent of the need for support through wage employment - which in my view is amounts to a public subsidy paid largely at the expense of the ecology.
+
+
+
 ### Part 1: The Formative Stage (Ages 0-30)
 
 This is the "building" phase with a **masculine bias** towards exploration and creation. The focus is on gathering a wide range of experiences and skills.
