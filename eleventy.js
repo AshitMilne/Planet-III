@@ -1,10 +1,14 @@
-module.exports = function(eleventyConfig) {
+// .eleventy.js at planet-III/
+module.exports = function (eleventyConfig) {
   return {
     dir: {
-      input: "planet-III", // The folder where your source files (like .md, .liquid) are located
-      output: "_site",            // The folder where the built website is created
-      includes: "_partials",      // The folder for your layouts and includes
-      data: "_data"               // The folder for your global data files
-    }
+      input: "Semper Idem",  // all content comes from here
+      includes: "_includes", // optional subdir inside Semper-Idem
+      data: "_data",         // optional subdir inside Semper-Idem
+      output: "_site"        // gets built into planet-III/_site
+    },
+    templateFormats: ["html", "md", "njk"],
+    markdownTemplateEngine: "njk",
+    htmlTemplateEngine: "njk"
   };
-};	
+};
