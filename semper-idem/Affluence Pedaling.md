@@ -1,11 +1,11 @@
 ---
 layout: "base.njk"
 title: "Affluence Pedaling"
-date: "13-09-2025" 
+date: "2025-09-13" 
 tags: ["Daily Planet", "Tout Sweet"]
 ---
 
-![](./assets/FLXBabyMaker.jpg)
+2![](./assets/FLXBabyMaker.jpg)
 
 Above: Using my FLX Babymaker to show off my driveway and front yard (I planted those trees twenty years ago or so)
 

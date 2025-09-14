@@ -1,19 +1,25 @@
 {
   "name": "planet-iii",
   "version": "1.0.0",
-  "description": "Publishing stack for Planet-III using Eleventy",
-  "main": "index.js",
+  "description": "Imagine a real-time, on-chain version of Palantir Foundry—without centralized orchestration—where trusted identities transact freely across community, corporate, and sovereign boundaries. Here, data flows without censorship, governed transparently by rules that align individual self-interest with the commons. We call this Intelligent Capital: sound information (like good money) moving at the speed of light. It may not be immediately obvious but this is the stuff that twentieth-century anarchist dreams were made of. It paves the way to reimagining civil and economic governance by fully integrating good-faith pluralism and opportunism into our global reality.",
+  "main": ".eleventy.js",
   "scripts": {
-    "start": "npx @11ty/eleventy --serve",
-    "build": "npx @11ty/eleventy",
-    "watch": "npx @11ty/eleventy --watch",
-    "clean": "rimraf _site",
-    "nightly": "npm run build && git add . && git commit -m \"Nightly commit $(date -u +\"%Y-%m-%d %H:%M:%S\")\" && git push origin main"
+    "build": "eleventy",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ash",
-  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshitMilne/planet-III.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AshitMilne/planet-III/issues"
+  },
+  "homepage": "https://github.com/AshitMilne/planet-III#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^3.0.0",
-    "rimraf": "^6.0.0"
+    "@11ty/eleventy": "^3.1.2"
   }
 }

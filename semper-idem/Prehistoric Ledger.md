@@ -1,7 +1,7 @@
 ---
 layout: "base.njk"
 title: "Prehistoric Ledger"
-date: "13-09-2025"
+date: "2025-09-13"
 tags: ["Canon"]
 series: "Sine Qua Non"
 part: 5
