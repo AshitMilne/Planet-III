@@ -1,4 +1,4 @@
-Equilibrium is sought, so 中 is turned side ways (because it's a transaction with self) and then you are endeavouring to internalize external losses - energy that is emitted that may be combusted internally instead - like a high-efficiency stove burning particulate to reduce to negligible particulate emissions to claim every last particle of MEV. 
+Equilibrium is sought, so 中 is turned sideways (because it's a transaction with self) and then you are endeavouring to internalize externalized losses - energy that is emitted that may be combusted internally instead - like a high-efficiency stove burning particulate to reduce to particulate emissions to claim every last particle of MEV as fuel. 
 
 Examine Ayurvedic (Kapha, Pitta, Vata) modeling of types of bodies as well to derive insight on diet, PPP variances(?)
 

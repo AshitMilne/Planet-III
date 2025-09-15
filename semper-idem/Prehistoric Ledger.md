@@ -1,6 +1,6 @@
 ---
 layout: "base.njk"
-title: "Prehistoric Ledger"
+title: "Virtualis"
 date: "2025-09-13"
 tags: ["Canon"]
 series: "Sine Qua Non"
@@ -49,7 +49,19 @@ This final segment of Sine Qua Non articulates a modern alternative for projecti
 
 ## Power Law ##
 
-Meritocratic and reflexive self-repeating expression of Pareto. The one out of 8 billion on earth is a mark responsible for 4% of global productivity how and why it is irrelevant (until it is - i.e. expressed by *how* capital is applied)
+
+
+**Back here**
+
+Focus on the nature of capital - and its distribution within the tribe. What was it? Generally *information* (how primarily - even if it was a what it was to derive the 'how')
+
+
+
+ and where the standards and systems for self-selecting objectively legitimate authoritative champions is sub-optimal.
+
+
+
+and reflexive self-repeating expression of Pareto. The one out of 8 billion on earth is a mark responsible for 4% of global productivity how and why it is irrelevant (until it is - i.e. expressed by *how* capital is applied)
 
  
 

@@ -3,7 +3,7 @@
 
 ## Introduction ##
 
-In short, our purpose here is to examine what constitutes a human-centric system design imbued with a natural and organic intelligence that is efficient. We use the term 'emotional intelligence' or empathy broadly in street psychology to describe a 'good people' vibe. A deeper understanding is required if we are to enable contracts with this intelligence, which is why I frame it as Anima. This piece explores [[Anima]] and the elements that constitute it. The short answer is that through an anarchist lens, crime, especially premeditated murder (which of course includes war) is a health matter (i.e., not intelligent).
+In short, our purpose here is to examine what constitutes a human-centric system design imbued with a natural and organic intelligence that is efficient. We use the term 'emotional intelligence' or empathy broadly in street psychology to describe a 'good people' vibe. A deeper understanding is required if we are to enable contracts with this intelligence, which is why I frame it as Anima. This piece explores [[notes/Anima]] and the elements that constitute it. The short answer is that through an anarchist lens, crime, especially premeditated murder (which of course includes war) is a health matter (i.e., not intelligent).
 
 
 ## Animus ##
@@ -19,7 +19,7 @@ They don't, they don't speak for us
 
 To understand Anima, think of it as human intelligence—but without [[Animus]] (something absent in other fauna). Taking a via negativa approach, we may then approach human-centric design to create systems that work for all.
 
-[[Machina]] before humanity was the world as an 'OK' Computer—God's idea. The [[discussion mudra]] was the unseen and unspoken intelligence that flowed freely in abundance: a force of nature to make life on this third stone satellite a reality. It was one with God, deeply embedded within, before the complexity of civilization began to arise. Anima is a human idea that separates and categorizes to understand and model the universe, but without a notional wholeness that is too complex and particulate to fully apprehend ([[Deus ex Machina]]). The risk, of course, is that the compelling model becomes the singular prism through which we see reality. Understanding that there is a (holy) ghost in the machine is critical.
+[[notes/Machina]] before humanity was the world as an 'OK' Computer—God's idea. The [[discussion mudra]] was the unseen and unspoken intelligence that flowed freely in abundance: a force of nature to make life on this third stone satellite a reality. It was one with God, deeply embedded within, before the complexity of civilization began to arise. Anima is a human idea that separates and categorizes to understand and model the universe, but without a notional wholeness that is too complex and particulate to fully apprehend ([[Deus ex Machina]]). The risk, of course, is that the compelling model becomes the singular prism through which we see reality. Understanding that there is a (holy) ghost in the machine is critical.
 
 I wonder at how precocious child Mary Shelley would have been—to have grown up under the guidance of such farsighted parents in a country as prosperous and relatively free as England. The daughter of anarchists William Godwin and Mary Wollstonecraft, of course, wrote *Frankenstein*, which can be summarized as follows: The corpse is not the sum of some ordinarily random parts assembled in an accustomed way in the manner of corporations (corps).
 
@@ -47,7 +47,7 @@ Now I ask you, if I think I am privileged because I am not forced to surrender a
 
 As we hive off into communities, male and female aspects of a society perform different roles. The feminine aspect of man (anima) is that which will listen and discuss to yoke community rather than immediately resort to force to aggrandize. The male aspect of the female (animus) meanwhile looks to keep and hold what has already been secured, fearful that coercion and force will one day leave offspring wanting lest the patriarch compromises through transactional behavior which structurally undermines the collective her matriarchy has nursed into being with care in the household. This is the inner tension in our collective with which we struggle as we simultaneously reconcile it with its reciprocal personality in the 'other'. These internal machinations are the paranoid android gripped by panic and fear or alternatively pride and prejudice as we encounter the 'alien us'. The contemplative seeks to overcome this negativity by emanating the positive and constructive elements of Anima—intelligence without which a personality risks being swept up by animus which represents emotion that is hostile or defensiveness.
 
-[[Anima]] has five dimensions:
+[[notes/Anima]] has five dimensions:
 
 - A [[connection]]: a shared notion of what constitutes a high-fidelity commitment
 

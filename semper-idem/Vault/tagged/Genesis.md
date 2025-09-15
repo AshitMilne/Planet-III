@@ -1,4 +1,4 @@
-# [[Sine Qua Non]] 1: [[Genesis]] - The Planet Begins Again
+# [[Sine Qua Non]] 1: [[notes/Genesis]] - The Planet Begins Again
 
 ![AlgonquinSunrise](C:\Users\Ash\Documents\Planet III\Semper Idem\Vault\Images\AlgonquinSunrise.jpg)
 
@@ -40,7 +40,7 @@ Dialing back to the early 1990s though, the internet still unseen and unheard of
 
 
 
-## [[Le Prix]]: The [[Genesis]] of Legitimate Global Consensus
+## [[Le Prix]]: The [[notes/Genesis]] of Legitimate Global Consensus
 
 Life's rich demand creates supply in the hand
 

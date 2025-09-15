@@ -9,7 +9,7 @@ part: 4
 
 ![](./assets/crawford-anima.jpg)
 
-Sacred white cedar (its bark clads Haudenosaunee dwellings) at Milton's Crawford Lake grow right out of rock as if to express that primordial moment when life first appeared from stone.
+Sacred white cedar (its bark clads Wendat dwellings) at Milton's Crawford Lake in Ontario (An U) grow right out of rock as if to express that primordial moment when life first appeared from stone. Intelligence finding a way to express itself from practically nothing.
 
 ## Introduction ##
 

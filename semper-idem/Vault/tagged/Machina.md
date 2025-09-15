@@ -2,7 +2,7 @@
 
 
 ## Introduction
-In this third installment of *[[Sine Qua Non]]*, we introduce the metaphors **[[Machina]]** and **Anima** to consider the intelligence inherent in the architecture of reality. The earth operated as an autonomous perpetual machine before humanity emerged. Intelligence was in **habit** (i.e., dwelling within a persistent but evolving architecture—a global-macro *[[semper idem]]*). There was no extrinsic rule or algorithm sought to enhance operation within it.
+In this third installment of *[[Sine Qua Non]]*, we introduce the metaphors **[[notes/Machina]]** and **Anima** to consider the intelligence inherent in the architecture of reality. The earth operated as an autonomous perpetual machine before humanity emerged. Intelligence was in **habit** (i.e., dwelling within a persistent but evolving architecture—a global-macro *[[semper idem]]*). There was no extrinsic rule or algorithm sought to enhance operation within it.
 
 
 ## The Planet Works
@@ -43,7 +43,7 @@ Once you recognize abundance and surrender your own personal narratives of scarc
 
 ## Unanimity Inspired
 
-**[[Anima]]** is the term used to describe the intelligence that emanated into the world before humanity. Deriving from it is the term **unanimity**—unity animated in amity—which is the compiled code encapsulated in profound consensus. It serves as the standard for which proves stake through behavior—one that is, by default, infused with empathy: A form of work which flows continuously without the toil and accelerating spin of the mesmerizing compromise for sound narrative we know today.
+**[[notes/Anima]]** is the term used to describe the intelligence that emanated into the world before humanity. Deriving from it is the term **unanimity**—unity animated in amity—which is the compiled code encapsulated in profound consensus. It serves as the standard for which proves stake through behavior—one that is, by default, infused with empathy: A form of work which flows continuously without the toil and accelerating spin of the mesmerizing compromise for sound narrative we know today.
 
 ~ Ashit Milne (Planet Come Together)
 

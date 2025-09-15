@@ -1,8 +1,21 @@
-**Introduction:**  
+---
 
-In the context of this site, I employ a model to simplify and clarify complex systems. This model serves as a meta-framework to explain and apply ideas in a humanistic context, focusing on a narrow but powerful lens: the idea that creation, once beyond humanity, operates autonomously until human involvement alters or shapes it.
+layout: "base.njk"
+title: "Arete"
+date: "2025-09-14"
+tags: ["Peridot"]
 
-Here, I introduce the concept of **Giants** (entrenched power, coercive and hard power) and **Gods** (soft power), as actualized by individuals developing **arete** (virtue). **Arete** is a central concept in human-centric architectures that aim to scale human interaction and cooperation.
+---
+
+## Introduction ##  
+
+Here, I introduce the concept of **Giants** (entrenched power, coercive and hard power) and **Gods** (soft power), as actualized by individuals developing **arete** (virtue). **Arete** is a central concept in human-centric architectures that aim to scale human interaction and cooperation without consideration or deference to title, position or the accumulation of a notional token that has no legitimacy (the United States dollar and fiat currency in general). We are geared towards self-actualization: reaching our full potential or being the best versions of ourselves. To some degree we all do this through aspiration to deserve or at least hold positions of authority and prestige - those which command a degree of deference and come with perquisites that are granted to those deemed to have social credit so as to ease the burden of their responsibilities through the provision of comfort and consideration. These 'perks' often become the *object* of ambition rather than the accoutrements of accomplishment. These are the giants - the titans whose self-image is a reflection off the pool that is held as the Commons.
+
+In contrast others demur and, in a mimicry of an alignment of behaviour to ecology or Creation seek to reflect that behaviour. It begins as a studied response to anima which over time becomes intuitive and instinctive. A rapid intelligence that gives (arbitrary) societal norms no room in their ruminations. In mythical terms they look past Caesar to God. In plain terms they no longer wish to be a part of our planet's destruction 
+
+
+
+**HERE**
 
 Anarchism, in this framework, is an optimistic perspective. In moments of crisis, while formal authority takes time to organize, ordinary people step in with ad hoc systems that respond immediately to pressing needs. This emerges from a deeply natural sense of empathy and altruism — the simple instinct that it's good to help those in need. When these efforts bear fruit, they bring not only relief but also a sense of fulfillment, camaraderie, and purpose — emotions that many don't experience in their day-to-day jobs. In fact, they may even find they dread returning to the rigidity of traditional work, feeling a deeper connection to the immediate, hands-on nature of problem-solving and mutual aid.
 

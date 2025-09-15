@@ -1,17 +1,15 @@
 ---
 
 layout: "base.njk"
-title: "[H]our Glass of Redcurrant "
-date: "2025-09-13"
+title: "[H]our Glass of Redcurrant"
+date: "2025-09-14"
 tags: ["Regnum Dei"]
-series: "Sine Qua Non"
-part: 4
+series: "Dial Square"
+part: 3
 
 ---
 
-![](./assets/HourGlassRedcurrant.jpg)
-
-
+![Image of hourglass and view of a cup of wine from above filled representing redcurrant](./assets/hourglassredcurrant.png)
 
 **Artwork**: Culture and legacy is distilled as redcurrant. Our glass is the collective value derived from each of us spending time. Our glass fills with wine or brandy (blood) as sand pours through hourglass (in the body). This is the esoteric meaning of the *Eucharist ('Your Christ' consciousness).*
 
