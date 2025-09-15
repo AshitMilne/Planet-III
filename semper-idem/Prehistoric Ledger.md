@@ -26,7 +26,7 @@ This final segment of Sine Qua Non articulates a modern alternative for projecti
 
 
 
-## The Ensuing Chaos ##
+## Chaos of Zero Trust ##
 
 >Avarice and greed are gonna drive you over the endless sea
 >They will leave you drifting in the shallows
@@ -62,7 +62,7 @@ In the last century technology enabled the sudden exponential spread of ideas, i
 - The 2013 persecution and exile of Ed Snowden who exercised his first amendment right to raise the United States' government's massive (illegal) surveillance of ordinary innocent Americans
 - The 2020 acquisition of Corporate bonds by the Federal Reserve through 'Special Purpose Vehicles'. The justification, a flu virus, was deemed "unusual and exigent". In my view these went at least against the spirit if not the letter of the law dictating the regulation of these debt instruments. At any rate it revealed just how fragile this system is.
 
-All of these attempts to perpetuate the power of incumbent institutions and their officers served only to discredit them *absolutely*. For me the loss of their legitimacy was complete and final - ending a journey that began shortly after I was born with the 'temporary' suspension of the Gold Standard. I no longer recognize the authority of the United States government nor those of its agents (including corporations operating within the frameworks). 
+All of these attempts to perpetuate the power of incumbent institutions and their officers' privileges served only to discredit them in *absolute* terms. For me the loss of their legitimacy was complete and final - ending a journey that began shortly after I was born with what was then the 'temporary' suspension of the Gold Standard. I no longer recognize the authority of the United States government nor that of its agents (including corporations operating within the frameworks).
 
 While they forever retain my affection I no longer assume that the guarantees and courtesies generally afforded me by my own Canada and the United Kingdom are still available beholden as they are their American Hegemon. For most part our laws are sensible and of course I obey them but as for those statutes governing *economic* *contracts*? They are for me, including the foundational contract of the US dollar, null and void. I limit the use of them to the greatest degree possible. In a very real sense I operate as an independent country; running an austerity program for as long as it takes to enable total *swaraj* (self-determination and self-reliance. I am no longer just a philosophical anarchist but increasingly a practicing one.
 
@@ -74,7 +74,7 @@ From a systems perspective, the structure represents an unstable server; its equ
 
 ## The Virtual Machine ##
 
-The nexus of ties within a group that I described at the beginning of this piece amount to an augmented reality or meta narrative: something that *virtually* exists, is readily perceived by a keenly attentive interloper, and can even be 'graphed' on another dimension or plane of perception. 
+The nexus of ties within a group I described at the beginning of this piece amount to an augmented reality or meta narrative: something that *virtually* exists, is readily perceived by a keenly attentive interloper, and can even be 'graphed' on another dimension or plane of perception.
 
 >Band organization is often described as "egalitarian": there is no formalized social stratification into upper and lower classes, no formalized or hereditary leadership, and no formalized monopolies of information and decision making. However, the term "egalitarian" should not be taken to mean that all band members are equal in prestige and contribute equally to decisions. Rather the term merely means that any band "leadership" is informal and acquired through qualities such as personality, strength, intelligence, and fighting skills.
 ~ Jared Diamond (Guns, Germs and Steel)
@@ -151,7 +151,7 @@ In Graeber's gathering or in any community (or say kibbutzim - a modern equivale
 
 ---
 
-*RISC = Reduced Instruction Set Computer. Call this a rationalized operating system that is smart-contract enabled to pair-off or 'level' countervailing instructions to recover value lost as a negative externality (heat, emissions, noise all of which serve to bring forward end-of-life)
+*RISC = Reduced Instruction Set Computer. Call this a rationalized operating system a 'smart-contract enabled' to pair-off or 'level' countervailing instructions to recover value lost as a negative externality (heat, emissions, noise all of which serve to bring forward end-of-life)
 
 
 

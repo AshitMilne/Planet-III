@@ -1,4 +1,15 @@
-# Acts I, II, III #
+---
+
+layout: "base.njk"
+title: "In Threes"
+date: "2025-09-13"
+
+tags: ["Regnum Dei"]
+series: "InTev"
+part: 1
+---
+
+## Acts ##
 
 **Summary**: Model to be developed as a foundation for how human capital is developed through (negative external 'value') internalized through tokens (as a form of UBI) to actualize and nudge behaviour. The objective is really to abolish the idea of 'work', 'vacation', 'retirement' etc: Stages of life that in any case have been imposed by industrialization (an increasingly obsolete stage of human economic development) rather than a 'natural' rhythm such as the saeculum. Over the long-term the concept is to guide people to discover, express and then extend the knowledge base and sophistication of their Calling (which in the final analysis amounts to being holistically human on earth - or an aspect thereof.
 
@@ -23,7 +34,7 @@ This is the "building" phase with a **masculine bias** towards exploration and c
 
 ### Part 2: The Sustaining Stage (Ages 30-60)
 
-This is the "sustaining" phase with a **feminine bias** towards nurturing and stability. The focus shifts from broad exploration to deepening your roots and cultivating what you have built.
+This is the "sustaining" phase with a **feminine bias** towards nurturing and stability. The focus shifts from broad exploration to deepening your roots and cultivating what you have built. Moon - Open to the right 'Black Whole Sun' to create a 'third' with combined vision of energies
 
 - **Financial Priority:** Sustaining and securing wealth. The focus is on long-term investments, building a family, and ensuring a stable future.
 - **Backlog of Activities & Priorities:**
@@ -36,7 +47,7 @@ This is the "sustaining" phase with a **feminine bias** towards nurturing and st
 
 ### Part 3: The Balancing Stage (Ages 60-90+)
 
-This is the "balancing" phase, where the **masculine and feminine aspects come into equilibrium**. The goal is to sustain equilibrium and transition from active work to a state of wisdom and peace.
+This is the "balancing" phase, where the **masculine and feminine aspects come into equilibrium** The goal is to sustain equilibrium and transition from active work to a state of wisdom and peace. Stored sight is recovered.
 
 - **Financial Priority:** Managing and distributing wealth. This is the time for easing off from work, making strategic withdrawals for comfort, and engaging in philanthropy or passing on wealth to the next generation. The goal is to be a net positive to your community.
 - **Backlog of Activities & Priorities:**
