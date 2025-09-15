@@ -1,8 +1,8 @@
 ---
 layout: "base.njk"
-title: "Virtualis"
+title: "Virtual Machine"
 date: "2025-09-13"
-tags: ["Canon"]
+tags: ["Regnum Dei"]
 series: "Sine Qua Non"
 part: 5
 ---
@@ -59,18 +59,33 @@ In the last century technology enabled the sudden exponential spread of ideas, i
 
 - The wars in Iraq and Afghanistan beginning in 2001: Neither fundamentally solved problems but rather exacerbated them. The justification for the conflict in Iraq was a particularly galling fraud
 - The 2008 Troubled Asset Relief Program and their extraordinary bailout of incumbent financial institutions and other corporations that ultimately served no purpose in solving the underlying systemic inequity particularly in the wake of the expenditure of public funds on conflicts in Iraq and Afghanistan
-- The 2013 persecution and exile of Ed Snowden who exercised his first amendment right to raise the United States' government massive (illegal) surveillance of innocent Americans
-- The 2020 acquisition of Corporate bonds by the Federal Reserve through 'Special Purpose Vehicles'. The justification (a flu virus) was deemed "unusual and exigent". In my view these went at least against the spirit if not the letter of the law dictating the regulation of these debt instruments
+- The 2013 persecution and exile of Ed Snowden who exercised his first amendment right to raise the United States' government's massive (illegal) surveillance of ordinary innocent Americans
+- The 2020 acquisition of Corporate bonds by the Federal Reserve through 'Special Purpose Vehicles'. The justification, a flu virus, was deemed "unusual and exigent". In my view these went at least against the spirit if not the letter of the law dictating the regulation of these debt instruments. At any rate it revealed just how fragile this system is.
 
 All of these attempts to perpetuate the power of incumbent institutions and their officers served only to discredit them *absolutely*. For me the loss of their legitimacy was complete and final - ending a journey that began shortly after I was born with the 'temporary' suspension of the Gold Standard. I no longer recognize the authority of the United States government nor those of its agents (including corporations operating within the frameworks). 
 
 While they forever retain my affection I no longer assume that the guarantees and courtesies generally afforded me by my own Canada and the United Kingdom are still available beholden as they are their American Hegemon. For most part our laws are sensible and of course I obey them but as for those statutes governing *economic* *contracts*? They are for me, including the foundational contract of the US dollar, null and void. I limit the use of them to the greatest degree possible. In a very real sense I operate as an independent country; running an austerity program for as long as it takes to enable total *swaraj* (self-determination and self-reliance. I am no longer just a philosophical anarchist but increasingly a practicing one.
 
-This is a conversation about intelligence and as with the individual so with the sovereign: how you define (value) and use (price) money speaks volumes and, in the case of the United States Government, it is a tale told by an idiot full of sound and fury, signifying nothing. What I know today with certainty is that country and the regime it governs is flat broke and has been my *entire* life. 
+This is a conversation about intelligence and as with the individual so with the sovereign: how you define (value) and use (price) money speaks volumes and, in the case of the United States Government, it is a tale told by an idiot full of sound and fury, signifying nothing. What I know today with certainty is that the country and the regime it governs is bankrupt and has been my *entire* life. 
+
+From a systems perspective, the structure represents an unstable server; its equipment a loss leader for the poorly written code that runs it. It generates too much noise and heat at an exorbitant and increasingly untenable cost to those it was meant to serve. Many of us, realizing that the machine increasingly seems to serve its own interests rather than those it was installed for have decamped to set up a parallel Advanced RISC* Machine (ARM). To understand how we think of this 'new model ARM' you have go back in time to understand how people conceived of, created and critically, *distributed* value when the sum of the parts were *designed* to fit together rather than cobbled together from a set of random and currently available surplus bits and crucially before money (of *any* kind) existed.
+
+
 
 ## The Virtual Machine ##
 
-The nexus of ties that I described at the beginning of this piece amount to an augmented reality: something that *virtually* exists and is perceived by an attentive interloper.
+The nexus of ties within a group that I described at the beginning of this piece amount to an augmented reality or meta narrative: something that *virtually* exists, is readily perceived by a keenly attentive interloper, and can even be 'graphed' on another dimension or plane of perception. 
+
+>Band organization is often described as "egalitarian": there is no formalized social stratification into upper and lower classes, no formalized or hereditary leadership, and no formalized monopolies of information and decision making. However, the term "egalitarian" should not be taken to mean that all band members are equal in prestige and contribute equally to decisions. Rather the term merely means that any band "leadership" is informal and acquired through qualities such as personality, strength, intelligence, and fighting skills.
+~ Jared Diamond (Guns, Germs and Steel)
+
+
+
+
+
+
+
+
 
 
 
@@ -118,14 +133,6 @@ Focus on the nature of capital - and its distribution within the tribe. What was
 
  
 
-Virtualis is Latin for virtue and bears no relationship to the term we use for the synthetic representation of reality - virtual. Nevertheless there is a compelling synchronicity in the context of the virtual machine (VM) - the completion of architecture that promises to complete the utility of modern capitalism. The VM promises to the scale the virtue of the wild nobility through nodality made credible by that simple and powerful quality; an insurmountable *defensive* array that renders offense obsolete when expressed by those with virtue: *transparency.*
-
-
-
-
-
-
-
 Paradoxically these solutions allow us to  scale an architecture from our ancient past - when debt and credit were held in a constant equilibrium by the natural give and take of humans simply being without fungible tokens being exchanged for the valuable. I’m no palaeontologist or anthropologist and the wide and various distribution of human experience and the chronological distance, in any case precludes a truly a scientific discussion - that is both beyond my bailiwick and purpose here: To explain that value does not require the exchange of a tangible, material, physical token - it does not need to be anchored to gold and silver and that true value beyond the tangible earth upon which we stand derives from behaviour manifested in our personalities -  and curiously, Richard Thaler’s last name shares its [etymolo](https://en.wikipedia.org/wiki/Richard_Thaler)gy with the word 'dollar'
 
 In Debt: The First 5,000 Years, David Graeber, the late anarchist anthropologist imagined our prehistoric ancestors wandering in small groups - well under the 150-odd with whom we can maintain a meaningful relationship. In these small, closely-knit communities we kept an approximate mental tally of who did what - there was obviously no barter - the lack of a coincidence of wants prevented that and in any case transactions weren’t one-off in a community that gave and received one from the other in a perpetual cycle of value exchange unencumbered by loose change or bills or any such token. It was all debt. To one another we constantly thought the refrain ‘I’m in your debt’. It was crypto (or rather *cryptic*) in the sense of being ambiguous - at once both hidden in obscurity (in minds and hearts) and yet obvious (manifested in our relationships, expressed in physical and psychological proximity, to one another). An unseen web of ‘exchange’ tied us together. And as Graeber had it, if you didn’t pick up your end, you might (not) wake up one morning and notice everyone else had left - a rock on your head.
@@ -134,23 +141,17 @@ In Debt: The First 5,000 Years, David Graeber, the late anarchist anthropologist
 
 
 
-**Kings of the Wild Frontier**
 
-Physical strength, power and endurance and tactical skill with sabretooth tigers isn’t equally distributed and P[areto](https://en.wikipedia.org/wiki/Pareto_distribution) implies that generally a small subset of natural leaders accounted for assuring the majority of *security* needs and managing existential risk - a record of behaviour reflecting trustworthiness, integrity and fairness imbued a quality of early noblesse oblige for these paternalistic authoritarians. But leadership at the base layer was always subjected to close scrutiny and *dynamically meritocratic* - circumstances demanded it and there was too much at stake. Contenders for leadership would have appeared but the merit of their challenge was subject to the collective's transparent observations and at the same time, proteges watched and learned - *all,* regardless of age demanded that objective real collective benefit was actualized by leaders - they had a continual need to prove their stake. Those with social credit in the group aligned and those with emergent (say, the young) or otherwise non-material credit (the dim but strong or kind perhaps) followed. Those without any credit are the ones who woke up to find everyone gone, got rocked (*slashed*).
-
-Nothing that constituted the art and science of leadership was hoarded - leaders with social credit were expected to share information freely to enable collective security now and into the future. In these small closely knit communities  an easy give and take allowed productivity to grow on a bedrock of collective security. These 'Kings of the Wild Frontier' were adamant about one thing - the self-preservation and security of their own tribe; in circumstances that did not permit utter transparency - an encounter with complete strangers - they were *never* 'defence first' - diplomacy and collaborative collectivism was not top of mind. Xenophobia, whether we care to admit it was once (and in certain circumstances still is) a feature and not a bug. While it wasn't a 'defence first' the posture may reasonably called a 'robust bias towards self-defence necessitated by ambiguous circumstances' (or 'shoot first, ask questions later'). There were variances of course, and at times it was just kill or enslave their foes and take everything (the Māori* arriving on Pitcairn as Jared Diamond relates)
 
 Over time the yield to the collectives that survived (those that 'adapted to strangers well') was manifested as more time and less pain - longer healthier happy lives - not the pursuit but the instant manifestation of happiness. This was a dynamic state of affairs - where behaviour was transparent to all - consensus on governance was created through a *democratic* sorting mechanism that weighted credibility based on transparent observation by all. [In Guns, Germs, And Stee](https://www.amazon.ca/Guns-Germs-Steel-Fates-Societies/dp/0393354326/ref=sr_1_1?sr=8-1)l, Jared Diamond explains:
 
-Band organization is often described as "egalitarian": there is no formalized social stratification into upper and lower classes, no formalized or hereditary leadership, and no formalized monopolies of information and decision making. However, the term "egalitarian" should not be taken to mean that all band members are equal in prestige and contribute equally to decisions. *Rather the term merely means that any band "leadership" is informal and acquired through qualities such as personality, strength, intelligence, and fighting skills*." (italics my own).
-
-**Back to the Future**
-
-
+Band organization is often described as "egalitarian": there is no formalized social stratification into upper and lower classes, no formalized or hereditary leadership, and no formalized monopolies of information and decision making. However, the term "egalitarian" should not be taken to mean that all band members are equal in prestige and contribute equally to decisions. Rather the term merely means that any band "leadership" is informal and acquired through qualities such as personality, strength, intelligence, and fighting skills.
 
 In Graeber's gathering or in any community (or say kibbutzim - a modern equivalent) that data was the know-how required to survive and hopefully, eventually thrive and it's rooted in a sense of what objectively works and comes from people with skill, experience and virtue that bestows legitimacy. They are nodes that secure the network - their tribe - and data of the highest most meaningful value is passed through them. Their reward is first and foremost a thriving community, a sense of purpose and prestige.
 
+---
 
+*RISC = Reduced Instruction Set Computer. Call this a rationalized operating system that is smart-contract enabled to pair-off or 'level' countervailing instructions to recover value lost as a negative externality (heat, emissions, noise all of which serve to bring forward end-of-life)
 
 
 

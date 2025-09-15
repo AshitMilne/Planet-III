@@ -1,3 +1,14 @@
+---
+
+layout: "base.njk"
+title: "Attraction"
+date: "2025-09-14"
+tags: ["Peridot"]
+
+---
+
+
+
 Artwork: The Self-Preservation Society. The avatars of Vishnu (Ram and Krsna) *sustain.* They preserve what they have so that they may manifest Brahma (creation) and thence Shiva (transmutation). That is to say evolve or adapt to circumstances so that  they may continue to sustain and create in a state of constant transmutation (evolution) - cycling for eternity ([Nataraja](https://en.wikipedia.org/wiki/Nataraja))
 
 But there's no danger It's a professional career Though it could be arranged With just a word in Mister Churchill's ear

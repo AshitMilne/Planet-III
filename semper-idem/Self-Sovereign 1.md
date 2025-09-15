@@ -1,4 +1,12 @@
-## Self-Sovereign 1 - Opportunity ##
+---
+layout: "base.njk"
+title: "Self-Sovereign"
+date: "2025-09-14"
+tags: ["Peridot"]
+
+---
+
+
 
 
 

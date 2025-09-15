@@ -1,10 +1,40 @@
 
 
-**bove:** Lord Shiva, Patron of Transformation. For yogis he represents the *inner* transformative power - the ability to dissolve ego and ignorance to realize the higher self - and to be *in it* as part of the whole.
+---
 
-Come together oh, oh, come together oh, oh Come together oh, oh, come together Kiss me, won't you, won't you, kiss me, won't you, won't you, kiss me Lift me right out of this world trip me, won't you, won't you trip me Won't you, won't you trip me, lift me, ride me to the stars I'm free, you're free, I want you to touch me Come touch me, now it's all too much All too much, all too much
+layout: "base.njk"
+title: "The Making of Ashit Milne"
+date: "2025-09-14"
+tags: ["Daily Planet"]
 
-~ Primal Scream ([*Come Together*)](https://www.youtube.com/watch?v=ZUjW82je_38)
+---
+
+![Lord Shiva](./assets/Shiva.png)
+
+Above: Lord Shiva, Patron of Transformation. For yogis he represents the *inner* transformative power - the ability to dissolve ego and ignorance to realize the higher self - and to be *in it* as part of the whole.
+
+
+
+>Come together oh oh
+>Come together oh oh
+>Come together oh oh
+>Come together
+>Kiss me, won't you won't you kiss me
+>Won't you won't you kiss me
+>Lift me right out of this world
+>Trip me, won't you won't you trip me
+>Won't you won't you trip me
+>Lift me ride me to the stars
+>I'm free you're free
+>I'm free I want you to touch me
+>Come touch me
+>Now it's all too much
+>All too much
+>All too much
+>
+>~ Primal Scream (Come Together)
+
+
 
 I've taken Milne as my pen name. In my ancestral Gujarati (and Hindi), the word 'milne'    (मिल्न) phonetically means, in an abstract sense, to 'come together' or meet - whether it be to break bread and share warmth and intimacy on shabbat or to conduct an atomic transaction for due consideration. On a spectrum those are the extreme two bounds within which parties exchange value, and are then over time imbued with a notion of relative *trust* as they manage their affairs in a social network, digital or otherwise.
 
