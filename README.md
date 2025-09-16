@@ -17,16 +17,16 @@ Canonical frameworks for consensus governance are explained are explained in a s
 A series inquiring into key terms relevant to political-economy and governance in general as viewed through an anarchist lens
 
 ## Lexica ##
-Lexica defines or describes key terms. These are idiosyncratic to Canon as well as broadly used terms in the social and the applied science of information technology, particularly proof of stake blockchain
+Lexica defines or describes key terms. These are idiosyncratic to Canon as well as broadly used terms in the social and the applied science of information technology, particularly proof of stake blockchain. Some of these are 'heuristics for social science' - subjective narrative story telling that evolves like a Platonic worldview to a Copernican one - both functionally useful but the latter, built on new information, more truthful. This is the stuff of archetype, legend and dreamscapes.
 
 ## Daily Planet ##
 
-The greater the number of angles we can approach a subject the more sophisticated the holistic lens that is developed to explore language and define a philosophical model that serves humanity in pluralistic ways that are objectively legitimate. Daily Planet provides a background into the experiences that define my  own personal worldview.
+The greater the number of angles we can approach a subject the more sophisticated the holistic lens that is developed to explore language and define a philosophical model that serves humanity in pluralistic ways that are objectively legitimate. Daily Planet provides a background into the experiences that define my  own personal worldview that become a *form* of knowledge on a virtual plane or dimension.
 
 ## Polite Bureau ##
 
 Aims to provide opinion and editorial perspective from an anarchist lens. Namely it looks at often sub-optimal policy outcomes of 'split the difference' electoral systems even as the system itself is examined to apply regeneration through reductive approaches to code (law) through the application of smart contracts which having a broader insight into transactional data may define preferable outcomes.
 
-## Tout Sweet ##
+## Tout Suite ##
 
 A casually assembled and far from comprehensive collection of habits, utilities, tools and practices that hint at the underlying philosophy of anarchy (and related minimalist, organic and reductive approaches to life; swapping apparent comfort for agency through resistance training that acclimatizes the individual to *natural* order. Loss aversion is reduced and a more objective common sense approach to framing 'risk' that acknowledges the value of *being* understanding that it is a temporary state. Energy is redirected from incumbent modes and swapped for agency and time. The benefit is reflexive as the capital and effort required to secure 'property' of all kind is released to become a generative asset.

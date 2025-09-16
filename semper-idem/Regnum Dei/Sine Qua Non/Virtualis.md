@@ -74,9 +74,61 @@ From a systems perspective, the structure represents an unstable server; its equ
 
 ## The Virtual Machine ##
 
-Since all contracts are null and void or at least profoundly compromised let's take money out of the equation to imagine an alternative system -  a different one from the hierarchical structures of practical strangers commanded by the 'pals-in-tier' giants among us.
+Since all contracts are compromised or at least sub-optimal let's take money out of the equation to imagine an alternative system: one without pyramid scheme hierarchies of practical strangers commanded by the self-styled giants among us. As well let's pivot from intelligence which we might agree is *equivalently*, if not equally endowed in that we *all* have a gift or Calling, to talk about leadership in an anarchist context. 
+
+If we have gifts or a Calling then they are useful in so far as they make our living possible, interesting (in a good way) and fun in that order. You might not enjoy the prospect of changing a flat on a dark November morning in the middle of nowhere but doing it safely will allow you to persist. It will be interesting the first time and result in some growth - a new skill and a light dopamine hit from having solved a problem without help. Alternatively, you could take the path of least (POL) resistance and call a tow truck - spending money (after taxes), learning nothing and becoming boring, ordinary and unattractive. It's the slippery slope to becoming the inspiration for a new vision for mediocrity as a slow-cooked form of post-modern ambition. Something whose development may be savoured over the long span of a deteriorating circumstance you call quantity of life. There's a quiet epidemic wherein people put as little effort as possible to get as much out of the 'system'. It bleeds a system that doesn't itself actually create value anymore while removing from you the capacity to generate it for yourself. 
+
+This is what life lived on devices is doing to us: It's giving us one easy fix after another, incrementally removing our capacity for thought and action and, incidentally, thinning both the ranks and the pipeline for leadership - people willing to make important but difficult decision to make investments that payoff over time (the only true form of passive capital there is): the path of most (POM) resistance - the one that yield long term benefits over an infinite time horizon.
+
+This is how we take money out of the equation or rather reconstitute it as intellectual capital. This too is how the indigenous organized their societies without money. The Wendat in particular articulated a model of governance that anarchism looks to replicate. 
+
+Recall that the feminine aspect of the masculine, anima,  seeks to nurture, build and create rather than exploit or extract.
 
 
+
+
+
+
+
+
+
+> I feel beneath the white
+> There is a redskin suffering
+> From centuries of taming
+> I feel beneath the white
+> There is a redskin suffering
+> From centuries of taming
+
+> No method in our madness
+> Just pride about our manner
+> Ant people are the warriors
+> Ant music is the banner
+
+> A new royal family, a wild nobility
+> We are the family
+> A new royal family, a wild nobility
+> We are the family
+> ~ Adam Ant (Kings of the Wild Frontier) 
+
+
+
+
+
+
+
+
+
+A Calling is always in some way relevant to n earth. It solves an unmet need. 
+
+
+
+It serves some need right here on this planet for you, for others in your collective, and for the planet itself (or at least does minimum harm to it) otherwise it doesn't make sense and therefore as well doesn't make cents.
+
+ 
+
+
+
+for the collective that actuate in real terms as *effortful* behaviour. The expenditure of time, care and effort expressing a quality or skill for *others* is what distinguishes someone who is valued in relative terms.
 
 **Social ties are primary:** Everyone keeps an informal, mental tally of who contributes, who helps, and who fails to hold up their end — a system of perpetual, relational “debt.”
 
@@ -117,7 +169,7 @@ Since all contracts are null and void or at least profoundly compromised let's t
 
 **BACK HERE**
 
-for the collective that actuate in real terms as *effortful* behaviour. The expenditure of time, care and effort expressing a quality or skill for *others* is what distinguishes someone who is valued in relative terms.
+
 
 
 

@@ -1,4 +1,4 @@
-# Affluence Pedaling #
+
 
 ![FLXBabyMaker](C:\Users\Ash\Documents\Planet III\Semper Idem\Vault\Images\FLXBabyMaker.jpg)
 

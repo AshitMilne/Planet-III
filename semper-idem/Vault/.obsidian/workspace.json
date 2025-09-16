@@ -27,22 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Black Boy.md",
+                "file": "tagged/Genesis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Black Boy"
-            }
-          },
-          {
-            "id": "230679c9d47f7271",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Genesis"
             }
           }
         ],
@@ -194,8 +184,16 @@
   },
   "active": "9f5764a388ff7008",
   "lastOpenFiles": [
-    "notes/White Boy.md",
+    "tagged/Lexica.md",
+    "tagged/Machina.md",
+    "tagged/Genesis.md",
+    "tagged/Deus.md",
+    "tagged/Anima.md",
+    "tagged/Affluence Pedaling.md",
+    "notes/Act III.md",
+    "notes/human-centric systems.md",
     "notes/Black Boy.md",
+    "notes/White Boy.md",
     "notes/Clock time.md",
     "notes/path of least (POL).md",
     "notes/bullshit job.md",
@@ -203,12 +201,6 @@
     "notes/Smart Contract.md",
     "notes/pragmatism.md",
     "notes/Kevin Wood.md",
-    "tagged/Machina.md",
-    "tagged/Anima.md",
-    "tagged/Deus.md",
-    "tagged/Affluence Pedaling.md",
-    "tagged/Genesis.md",
-    "tagged/Lexica.md",
     "Images/Otter2024.jpg",
     "Images/Unconfirmed 233320.crdownload",
     "Images/XmarksSpot.png",
@@ -238,8 +230,6 @@
     "Tagged Essays/Affluence Pedaling.md",
     "Tagged Essays/2. Machina - Planet Coordinates.md",
     "Tagged Essays/1. Genesis - The Planet Begins Again.md",
-    "Notes/Le Prix.md",
-    "Notes/Anima.md",
     "Untitled.canvas"
   ]
 }

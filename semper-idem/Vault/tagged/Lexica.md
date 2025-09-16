@@ -2,7 +2,7 @@
 ## A
 
 **Act III**
-A third 'elder' phase of life forward-looking and committed to the future synthesizes prior reflection (a cycling of apprehension and introversion) to apply *semper idem* to societal evolution. It begins approximately at 60 and extends as a natural life and circumstances allow.
+A third 'elder' phase of life forward-looking and committed to the future synthesizes prior reflection (a cycling of apprehension and introversion) to apply *semper idem* to societal evolution. It begins approximately at 60 and extends as a natural life and circumstances allow. While Acts I and II respectively have masculine and feminine bias. In Act III one seeks to regenerate the Commons and restore Creation.
 
 **Anarchy**
 An emergent and dynamic order, manifesting without centralized coordination through a network or ecology through identification of objective truth and aesthetic (minimal) purpose or utility in a specific context. It contrasts with chaos: a self-evident disorder and incongruity.

@@ -1,6 +1,3 @@
-# [[Sine Qua Non]] 1: [[notes/Genesis]] - The Planet Begins Again
-
-![AlgonquinSunrise](C:\Users\Ash\Documents\Planet III\Semper Idem\Vault\Images\AlgonquinSunrise.jpg)
 
 ## The Reckoning
 
