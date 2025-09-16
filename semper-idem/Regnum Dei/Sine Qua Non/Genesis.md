@@ -7,7 +7,10 @@ series: "Sine Qua Non"
 part: 2
 ---
 
+![](./assets/AlgonquinSunrise.jpg)
+
 ## Introduction ##
+
 This piece continues our examination of intelligence and explores the frameworks humanity applies once it evolved code — the ability to transmit word or signal — toward an approaching coda, where that signal might be transmitted at practically the speed of light speed (pulse with impedance over fibre optic cable): Morse became telegram, which in turn evolved to binary, machine-readable, code transmitting intellectual property (IP) between what we call IP (internet protocol) addresses. All that was really required for the signaler (automated or otherwise) to possess the ability to express two states — stop and start —  easily done with a solenoid (a type of resistor) as with brake and gas pedals — a framework transferrable to software running signal over networks on hardware.
 
 ## The Reckoning ##

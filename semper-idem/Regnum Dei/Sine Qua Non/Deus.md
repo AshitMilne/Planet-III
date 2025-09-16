@@ -7,6 +7,8 @@ series: "Sine Qua Non"
 part: 1
 ---
 
+![](./assets/HighChapel.jpg)
+
 ## Introduction ##
 
 This is the first part of *Sine Qua Non* — a series on intelligence, the essential condition without which nothing endures. We stand at the threshold of substantial changes in the way we order civilization, disruptive though ultimately positive in my opinion, as generative artificial intelligence shapes the coming decades. For this intelligence to be meaningful, it must be holistic and systemically valid — in other words, universally legitimate and the possibilities are rich with potential as we learn to harness these already formidable tools to make ourselves responsible and accountable for living our best lives. Kropotkin, the anarchist Russian prince exiled in London aimed to unify existing formal structures of ethics (religion) and the post-colonial pluralistic discourse that both questioned and enhanced those systems. His aim was to create an enduring model of legitimacy capable of instructing and facilitating direct action by a self-sovereign autonomous person in ways reconciled with government and environment. He died before properly attending to that task. That now, with the formidable foundation provided by information technology, is my (admittedly ambitious) objective.

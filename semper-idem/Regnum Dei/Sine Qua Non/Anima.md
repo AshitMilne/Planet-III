@@ -7,9 +7,9 @@ series: "Sine Qua Non"
 part: 4
 ---
 
-![](./assets/crawford-anima.jpg)
+![](./assets/crawford-anima-1758021987856-3.jpg)
 
-Sacred white cedar (its bark clads Wendat dwellings) at Milton's Crawford Lake in Ontario (An U) grow right out of rock as if to express that primordial moment when life first appeared from stone. Intelligence finding a way to express itself from practically nothing.
+Sacred white cedar who bark clad Wendat and Haudenosaunee dwellings at Milton's Crawford Lake in Ontario. They grow right out of stone. Intelligence finding a way to express itself from practically nothing.
 
 ## Introduction ##
 

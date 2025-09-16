@@ -7,7 +7,7 @@ series: "Sine Qua Non"
 part: 3
 ---
 
-![Image of Earth Created by ChatGPT representing primordial reality without humanity](./assets/Machina.jfif)
+![](./assets/Machina-1758022225889-6.jfif)
 
 ## Introduction ##
 
