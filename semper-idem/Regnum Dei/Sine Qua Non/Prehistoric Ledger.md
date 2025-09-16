@@ -57,7 +57,7 @@ In civil society as it functions for most people, those ties are dictated by the
 
 In the last century technology enabled the sudden exponential spread of ideas, information and conversation. A quarter of the way through this century that conversation broke down. For me personally four events stand out:
 
-- The wars in Iraq and Afghanistan beginning in 2001: Neither fundamentally solved problems but rather exacerbated them. The justification for the conflict in Iraq was a particularly galling fraud
+- The wars in Iraq and Afghanistan beginning in 2001: Neither fundamentally solved problems but rather exacerbated them. The justification for the conflict in Iraq was a particularly galling fraud.  793 Canadian and British soldiers lost their lives.
 - The 2008 Troubled Asset Relief Program (TARP) and their extraordinary bailout of incumbent financial institutions and other corporations that ultimately served no purpose in solving the underlying systemic inequity particularly in the wake of the expenditure of public funds on conflicts in Iraq and Afghanistan
 - The 2013 persecution and exile of Ed Snowden who exercised his first amendment right to raise the United States' government's massive (illegal) surveillance of ordinary innocent Americans
 - The 2020 acquisition of Corporate bonds by the Federal Reserve through 'Special Purpose Vehicles'. The justification, a flu virus, was deemed "unusual and exigent". In my view these went at least against the spirit if not the letter of the law dictating the regulation of these debt instruments. At any rate it revealed just how fragile this system is.
