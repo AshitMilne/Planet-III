@@ -1,3 +1,14 @@
+---
+layout: "base.njk"
+title: "The Stone Rose" 
+date: 2025-09-16 
+tags: ["Regnum Dei"] 
+series: "Dial Square"
+part: "2"
+---
+
+![](./../../assets/StoneRoseSwirl.png)
+
 **Artwork**:  The Stone Rose: The earth was once a barren stone that flowered, bringing forth humanity. This flowering represents the Square of the Dial Square — a fractal form that mirrors both the individual self and the greater whole we call society. The Square holds atop the Dial (Our Glass), representing reason and objectivity, and within it rests the Yoga Element (Lingam), symbolizing introspection and intuition. Society, through evolving mechanisms of governance, is tasked with stewarding the commons. As we accumulate and share insight, we move toward a new earth — one where self-actualized custodians, both individual and collective, maintain creation in equilibrium. 
 
 *"The Lord God took the man and put him in the Garden of Eden to work it and take care of it."* 
