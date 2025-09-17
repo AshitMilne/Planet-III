@@ -86,7 +86,29 @@ This is virtual money and it's what made prehistoric communities work or even th
 
 What made them different was the power of 'free stuff'. Our first nations were 'open source' in the real-world. They were Apache *before* it was software.
 
-In Debt: The First 5,000 Years, David Graeber, the late anarchist anthropologist imagined our prehistoric ancestors wandering in small groups - well under the 150-odd with whom we can maintain a meaningful relationship. In these small, closely-knit communities we kept an approximate mental tally of who did what mostly to assure that nobody got left behind in terms of having what they needed to be a meaningful part of the community. What is intelligence? It surely does not manufacture a false sense of scarcity to maintain control. It starts of with an assumption that creation is abundance manifest which is infinitely divisible.
+In Debt: The First 5,000 Years, David Graeber, the late anarchist anthropologist imagined our prehistoric ancestors wandering in small groups - well under the 150-odd with whom we can maintain a meaningful relationship. In these small, closely-knit communities we kept an approximate mental tally of who did what mostly to assure that nobody got left behind in terms of having what they needed to be a meaningful part of the community. Their idea of value is that it should be distributive and that it has no price (because it is priceless). To discover something that serves to preserve us, a method for making fire or preserving meat or fish and to not share it freely to people who presents no sign of threat (copyright or patent) is a modern invention and it deliberately aggrandizing and non-distributive. Writ large they create the animus-driven political economy with have currently that continues to concentrate capital such that a 1% of the world's population now holds over 50% of it's notional capital (money).
+
+Now, we have notional money because, unlike the Wendat or Haudenosaunee we have created a complex civilization that divides labour because *many hands make light work* (theoretically, anyway). That division in one sense ties us closely together and *binds* us as one whole thing so that we may not easily separate like oil or water or like Germany and France go to war again. This was the reason why the European Economic Community and its successor the European Union were created. Yet here we are working  long hours in jobs that we have difficulty explaining to children whose 'common-sense idea of meaningful work is growing or raising food (farming). That too in an economy that creates enormous disparities in outcomes for people - particularly those for men versus woman.
+
+One of the most startling qualities of Wendat for example was the freedoms afforded to all regardless of sex. The French were astonished to learn how freely women could secure a divorce or change affiliation. This is important because communities are self-similar. If we create disparities in power within a household they will replicate into the community and manifest as that communities behaviour beyond it in interactions with other communities and with the Ecology.
+
+Within our indigenous communities there was no such animus. Primarily I think because they understood the very obvious and 'common-sense' fact that women are critical women to the persistence of community. The plain idea that had Mary Shelley rolling her eyes and founding an *entire* genre: ironically male dominated science fiction.
+
+Neither within our indigenous American communities was there any framework for exerting coercive power nor was there any means or desire to project it outwardly. The *boundedness* of the a tribe allows for discussion and the formulation of *consensus*. The details of a matter are transparently assessed and together the tribe creates a solution for a challenge. Even crimes such as murder required reparations to be made collectively as if to stake the community to the persistence of a meaningful long-lasted reconciliation. Information had currency and it was worn on the sleeve. Disclosure did not have to be demanded by an individual in a relevant circumstance - it was common sense that *transparency* was required to generate a fair outcome that would have resilience.
+
+## Virtualis ##
+
+Go back to the qualities that make intelligence creative and resilient life-giving anima:
+
+- **A Connection**: a shared notion of commitment
+- **Empathy**: an understanding of the 'other' distinct from oneself
+- **Shared 'Clock'**: a shared sense of what time is and how it is to be valued
+- **Memory**: A shared immutable and transparent ledger of truth
+- **Shared Purpose**: From many we become one or *E Pluribus Unum*.
+
+You may discern that without explicit statement it presents itself as an idea that has boundedness. Like Earth itself is is finite and whole and what is unique about it is that it has infinite potentiality. In fact intelligence *is* the planet rendered virtually and what we see on earth is that intelligence manifested as truth and beauty - reality that works.
+
+If it does *not* work it is because that intelligence lacks a mechanism to distribute its value transparently and naturally. Something by which we many may become one. Because virtual *all* *is* or is not. We are either all in or we will be all out and it's just a question of time. *E Pluribus Unum*. 
 
 ---
 
