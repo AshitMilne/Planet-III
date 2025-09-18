@@ -11,10 +11,14 @@
             "id": "5c5fbb01acbe3e78",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "notes/Sine Qua Non.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sine Qua Non"
             }
           }
         ]
@@ -165,7 +169,15 @@
   },
   "active": "5c5fbb01acbe3e78",
   "lastOpenFiles": [
+    "tagged/Clear Path To Uranus.md",
+    "notes/Illumination (Peridot).md",
+    "tagged/Machina.md",
     "tagged/Virtualis.md",
+    "notes/satyam, shivam, sundaram.md",
+    "notes/zeitgeist.md",
+    "tagged/Affluence Pedaling.md",
+    "notes/self-sovereign.md",
+    "notes/White Boy.md",
     "tagged/Genesis.md",
     "notes/path of least (POL).md",
     "notes/path of most (POM).md",
@@ -174,15 +186,12 @@
     "Untitled.base",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "tagged/Machina.md",
     "tagged/Lexica.md",
     "tagged/Deus.md",
     "tagged/Anima.md",
-    "tagged/Affluence Pedaling.md",
     "notes/Act III.md",
     "notes/human-centric systems.md",
     "notes/Black Boy.md",
-    "notes/White Boy.md",
     "notes/Clock time.md",
     "notes/bullshit job.md",
     "notes/Nakamoto Consensus.md",
@@ -207,11 +216,6 @@
     "Images/Unconfirmed 410883.crdownload",
     "Images/unionblackjack.png",
     "Images/Unconfirmed 798001.crdownload",
-    "Images/CupShirt.jpg",
-    "Notes/credit.md",
-    "Notes/connection.md",
-    "Tagged Essays/Lexica.md",
-    "Notes/compromising.md",
-    "Notes/Centralization.md"
+    "Images/CupShirt.jpg"
   ]
 }

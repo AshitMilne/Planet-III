@@ -1,1 +1,1 @@
-A series that examines from my own experience fundamental ideas in governance, system design, political economy, history and culture
+A series that examines key terms using my own experience; fundamental ideas in governance, system design, political economy, history and culture
