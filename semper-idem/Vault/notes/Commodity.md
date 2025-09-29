@@ -1,0 +1,1 @@
+Inert solid substance whose purity may be measured (generally an component of chemical composition which is defined precisely in metric measurement of weight and volume (imperial measures are no untenable for volume). Salt is a mineral whose composition is variable. It is no longer a viable currency when dissolved in liquid.

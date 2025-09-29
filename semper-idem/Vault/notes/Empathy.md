@@ -1,0 +1,1 @@
+To possess an understanding of the things that makes the 'another' distinct from oneself  a stakeholder (i.e. someone who has rights, and obligations) within a system or network

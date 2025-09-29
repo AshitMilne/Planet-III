@@ -1,0 +1,1 @@
+A term adapted from Marshall McLuhan, describing the networked state of human communication and awareness, where central narratives influence collective consciousness.

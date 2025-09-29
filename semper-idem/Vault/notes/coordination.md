@@ -1,0 +1,1 @@
+The process of aligning individual actions, intentions, or contributions to produce a coherent and ethical outcome for the self, commons, or creation.

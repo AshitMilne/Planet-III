@@ -1,0 +1,1 @@
+That which is 'not food'  (subject to lethal predation). It is generally applied to the sentient (alive and demonstrably animate) but might include shade trees for example. A broader definition would include that which is non-sentient (alive or otherwise but likely or seemingly inanimate in perceived time) and still yet purposefully yields nourishment.

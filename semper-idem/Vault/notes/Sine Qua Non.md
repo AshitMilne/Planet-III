@@ -1,0 +1,1 @@
+Latin for 'without which nothing' is the name of a series within the semper idem framework explaining intelligence. Often equated with ideas of cleverness and wisdom, intelligence is holistic and so it is different. It  flows without a discussive or introspective process those other two aspects of thought imply.

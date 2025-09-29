@@ -1,0 +1,1 @@
+Latin for constant and unchanging this application of the term allows for the evolution of personality and character as one journeys through a saeculum - it is an abbreviation of *Semantic Perimeter of Identity Embodied*. In short this is identity abstraction or the encapsulation digitally of an identity's personality in letters in both sense.

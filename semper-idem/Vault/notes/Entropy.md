@@ -1,0 +1,1 @@
+Complexity or apparent chaos in human, societal, or systemic behavior. Not simply disorder, but the fragmentation that provides the substrate for new patterns, coordination, and creative opportunity.

@@ -1,0 +1,1 @@
+The appearance of patterns, value, or behavior from interactions among actors or systems, often unpredictable but manifesting as meaningful structures in society or nature.

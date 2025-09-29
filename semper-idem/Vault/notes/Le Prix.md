@@ -1,0 +1,1 @@
+French for “The Price,” is to signify the genesis of legitimate global consensus—a valuation derived from coordinated, ethical interaction rather than brute-force imposition because it also means 'prize'. As such it relates as well to the term 'surprise' - or a premium discovery prised from reality - one of relative marginal utility.

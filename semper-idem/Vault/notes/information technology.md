@@ -1,0 +1,1 @@
+The systems, protocols, and networks facilitating data transmission, computation, and coordination among individuals comprising communities, institutions sovereign entities etc. IT is positioned as a catalyst for societal evolution and the emergence of credible value systems with universal appeal (legitimacy) confirmed through consensus

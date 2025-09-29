@@ -1,0 +1,1 @@
+The centredness felt when decision-making returns to one's *legitimate* self-sovereign core from various core nodes. Or paradoxically the centralization of power at the sovereign and hegemonic core: the social science equivalent of a 'Black Hole' - where people need to be and are pulled towards inexorably away from those they are to represent. 

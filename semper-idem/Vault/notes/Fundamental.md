@@ -1,0 +1,1 @@
+Orthodoxy narrowly consistent and recognized across communities by all human beings in civil society at peace (including policy). This forms the basic aspects of intelligence imparted to the young so that they may draw clear distinctions between the rational and irrational.

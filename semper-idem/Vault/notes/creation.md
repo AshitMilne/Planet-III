@@ -1,0 +1,1 @@
+A synonym for the ecology or nature of ‘the environment,’ flowing beyond personal or sovereign boundaries. Used throughout these essays (semper idem) to highlight creative behavior by the self and commons as a means to align outcomes and address the tragedy of the commons.

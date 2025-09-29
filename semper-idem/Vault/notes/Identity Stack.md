@@ -1,0 +1,1 @@
+A layered conceptual model of identity including cryptographic (wallets, blockchain), semantic (domains, digital handles, semper idem), and human (personal, social) layers, used to anchor ethical and coordinated action in digital systems. Metaphorically this is Dial Square

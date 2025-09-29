@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "e31dc4374953ae69",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf8afedde4642a4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8333ca5690e6b74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/OK Computer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OK Computer"
+            }
+          },
+          {
+            "id": "aac45e5bce77465f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tagged/Lexica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lexica"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce8976bafc5ba1d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d74cd132481baa72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a382a73747128485",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "74715aba1f8a3800",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4dee630c52bc2357",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f30b04f29ed52987",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb870268ee4251ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d584d1baf1ce0dee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Kevin Wood.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kevin Wood"
+            }
+          },
+          {
+            "id": "470eba392524319c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4e656c199edcdae2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "69ac556b2341f38b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "aac45e5bce77465f",
+  "lastOpenFiles": [
+    "notes/OK Computer.md",
+    "tagged/Lexica.md",
+    "notes/minimalism.md",
+    "notes/Memory.md",
+    "notes/Machina.md",
+    "notes/Lingam.md",
+    "notes/Jack.md",
+    "notes/intelligence.md",
+    "notes/information technology.md",
+    "notes/consensus.md",
+    "Consensus",
+    "notes/satyam, shivam, sundaram.md",
+    "notes/Identity Stack.md",
+    "notes/Peridot.md",
+    "notes/Smart Contract.md",
+    "tagged/Clear Path To Uranus.md",
+    "notes/Empathy.md",
+    "notes/God.md",
+    "notes/E Pluribus Unum.md",
+    "notes/Genesis.md",
+    "notes/discussion mudra.md",
+    "notes/Dial Square.md",
+    "notes/Deus ex Machina.md",
+    "notes/debt.md",
+    "notes/Daily Planet.md",
+    "notes/Commodity.md",
+    "notes/connection.md",
+    "Untitled.base",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Images/Otter2024.jpg",
+    "Images/Unconfirmed 233320.crdownload",
+    "Images/XmarksSpot.png",
+    "Images/Unconfirmed 472711.crdownload",
+    "Images/GladImNearPoutine.png",
+    "Images/Unconfirmed 88506.crdownload",
+    "Images/BritannicaAtlas.jpg",
+    "Images/Unconfirmed 486830.crdownload",
+    "Images/InterContinentalBoston.jpg",
+    "Images/Unconfirmed 29661.crdownload",
+    "Images/KissInjure.png",
+    "Images/Unconfirmed 116373.crdownload",
+    "Images/BNHMSequoiaCapital.png",
+    "Images/Unconfirmed 259254.crdownload",
+    "Images/pinkslip.jpg",
+    "Images/Unconfirmed 410883.crdownload",
+    "Images/unionblackjack.png",
+    "Images/CupShirt.jpg"
+  ]
+}

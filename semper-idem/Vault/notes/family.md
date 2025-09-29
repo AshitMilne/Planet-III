@@ -1,0 +1,1 @@
+Those with whom food is received and taken in good faith without a sense of obligation (credit or debt)

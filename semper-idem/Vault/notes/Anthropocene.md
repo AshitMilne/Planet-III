@@ -1,0 +1,1 @@
+The **Anthropocene** is our geological epoch. It is defined by the significant and lasting impact of human activity on Earth's geology, climate, and ecosystems. It confirms with finality that humanity is a dominant force of change on the planet, rivaling natural geological processes. God put us in the scene and it was not enough. We responded that we wanted to *feel* 'seen'.

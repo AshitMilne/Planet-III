@@ -1,0 +1,1 @@
+Conferring of order, either in religious or systemic sense; the ethical structuring of collective action.
