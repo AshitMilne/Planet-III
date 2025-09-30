@@ -9,7 +9,11 @@ part: 5
 
 ![](./assets/PrehistoricLedger.jpeg)
 
+<<<<<<< HEAD
 ## Introduction
+=======
+## Introduction ##
+>>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a
 
 If Anima is the innately rational yet connected aspect of intelligence, regardless of linguistic convention—the anarchic intelligence that emanates in Creation (the ecology)—then we approach the "other" as a uniquely embodied identity, in plain language, a person (not a role, responsibility, or title). Previously, we noted that Creation expresses masculine and feminine aspects in all life, distinct from notions of gender or sex. As humans, we compete, explore, and press into adventures. However, we also nurture, hold, mentor, encourage, and long to be at home. These are not mutually exclusive traits, nor are they paradoxes. We hold these seemingly contradictory aspects just as we, in turn, exhale and inhale to seek balance. We each have bespoke ratios of these traits, and we imagine that we may guide each other to express our two aspects in perfect balance as a species, as a whole.
 
@@ -25,6 +29,7 @@ In the 'real world,' however, when surviving at any cost became an imperative, a
 
 This final segment of Sine Qua Non articulates a modern alternative for projecting apex authority: the power that comes from a self-sovereign narrative; an internal vision 'bored' into one's psyche so completely that one makes it real in the world. One takes maximal custody of the world and then, through it, husbands creation and the commons because the Sovereign, having lost legitimacy, cannot maintain a persistent quorum among the people or even decorum. Its behavior is inchoate and incoherent, so we are transitioning to swaraj, or the self-sovereignty of practical and pragmatic life—anarchy.
 
+<<<<<<< HEAD
 ## Chaos of Zero Trust
 
 > Avarice and greed are gonna drive you over the endless sea
@@ -45,6 +50,32 @@ This final segment of Sine Qua Non articulates a modern alternative for projecti
 > I don't want to sail with this ship of fools, no, no, no
 > 
 > ~ World Party (Ship of Fools)
+=======
+
+
+## Chaos of Zero Trust ##
+
+>Avarice and greed are gonna drive you over the endless sea
+>They will leave you drifting in the shallows
+>Drowning in the oceans of history
+>Travellin' the world, you're in search of no good
+>But I'm sure you'll build your Sodom like I knew you would
+>Using all the good people for your galley slaves
+>As your little boat struggles through the the warning waves
+>
+>But you don't pay, you will pay tomorrow
+>You're gonna pay tomorrow, yeah
+>You gonna pay tomorrow
+>
+>Save me, save me from tomorrow
+>I don't want to sail with this ship of fools, no
+>Oh, save me, save me from tomorrow
+>I don't want to sail with this ship of fools, no, no, no
+>
+>~ World Party (Ship of Fools)
+
+
+>>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a
 
 In 1896, Vilfredo Pareto heuristically observed that eighty percent of peas came from about twenty percent of his plants. However, we don't just eat peas: a complex modern political economy requires a profoundly diverse set of personalities to meet our equally complex set of needs and wants. In any case, contentment doesn't just come down to abundance (which, as choice proliferates, can have the opposite impact).
 
@@ -67,7 +98,13 @@ This is a conversation about intelligence, and as with the individual, so with t
 
 From a systems perspective, the structure represents an unstable server; its equipment is a loss leader for the poorly written code that runs it. It generates too much noise and heat at an exorbitant and increasingly untenable cost to those it was meant to serve. Many of us, realizing that the machine increasingly seems to serve its own interests rather than those it was installed for, have decamped to set up a parallel Advanced RISC* Machine (ARM). To understand this new model 'ARMy' system design, you have to go back in time to understand how people conceived of, created, and critically, distributed value when the sum of the parts were designed to fit together rather than cobbled together from a set of random surplus bits; and crucially, before money (of any kind) existed. The maintenance of a level or equilibrium of welfare was of paramount importance regardless of who generated the 'productivity.'
 
+<<<<<<< HEAD
 ## The Virtual Machine
+=======
+
+
+## The Virtual Machine ##
+>>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a
 
 Since all contracts are compromised or at least suboptimal, let's take money out of the equation to imagine an alternative system: one without pyramid scheme hierarchies of practical strangers commanded by the self-styled giants among us. As well, let's pivot from intelligence, which we might agree is equivalently, if not equally, endowed in that we all have a gift or a **Calling**, to talk about leadership in an anarchist context.
 
@@ -91,7 +128,11 @@ Within our indigenous communities, there was no such animus. Primarily, I think,
 
 Neither within our indigenous American communities was there any framework for exerting coercive power, nor was there any means or desire to project it outwardly. The boundedness of a tribe allows for discussion and the formulation of consensus. The details of a matter are transparently assessed, and together, the tribe creates a solution for a challenge. Even crimes such as murder required reparations to be made collectively, as if to stake the community to the persistence of a meaningful, long-lasted reconciliation. Information had currency, and it was worn on the sleeve. Disclosure did not have to be demanded by an individual in a relevant circumstance—it was common sense that transparency was required to generate a fair outcome that would have resilience.
 
+<<<<<<< HEAD
 ## Virtualis
+=======
+## Virtualis ##
+>>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a
 
 Go back to the qualities that make intelligence a creative and resilient, life-giving anima:
 
@@ -103,8 +144,16 @@ Go back to the qualities that make intelligence a creative and resilient, life-g
 
 You may discern that without explicit statement, it presents itself as an idea that has **boundedness**. Like Earth itself, it is finite and whole, and what is unique about it is that it has infinite potentiality. In fact, intelligence is the planet rendered virtually, and what we see on Earth is that intelligence manifested as truth and beauty—a reality that works.
 
+<<<<<<< HEAD
 If it does not work, it is because that intelligence lacks a mechanism to distribute its value transparently and naturally. Something by which we many may become one. Because virtual, all is or is not. We are either all in or we will be all out, and it's just a question of time. This is why the view of the earth from the moon had such a striking impact on the first astronauts. It was finite. We were infinite in faculty *E Pluribus Unum*.
+=======
+If it does not work, it is because that intelligence lacks a mechanism to distribute its value transparently and naturally. Something by which we many may become one. Because virtual, all is or is not. We are either all in or we will be all out, and it's just a question of time. *E Pluribus Unum*.
+>>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a
 
 ---
 
 **RISC = Reduced Instruction Set Computer. Call this a rationalized operating system; a 'smart-contract' enabled to pair-off or 'level' countervailing instructions to recover value lost as a negative externality (heat, particulate emission, noise), all of which serve to bring forward end-of-life and inflate costs.*
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a

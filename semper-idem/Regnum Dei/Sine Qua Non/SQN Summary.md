@@ -1,3 +1,5 @@
+
+
 ### Sine Qua Non – Part 1 (Deus)
 
 - **Intelligence as legitimacy:** True intelligence must be holistic and systemically valid — not narrow, but universally legitimate, reconciling self, society, and creation.

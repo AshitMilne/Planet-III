@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 The model of a sundial called Dial Square aims to reframe reality  by pivoting one's frame of reference from the Sovereign to the Sun (an objectively Platonic representation of Creation for modeling behaviour against since all other intelligence on earth operate on its signal). Coincidentally Dial Square was the name of the team whose members laboured at the house of manufacture (**dār aṣ-ṣināʿah** or دار الصناعة) for armaments: the Royal Arsenal.
+=======
+Original name of Arsenal. Perhaps the first instance of the word, a workshop or factory for the forging of weaponry situated in London. The word derived from the Arabic **dār aṣ-ṣināʿah** (دار الصناعة) means house of manufacture or workshop. Workers (labourers and management) created Dial Square - a football club - to express something more creative at play as the modern game developed into what is has become. Dial Square is a sundial and is used as a metaphor to represent an identity's unique attribute in place and time (making it constant but distinct in Calling and opportunity) through a semantic perimeter of identity embodied.
+>>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a

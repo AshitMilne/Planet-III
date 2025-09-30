@@ -3,7 +3,11 @@
 
 ## Introduction ##
 
+<<<<<<< HEAD
 In short, our purpose here is to examine what a human-centric system design imbued with a natural and organic intelligence that is efficient. We use the term 'emotional intelligence' or empathy broadly in street psychology to describe a 'good people' vibe. A deeper understanding is required if we are to enable contracts with this intelligence, which is why I frame it as Anima. This piece explores [[notes/Anima]] and the elements that constitute it. The short answer is that through an anarchist lens, crime, especially premeditated murder (which of course includes war) is a health matter (i.e., not intelligent).
+=======
+In short, our purpose here is to examine what constitutes a human-centric system design imbued with a natural and organic intelligence that is efficient. We use the term 'emotional intelligence' or empathy broadly in street psychology to describe a 'good people' vibe. A deeper understanding is required if we are to enable contracts with this intelligence, which is why I frame it as Anima. This piece explores [[notes/Anima]] and the elements that constitute it. The short answer is that through an anarchist lens, crime, especially premeditated murder (which of course includes war) is a health matter (i.e., not intelligent).
+>>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a
 
 
 ## Animus ##
@@ -60,7 +64,11 @@ As we hive off into communities, male and female aspects of a society perform di
 - [[Shared Purpose]]: We gravitate around a distilled outcome becoming from many one - [[E Pluribus Unum]]*. This is our notional capital. Whatever the legal *ownership* of capital in a very real sense it is a shared utility
 
 
+<<<<<<< HEAD
 What makes this [[anarchy]] is that anima is sufficiently expressed in masculinity through the absence of coercive energy—either emotional or physical (violence) on a person. The fine line becomes nuanced in practice as incumbent participants in a polity resort to tactics required to achieve outcomes (electoral victory). Anima is essentially love without possessiveness; an abiding affection which neither wants nor needs anything. Love that does not require the 'other' to requite—nor even offer even negligible social credit. This removes paranoia and what is left is abstract identity (id) that contains both masculine and feminine aspects in a bespoke balance of androgyny. What this means is that we are not the same (which is to say we are not identical), but we are each of equivalent worth or value in Creation as a starting point for discussion. This notion is central to reconciliation and wholeness and demands the removal of arbitrary preference (i.e., bias).
+=======
+What makes this anarchy is that anima is sufficiently expressed in masculinity through the absence of coercive energy—either emotional or physical (violence) on a person. The fine line becomes nuanced in practice as incumbent participants in a polity resort to tactics required to achieve outcomes (electoral victory). Anima is essentially love without possessiveness; an abiding affection which neither wants nor needs anything. Love that does not require the 'other' to requite—nor even offer even negligible social credit. This removes paranoia and what is left is abstract identity (id) that contains both masculine and feminine aspects in a bespoke balance of androgyny. What this means is that we are not the same (which is to say we are not identical), but we are each of equivalent worth or value in Creation as a starting point for discussion. This notion is central to reconciliation and wholeness and demands the removal of arbitrary preference (i.e., bias).
+>>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a
 
 
 

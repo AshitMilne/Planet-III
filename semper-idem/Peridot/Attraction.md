@@ -11,6 +11,7 @@ tags: ["Peridot"]
 
 Artwork: The Self-Preservation Society. The avatars of Vishnu (Ram and Krsna) *sustain.* They preserve what they have so that they may manifest Brahma (creation) and thence Shiva (transmutation). That is to say evolve or adapt to circumstances so that  they may continue to sustain and create in a state of constant transmutation (evolution) - cycling for eternity ([Nataraja](https://en.wikipedia.org/wiki/Nataraja))
 
+<<<<<<< HEAD
 
 
 >Don't start that talking
@@ -23,6 +24,13 @@ Artwork: The Self-Preservation Society. The avatars of Vishnu (Ram and Krsna) *s
 >~ Elvis Costello & The Attractions (Oliver's Army)
 
 
+=======
+But there's no danger It's a professional career Though it could be arranged With just a word in Mister Churchill's ear
+
+~ Elvis Costello & The Attractions ([Oliver's Army](https://www.youtube.com/watch?v=LrjHz5hrupA))
+
+**Have You Got Yourself An Occupation?**
+>>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a
 
 Those lyrics above speak to the simplistic exhortations of a sovereign to the idealism of young men (and now women) to sacrifice their lives for or a an idea whilst the privileged find away to dodge that same responsiblity. War is the random and wanton destruction of the 'other' and only one word suffices for it - crime.* Only people (one or more humans) decide to go to war by executing it by others who are guilty of 'following orders' or 'doing their job' at the very least against others who are doing precisely the same thing. This is '[mechanical turk](https://www.mturk.com/) for dummies' (anyone naive, lazy or psychopathic) to take a job that entails randomly killing or censoring the 'other' then delegates to another the task of carrying out the task with 'patriotism' as the justification. This is why Churchill called it the *last* refuge of a scoundrel. It is the simplistic who pay the price with their life. My own anarchist perspective is that all existing contracts including the so-called *default* currency are null and void. I believe there would be consensus on this in what I consider my philosophical leadership**
 
@@ -44,6 +52,7 @@ There is satisfaction in creative endeavor to be found in the 'bullshit job' unt
 
 **Chomsky, Graeber, Goldman, Kropotkin
 
+<<<<<<< HEAD
 ***Tithe is a penance paid to one's religious order for the wages of sin where a wage is collected for work that misses the point of life itself (a sacrifice of the son instead of the 'goat')
 
 
@@ -100,3 +109,6 @@ Here's why this distinction is crucial:
   - **Emotional Regulation:** It helps you become more comfortable with your own feelings, whether good or bad, without needing to distract yourself from them.
 
 In short, the type of boredom that leads to a positive outcome is a **deliberate and mindful state**, not a circumstantial one. It's the difference between being a **passive victim of boredom** and an **active participant** in it.
+=======
+***Tithe is a penance paid to one's religious order for the wages of sin where a wage is collected for work that misses the point of life itself
+>>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a

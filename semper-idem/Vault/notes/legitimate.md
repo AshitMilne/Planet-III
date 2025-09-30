@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 That which lives up to a consensus of expectations held at large by those with agency, namely the sentient and is extended to that which has meets systemic expectations objectively measured and accounted for over time. Legitimacy may be jurisdictionally bounded however to the degree it is universally acknowledge it also commands relative prestige and acclaim. Compliance is irrelevant. Ultimately legitimacy is recognized by all as being equivalent to creation itself because it places ecology, without which there is nothing (hence Sine Qua Non), above all else.
+=======
+That which lives up to a consensus of expectations held at large by those with agency, namely the sentient and is extended to that which has meets systemic expectations objectively measured and accounted for over time. Legitimacy may be jurisdictionally bounded however to the degree it is universally acknowledge it also commands relative prestige and acclaim. Compliance is irrelevant 
+>>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a

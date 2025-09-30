@@ -8,16 +8,25 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "a8333ca5690e6b74",
+=======
+            "id": "5c5fbb01acbe3e78",
+>>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "notes/OK Computer.md",
+=======
+                "file": "notes/Sine Qua Non.md",
+>>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "OK Computer"
             }
           },
@@ -37,6 +46,12 @@
           }
         ],
         "currentTab": 1
+=======
+              "title": "Sine Qua Non"
+            }
+          }
+        ]
+>>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a
       }
     ],
     "direction": "vertical"
@@ -182,6 +197,7 @@
       "bases:Create new base": false
     }
   },
+<<<<<<< HEAD
   "active": "aac45e5bce77465f",
   "lastOpenFiles": [
     "notes/OK Computer.md",
@@ -214,6 +230,39 @@
     "Untitled.base",
     "Untitled 1.canvas",
     "Untitled.canvas",
+=======
+  "active": "5c5fbb01acbe3e78",
+  "lastOpenFiles": [
+    "tagged/Clear Path To Uranus.md",
+    "notes/Illumination (Peridot).md",
+    "tagged/Machina.md",
+    "tagged/Virtualis.md",
+    "notes/satyam, shivam, sundaram.md",
+    "notes/zeitgeist.md",
+    "tagged/Affluence Pedaling.md",
+    "notes/self-sovereign.md",
+    "notes/White Boy.md",
+    "tagged/Genesis.md",
+    "notes/path of least (POL).md",
+    "notes/path of most (POM).md",
+    "Path of Most.md",
+    "notes/creation.md",
+    "Untitled.base",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "tagged/Lexica.md",
+    "tagged/Deus.md",
+    "tagged/Anima.md",
+    "notes/Act III.md",
+    "notes/human-centric systems.md",
+    "notes/Black Boy.md",
+    "notes/Clock time.md",
+    "notes/bullshit job.md",
+    "notes/Nakamoto Consensus.md",
+    "notes/Smart Contract.md",
+    "notes/pragmatism.md",
+    "notes/Kevin Wood.md",
+>>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a
     "Images/Otter2024.jpg",
     "Images/Unconfirmed 233320.crdownload",
     "Images/XmarksSpot.png",
@@ -231,6 +280,10 @@
     "Images/pinkslip.jpg",
     "Images/Unconfirmed 410883.crdownload",
     "Images/unionblackjack.png",
+<<<<<<< HEAD
+=======
+    "Images/Unconfirmed 798001.crdownload",
+>>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a
     "Images/CupShirt.jpg"
   ]
 }

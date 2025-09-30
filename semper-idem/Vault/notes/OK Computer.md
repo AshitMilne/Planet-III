@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 **OK Computer** is the name of an important album by the band Radiohead. The _discussion mudra_ frames the "OK" gesture as the contemplative sits in meditation. _OK Computer_ can be read as another way of looking at intelligence — one that is not separate, but in union with the whole. The divine within feels yoked to the great Machine of the Universe (_Machina_): playful at times, but without animus, nor the fear of a paranoid "android." In symbolic terms one decides to be whole ('O') come what may what others choose is their decision. Maintaining wholeness requires us to draw a line and fork ('K'), that is, 'agree to disagree' for now and without animus.
+=======
+The discussion mudra frames the 'OK' gesture as the contemplative sits in meditation. It seeks equivalence (three fingers) to seek and hold the whole in quietude. OK Computer as another way to look at intelligence - as Deus En Machina - a virtual machine in the hands of one animated with the dimensions of love constituting anima and shorn of animus
+>>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a

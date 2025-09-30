@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## A Clear Flight Path To Ur Anus
 
 
@@ -5,6 +6,17 @@
 Toilet paper makes about as much sense as paper cash [[money]] except that the former is much more hygienic to begin with and much more productive (or fertile - certainly it's closer to literal fertilizer than the 'bullshit' US dollar) at the end.  If you are going to use paper cash please understand that it has passed through many hands and you shouldn't use for anything much less wiping your arse.
 
 In all seriousness however, the sheer quantity of energy we consume making and shipping toilet paper is approximately US $120 billion. There is as well the time spent unclogging drains and toilets. Earlier this year (2025) a flight from Toronto had to turn around because of a clogged toilet. Such is our age of the chaos. Imagine the hundreds of thousands of dollars of time, effort, fuel lost. 
+=======
+
+
+## A Clear Flight Path To Ur Anus ##
+
+![](./../assets/ButtholeSurfer.png)
+
+Toilet paper makes about as much sense as paper cash [[money]] except that the former is much more hygienic to begin with and much more productive (or fertile - certainly it's closer to literal fertilizer than the 'bullshit' US dollar) at the end.  If you are going to use paper cash please understand that it has passed through many hands and you shouldn't use for anything much less wiping your arse.
+
+In all seriousness however, the sheer quantity of energy we consume making and shipping toilet paper is approximately US $120 billion. There is as well the time spent unclogging drains and toilets. Earlier this year a flight from Toronto had to turn around because of a clogged toilet. Such is our age of the chaos. Imagine the hundreds of thousands of dollars of time, effort, fuel lost. 
+>>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a
 
 Let's set back and understand the logic of the lack thereof. We start by planting many thousands trees each year, waiting years for them to grow to their full majestic heights. Then we take a plethora of noisy, dirty equipment out into that wilderness wreak havoc while we 'harvest' that wood. Then, we truck it vast distances and use various processes to pulverize bleach and fabricate a fine fabric which we then use after we go to the toilet. The insanity of it is enough to make you cry and the sheer magnitude of this habit on a global scale is calamitous. 
 
@@ -16,6 +28,10 @@ Order one of [these](https://www.amazon.ca/dp/B08QHTVDM3?ref_=ppx_hzsearch_conn_
 
 This is the kind of deeply embedded badly coded culture that can be rewritten through smart contracts and smart money. You can actually quantify the cost to the public and to the ecology and levy precisely the right incentive - even as social credit - to effect meaningful change. 
 
+<<<<<<< HEAD
 ## Your Arsenal
 
 Climate change is the single greatest threat to humanity and there are some industries whose impact is negative to the individual, the commons and to creation. They exist because they generate revenue and have shareholders who aren't paying attention to anything except the yield on their 'investment' or who separate their _economic_ life as a consumer or producer from their _political_ life as a citizen - a kind of modern personality disorder. We need to live our lives as though they are a coherent whole versus a fragmented set of behaviours that brought together cannot be made sum positive. The [[self-sovereign]] individual is one who take responsibility for resolving global problems locally right where they live; starting with their arse. The problem isn't cynicism. It is abdication of our responsibility to challenge it along with apathy, indifference and fear. All we need is the courage to make a small decision then another and so forth. Rinse and repeat.
+=======
+Climate change is the single greatest threat to humanity and there are some industries whose impact is negative to the self, the [[commons]] and to [[creation]]. They exist because they generate revenue and have shareholders who aren't paying attention to anything except the yield on their 'investment' or who separate their *economic* life as a consumer or producer from their *political* life as a citizen - a kind of modern personality disorder. We need to live our lives as though they are a coherent whole versus a fragmented set of behaviours that brought together cannot be made sum positive.
+>>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a

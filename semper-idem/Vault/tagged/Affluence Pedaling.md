@@ -1,9 +1,17 @@
 
 
+<<<<<<< HEAD
 
 Above: Using my FLX Babymaker to show off my driveway and front yard (I planted those trees twenty years ago or so)
 
 ## [[Anarchy]] Gains From Disorder ##
+=======
+![FLXBabyMaker](C:\Users\Ash\Documents\Planet III\Semper Idem\Vault\Images\FLXBabyMaker.jpg)
+
+Above: Using my FLX Babymaker to show off my driveway and front yard (I planted those trees twenty years ago or so)
+
+## Anarchic Gains From Disorder ##
+>>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a
 
 >You say coke, I say 'caine
 >You say John, I say Wayne
@@ -33,7 +41,11 @@ Dawkins’ “selfish gene” suggests energy conservation as a survival trait, 
 
 Having found that savouring the high of such moments entails a come down, I opt for what I call a [[path of most (POM)]] (POM) resistance; taking the more strenuous route to comfort. Walking instead of riding the train or fasting while out instead of dining (alone) has too within it something of "propaganda as deed". It's a strike or a sanction against the sovereign and his systems as I make metaphorical salt. It is my [[satyagraha]]. Instead of walking a straight path on a clear barren climate-controlled corridor, I take the trail with weather and many distractions. The journey is the thing so I immerse myself in each moment wherever I am and see how I might profit in information or money *saved*. You pay for things *after* taxes remember. It's best not to bother even making the money in the first place - especially if there's even a moment of futility in the toil you do for it. It's best to find the enjoyment that comes from not spending what you have. When I work, it's for sheer love of what I do, the why and the how (it's that last one that provides me the discomfort that results in new learning - the resistance training if you will).
 
+<<<<<<< HEAD
 Philosophical [[Anarchy]] is the idea of assuming responsibility and accountability at home (wherever you are) regardless of whether the rest of the commons gives one you an incentive to do so. I've frame the opportunity in terms of political and radical dissent but you can also, if you prefer, look at it in more playful constructive terms. Imagination and vision makes these opportunities to own and manipulate your behaviour instead of absent-mindedly surrendering it to profiteers. You'll come to relish the creativity and play that enters your life. 
+=======
+Philosophical Anarchism is the idea of assuming responsibility and accountability at home (wherever you are) regardless of whether the rest of the commons gives one you an incentive to do so. I've frame the opportunity in terms of political and radical dissent but you can also, if you prefer, look at it in more playful constructive terms. Imagination and vision makes these opportunities to own and manipulate your behaviour instead of absent-mindedly surrendering it to profiteers. You'll come to relish the creativity and play that enters your life. 
+>>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a
 
 A couple of decades ago on my first at home-only assignment I grew a bit fat and even pre-diabetic (genes making me susceptible to Type 2 Diabetes). In response I started running upstairs through the day to our ensuite bathroom to urinate. Problem solved - I'd stack up 10 or 15 flights a day. Even now, I still sometimes absent-mindedly launch myself in a playful sprint upstairs. On the potty (I sit because I'm lazy and don't want to wash my hands this way) my mouth still closed, I'd assess my recovery; could I return to a normal cadence before I stopped pissing? I've actually graduated from that particular habit now to urinate outdoors. It saves me a flush and the testosterone marks a perimeter for critters to respect.
 
