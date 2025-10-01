@@ -1,7 +1,7 @@
 # The Vision #
 Imagine a real-time, on-chain version of Palantir Foundry—without centralized orchestration—where trusted identities transact freely across community, corporate, and sovereign boundaries. Here, data flows without censorship, governed transparently by rules that align individual self-interest with the commons. We call this Intelligent Capital: sound information (like good money) moving at the speed of light. It may not be immediately obvious but this is the stuff that twentieth-century anarchist dreams were made of. It paves the way to reimagining civil and economic governance by fully integrating good-faith pluralism and opportunism into our global reality.
 
-<<<<<<< HEAD
+
 
 
 ##  Regnum Dei
@@ -36,9 +36,7 @@ A series that examines and aims to illuminate key terms relevant to this corpus 
 
 ## Daily Planet
 
-The greater the number of angles we can approach a subject the more sophisticated the holistic lens that is developed to explore language and define a philosophical model that serves humanity in pluralistic ways that are objectively legitimate. Daily Planet provides a background into the Jackanori personal stories or experiences that define my  own personal worldview that become a *form* of knowledge on a virtual plane or dimension.
-
-## Polite Bureau
+The greater the number of angles we can approach a subject the more sophisticated the holistic lens that is developed to explore language and define a philosophical model that serves humanity in pluralistic ways that are objectively legitimate. Daily Planet provides a background into the Jackanory personal stories or experiences that define my  own personal worldview that become a *form* of knowledge on a virtual plane or dimension. I hope you feel as though your life has been and is as worthwhile as mine. I often wish my ancestors had written about who they were and what their lives were about so that I might their times through *their* lens. Polite Bureau
 
 Aims to provide opinion and editorial perspective from my anarchist lens. It examine at often sub-optimal policy outcomes of 'split the difference' electoral systems even as the system itself is examined to apply regeneration through reductive approaches to code (law) through the application of smart contracts which having a broader insight into transactional data may define preferable outcomes.
 
