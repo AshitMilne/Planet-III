@@ -5,20 +5,16 @@
 A third 'elder' phase of life forward-looking and committed to the future synthesizes prior reflection (a cycling of apprehension and introversion) to apply *semper idem* to societal evolution. It begins approximately at 60 and extends as a natural life and circumstances allow. While Acts I and II respectively have masculine and feminine bias. In Act III one seeks to regenerate the Commons and restore Creation.
 
 **Anarchy**
-<<<<<<< HEAD
 An emergent and dynamic order, manifesting without centralized coordination through a network or ecology through identification of objective truth and aesthetic (minimal) purpose or utility in a specific context. As a heuristic it represents 'good taste'. Whether obscure or familiar, it nevertheless pleases. This contrasts with chaos: self-evident haphazard disorder and incongruity with nature. This often manifests in humanity as a consensus of what constitutes or represents poor taste.
-=======
-An emergent and dynamic order, manifesting without centralized coordination through a network or ecology through identification of objective truth and aesthetic (minimal) purpose or utility in a specific context. It contrasts with chaos: a self-evident disorder and incongruity.
->>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a
 
 **Anima**
 Is the jolly good ape aspect of humanity capable of the five dimensioned (emotional) intelligence blob (irregularly shaped whole) which constitutes love and reconciles it with the flora and fauna. Those dimensions are emotional connection, empathy, clock time, memory and shared purpose. Shorn of it man is a self-centred version of Machina (without *Dei*) - a paranoid android - expressing Animus which like corporatism and cancer grows for growth's own sake. 
 
-**Animus
+**Animus**
 The masculine aspect of the feminine. Hostile and defensive it arises when rational and competent masculine energy that defends a perimeter is lost profoundly; this is the case when the Sovereign sounding ever more shrill and expressing paranoia and nativist instincts loses legitimacy. Pervasive in society when households are  bereft of men expressing feminine energy in the household, or absent altogether.
 
 **Anthropocene**
-The **Anthropocene** is our geological epoch. It is defined by the significant and lasting impact of human activity on Earth's geology, climate, and ecosystems. It confirms with finality that humanity is a dominant force of change on the planet, rivaling natural geological processes. God put us in the scene and it was not enough. We responded that we wanted to *feel* 'seen'.
+The Anthropocene is our geological epoch. It is defined by the significant and lasting impact of human activity on Earth's geology, climate, and ecosystems. It confirms with finality that humanity is a dominant force of change on the planet, rivaling natural geological processes. God put us in the scene and it was not enough. We responded that we wanted to *feel* 'seen'.
 
 **Anti-heritage**
  The accumulation of material or cultural preoccupations that degrade emotional, social, or environmental well-being; the erosion of relationships and institutions through overconsumption or neglect of ethical equilibrium.
@@ -26,7 +22,6 @@ The **Anthropocene** is our geological epoch. It is defined by the significant a
 **Atheism**
 The refusal to admit a fundamental separation between a creator and Creation (Nature). Non-dualist traditions such as Taoism, Advaita Vedanta, and Buddhism operate within this frame, maintaining depth without recourse to a deity apart from the world. Pagan and animist systems, by contrast, may be read as entropic proliferations of deities arising from the tension between dualist and non-dualist worldviews.
 
-------
 ## B
 
 **Bitcoin**
@@ -38,27 +33,20 @@ An underdog hard-line militant masculine charisma that intuitively demands insur
 **Brute-force derivation**
 A computational or systemic approach relying on exhaustive trial-and-error rather than coordinated, ethical, or principle-driven design. In the essay, this is contrasted with holistic, coordinated approaches to value and governance.
 
-<<<<<<< HEAD
 **Bullshit jobs**
 a term coined by David Graeber. These are forms of employment that persist largely in large bureaucratized institutions (corporations, governments, universities) where the tasks performed are perceived by both workers and society as difficult to enjoy, unnecessary, unproductive, or actively harmful, have increasingly diminishing returns on time invested (offering little information or learning) or have only a residual redeeming quality (where the alternative wage unemployment for example is untenable and unattractive). These jobs consume finite resources — time, energy, and material — in ways that appear increasingly unjustifiable. Beyond administrative roles, the category also extends to certain forms of production and services that offer only marginal real utility to individuals as consumers or citizens.
 
-=======
->>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a
-------
 ## C
 
 **Centralization**
 The centredness felt when decision-making returns to one's *legitimate* self-sovereign core from various core nodes. Or paradoxically the centralization of power at the sovereign and hegemonic core: the social science equivalent of a 'Black Hole' - where people need to be and are pulled towards inexorably away from those they are to represent. 
 
-<<<<<<< HEAD
 **Clock Time**
 A shared sense of what constitutes time in context and the objectives or milestones that a journey of shared time (roadmap) entails. Critically clock time allows for the derivation of time's value: A rate return (interest) for which work is swapped for leisure. This is profoundly subjective and never a function of traditional sovereign factors - the price of things. Naturally, time value may be impaired by a lack of objectivity in assessing optionality and one's perception of self-interest. The prevalence of concepts such as purchasing power parity imply a deep inequality in the way labour (effort) is priced and therefore valued globally given that clock time in the final analysis is a shared (common) experience. The model Dial Square aims to emphasize this by pivoting one's frame of reference to from the Sovereign to the Sun (an objectively Platonic representation of Creation for modeling behaviour against since all other intelligence on earth operate on its signal).
 
 **Commodity**
 Inert solid substance whose purity may be measured (generally an component of chemical composition which is defined precisely in metric measurement of weight and volume (imperial measures are no untenable for volume). Salt is a mineral whose composition is variable. It is no longer a viable currency when dissolved in liquid.
 
-=======
->>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a
 **Commons**
 A structured set of shared and collectively owned resources, rules, and institutions through which individuals coexist and interact. Includes both societal governance structures and natural systems; the ethical anchor or stake for human coordination.
 
@@ -66,7 +54,6 @@ A structured set of shared and collectively owned resources, rules, and institut
 Synonym for the Commons or commonweal. A structured set of shared resources, rules, and institutions through which individuals coexist and interact. Includes both societal governance structures and natural systems; the ethical anchor for human coordination. The addition of weal or wealth implies a currency of culture and its notional equivalent, money is in common use, cycling continuously through it.
 
 **Compromise**
-<<<<<<< HEAD
 An imperfect settlement that splits the difference in a transaction for which a lack of transparency prevents a full accounting of due consideration. Maximum extraction of value is prevented. The Japanese character for middle is extended to represent this externalization that is negated into the commons and creation as loss. This is also the 'Ce qu'on voit et ce qu'on ne voit pas' (What is seen and What is Not Seen) of Frédéric Bastiat. In the virtual civil engineering of technology information this accumulates as 'technical' debt leading to (unseen) structural failure.
 
 **Confederation**
@@ -74,7 +61,8 @@ In opposition to federalism, a confederation devolves power substantially from t
 
 **Connection**
 A bond or shared understanding of what constitutes a high-fidelity commitment. Connective tissue in the body serves as a metaphor for the structural and sustaining nature of such a bond. In contemporary usage, terms like “friend” or “connection” have often been diluted to indicate mere awareness of another’s presence, rather than a reliable or enduring relationship. For example, a LinkedIn connection or Facebook friend does not inherently reflect the continuity, depth, or fidelity of the relationship itself. They may not even be alive as neither platform has that degree of dynamism to adjust to changes in their real-world 'circumstances' (such as liveness).
-=======
+
+**Compromise**
 An imperfect settlement that splits the difference in a transaction for which a lack of transparency prevents a full accounting of due consideration. Maximum extraction of value is prevented. The Japanese character for middle is extended to represent this externalization that is negated into the commons and creation as loss. This is also the 'Ce qu'on voit et ce qu'on ne voit pas' (What is seen and What is Not Seen) of Frédéric Bastiat. In the virtual civil engineering of technology information this accumulates as 'technical' debt.
 
 **Confederation**
@@ -82,23 +70,15 @@ In opposition to federalism, a confederation devolves power substantially from t
 
 **Connection**
 A shared notion of what constitutes a high-fidelity commitment.
->>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a
 
 **Consciousness**
 A state of awareness tied to the idea of a universal or divine mind particularly in states of 'flow' wherein one is deeply immersed in the current - a manifestation that is both both instant and constant.
 
 **Consensus**
-<<<<<<< HEAD
 A collectively derived agreement or valuation that has legitimacy because it reflects coordination among participants, rather than merely imposed authority. In the essay, this extends to global or networked systems such as blockchain or collective human judgment.
 
 **Coordination**
 The process of aligning individual actions, intentions, or contributions to produce a coherent and ethical outcome for the self, commons, or creation.
-=======
- A collectively derived agreement or valuation that has legitimacy because it reflects coordination among participants, rather than merely imposed authority. In the essay, this extends to global or networked systems such as blockchain or collective human judgment.
-
-**Coordination**
- The process of aligning individual actions, intentions, or contributions to produce a coherent and ethical outcome for the self, commons, or creation.
->>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a
 
 **Creation**
 A synonym for the ecology or nature of ‘the environment,’ flowing beyond personal or sovereign boundaries. Used throughout these essays (semper idem) to highlight creative behavior by the self and commons as a means to align outcomes and address the tragedy of the commons.
@@ -106,8 +86,6 @@ A synonym for the ecology or nature of ‘the environment,’ flowing beyond per
 **Credit**
 A general sense of appreciation or gratitude felt by one who has been creative. Time well spent in hindsight is immeasurably satisfying. In the final analysis purely notional and felt rather than paid as token or even as compliment. However potential credit (i.e. a social debit) may be expressed as a token to actuate sound governance through incentivized behaviour.
 
-------
-<<<<<<< HEAD
 ## D
 
 **Daily Planet**
@@ -125,31 +103,21 @@ The model of a sundial called Dial Square aims to reframe reality  by pivoting o
 **Discussion Mudra**
 The gesture struck during daily seated contemplation functions much like a placebo, influencing outcomes when applied with deliberate intention—namely, alignment or yoking with the whole (yoga). In this corpus, the relevant mudra embodies the pursuit of equivalence: three extended fingers (≡) signify self-similarity to the totality of creation, while the thumb and forefinger joined in a loop represents union. Through these symbols, distilled in language and momentarily stilled, the contemplative engages with the commons of which they are a part. The mudra unites three aspects into a coherent whole, and its synchronicity is reflected in Western culture as the familiar “OK” gesture - all is well.
 
-------
-=======
-
->>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a
 ## E
 
 **Emergence**
- The appearance of patterns, value, or behavior from interactions among actors or systems, often unpredictable but manifesting as meaningful structures in society or nature.
+The appearance of patterns, value, or behavior from interactions among actors or systems, often unpredictable but manifesting as meaningful structures in society or nature.
 
-<<<<<<< HEAD
+
 **Empathy**
 To possess an understanding of the things that makes the 'another' distinct from oneself  a stakeholder (i.e. someone who has rights, and obligations) within a system or network
 
-=======
->>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a
+
 **Entropy**
  Complexity or apparent chaos in human, societal, or systemic behavior. Not simply disorder, but the fragmentation that provides the substrate for new patterns, coordination, and creative opportunity.
 
-------
 ## G
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a
 **Genesis**
  The starting point of coordinated renewal; the conceptual origin of Act III and the essay’s broader exploration of legitimacy, value, and ethical governance.
 
@@ -157,47 +125,23 @@ To possess an understanding of the things that makes the 'another' distinct from
  A term adapted from Marshall McLuhan, describing the networked state of human communication and awareness, where central narratives influence collective consciousness.
 
 **God**
-<<<<<<< HEAD
 God is generally conceived as custodian, guardian, and protector. In complex societies, those still developing emotional self-restraint—often children or the morally inexperienced—are initially instructed in ethics through simple, observable cause-and-effect: good behavior is rewarded, bad behavior punished. Over time, this reinforces the principle that consistent ethical action produces predictable and preferable outcomes, both for the individual and for the collective. Crucially, most faith systems portray God as agnostic regarding the fortunes of any single individual, which allows for the establishment of objective standards of right and wrong. These standards, grounded in the predictable alignment of behavior and consequence, serve not merely as guidance for the self but as a framework that benefits the broader community.
 
-------
 ## I
 
 **Identity Stack**
  A layered conceptual model of identity including cryptographic (wallets, blockchain), semantic (domains, digital handles, semper idem), and human (personal, social) layers, used to anchor ethical and coordinated action in digital systems. Metaphorically this is Dial Square
 
 **Information Technology (IT)**
-The systems, protocols, and networks facilitating data transmission, computation, and coordination among individuals comprising communities, institutions sovereign entities etc. IT is positioned as a catalyst for societal evolution and the emergence of credible value systems with universal appeal (legitimacy) confirmed through consensus
-=======
-Generally God is framed as a deity: custodian, guardian and protector. Innocents (the young or those who have yet to learn the capacity for emotional self-restraint) are, in complex societies, are often at first instructed ethics in simple terms of good and bad behaviour being rewarded and punished by God to effect the desired behaviour.
-
-------
-# I
-
-**Information Technology (IT)**
 The systems, protocols, and networks facilitating data transmission, computation, and coordination among individuals and institutions. In the essay, IT is positioned as a catalyst for societal evolution and the emergence of legitimate value systems.
->>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a
 
 **Intelligence**
 A form of holistic and intentional agency that is systemically aware. It operates objectively (truth) and manifests aesthetic appeal  (beauty). As such it commands universal legitimacy. It is the seeker's objective.
 
-<<<<<<< HEAD
-------
-## J
-
-**Jack**
-Jack is the archetype of the ordinary man hero in his mode. He is master of none upwardly mobile spirit who amounts to a hill of beans (traded for the storybook cow). A mound which penetrates the hoarded capital 'liberated' to lift all boats. He stalks the indolent giant - the self-satisfied and systemically privileged 'underutilized' yet overpaid. As Jack London is the self-sufficient outdoors' man quietly, contemplatively casting in the river and panning for prosperity. Quiet merchant/soldier of fortune he is the spirit of Dick Whittington made Lord Mayor of London on the strength of his wits. With a spirit teetering on aggro (animus) at the wrong wrought by man in the world he introverts to find the right leverage and fulcrum point to make some, any, impact.
-=======
-**Identity Stack**
- A layered conceptual model of identity including cryptographic (wallets, blockchain), semantic (domains, digital handles, semper idem), and human (personal, social) layers, used to anchor ethical and coordinated action in digital systems. Metaphorically this is Dial Square
-
-------
 ## J
 **Jack**
 The mythical lad, master of none is the upwardly mobile spirit who amounts to a hill of beans - a mound that lifts all boats. If he stalks it's the indolent giant. His is the prospect of a pearl from oyster, grist from the mill collected. Quietly casts in the river or pans for the prospect for prosperity. Quiet soldier of fortune is the discussive and adventurous spirit of Dick Whittington and Jack London. In a suite there is no female equivalence - this is archetype of the penitent soldier and priest serving a higher order than the household in civilization he serves sovereign duality (King and Queen) in the service of Creation.
->>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a
 
-------
 ## L
 
 **Legitimate**
@@ -206,11 +150,10 @@ That which lives up to a consensus of expectations held at large by those with a
 **Le Prix**
  French for “The Price,” used in the essay to signify the genesis of legitimate global consensus—a valuation derived from coordinated, ethical interaction rather than brute-force imposition.
 
-<<<<<<< HEAD
+
 **Lingam**
 An emblem of generative power representing Lord Shiva, encompassing transformation, creativity, fertility, and transmutation. For the English speaker, its resonance with _linguistics_ (symbols) and _“am”-ness_ (identity) indicated the intellectual and cultural character of human creativity. This creativity requires internal modeling (thought), abstraction, and then communication (language) to establish consensus around value and credibility. In this sense, the _lingam_ can be understood as a metaphor for civilization itself: society is generated and sustained through the same cycle of introversion, symbolization, and shared discussion.
 
-------
 ## M
 
 **Machina**
@@ -222,36 +165,25 @@ A narrative that amounts to a recollection of the past from a particular perspec
 **Minimalism**
 A philosophy of reducing the possession of things (whether it be objects or the modeled constructs of society - physical property, patents, copyright) which comes from the view that those possessions at some point become burdensome, impinging on both one's own quality of life and certainly those of other humans (these things having ultimately been drawn, or extracted, from a common source - creation and culture).
 
-=======
-------
-## M
-
->>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a
 **Money**
 Notionally this is food or its caloric equivalents (shelter and clothing as required). It needs to be eaten, planted as seed or tended as cattle. It spoils if stockpiled or neglected: it will be subject to debasement or become available for illicit and/or unethical behaviour. Paper cash has this quality. Like crop and husbandry money requires a boundary in order to be well-governed. This boundary forms a Commons or a Sovereign jurisdiction and the 'crop's yield maybe seen as the 'risk-free' rate.
 
-------
 ## N
 
 **Nakamoto Consensus**
 From Naka meaning middle and that which is derived from exchange of due consideration and Moto meaning base. Compromise to reach price settlement without transparency on innate value implies a loss to the coinbase (the finite reality of the planet). This technical debt is to be settled through the evolution monetary governance and eventually reconciled as fiscal rectitude. It is the matter constituting the recovery of MEV (Maximum Extractable Value) of priority transactions that meet a higher standard of rigour than merely the ability to pay for prioritization as we prove our stake to the finite reality of our planet. The path to consensus extends as a series of blocks into an *internal* horizon represented an infinitely divisible whole of extracted *alpha*.
 
-------
 ## O
 
-<<<<<<< HEAD
-**OK Computer**
+
 **OK Computer** is the name of an important album by the band Radiohead. The _discussion mudra_ frames the "OK" gesture as the contemplative sits in meditation. _OK Computer_ can be read as another way of looking at intelligence — one that is not separate, but in union with the whole. The divine within feels yoked to the great Machine of the Universe (_Machina_): playful at times, but without animus, nor the fear of a paranoid "android." In symbolic terms one decides to be whole ('O') come what may what others choose is their decision. Maintaining wholeness requires us to draw a line and fork ('K'), that is, 'agree to disagree' for now and without animus.
 
-
-=======
->>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a
 **Ordinateur / Ordination / Ordinance**
+
 - *Ordinateur*: French term for “computer,” implying systemic calculation, coordination, and coherent outcome rather than brute-force processing.
 - *Ordination*: Conferring of order, either in religious or systemic sense; the ethical structuring of collective action.
 - *Ordinance*: A law or regulation enacted by a local authority to organize specific matters within a jurisdiction.
 
-------
 ## R
 
 **Ripple**
@@ -263,7 +195,6 @@ Systems designed to sustain, amplify, or restore value, rather than deplete reso
 **Regnum Dei**
 Latin for Kingdom of god encapsulates whole trifecta of governance (). Self-sovereign is common (regular) man, in (numbers) collective in the midst of *Dei* (God) which is diverse, equitable and inclusive in his realm to all. The Japanese character for country (国) illustrates the bounded reality of material transaction as the trifecta unite to manifest Regnum Dei
 
-------
 ## S
 
 **Semper Idem**
@@ -275,21 +206,16 @@ A metaphor for the layers of habits that are put or pat down by a person that  d
 **Synchronicity**
 **Synchronicity** are meaningful coincidences that seem to defy causality, often perceived as signs or patterns; experiences where questions become affirmations of what is deeply known. These may be seen as fragments of our collective semantic perimeter *semper idem* as it pixelate for an instance into view through careful curious attention without followed by the still introspection within of a meditative practise as the symbols of our collective consciousness. It manifests as a religious or profoundly spiritual moment.
 
-------
-
 ## V
 
 **Via Negativa**
 A method of problem-solving or improvement by the strategic removal of elements, specifically applied to governance, it would be to resolve the layering of constituents' needs that result from a subject's failure to distinguish their economic needs and wants from their responsibility to self, commons and ecology.
-
-------
 
 ## Y
 
 **Yoga / Yoga Element**
 An awareness discovered through divination (introversion) of the true connection or yolk that binds the self to creation via humanity through creative behaviour (one's truth from utility - *Calling). 
 
-------
 ## Z
 
 **Zeitgeist**
