@@ -4,7 +4,7 @@
 
 
 
-![](C:/Users/Ash/Documents/planet-III/semper-idem/assets/OldGuard.png)
+![](./../assets/OldGuard2.png)
 
 **The Self Preservation Society**
 
