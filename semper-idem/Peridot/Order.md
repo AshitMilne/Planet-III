@@ -6,7 +6,7 @@ tags:
   - self-governance
   - anarchy
   - common-good
-  - sustain-create-transform
+  - sustainability
 series: Peridot
 ---
 
@@ -66,7 +66,7 @@ As a corollary to this, when no one else is willing to sweep in front of their o
 > But he that prizes a soul which is rational, universal, and civic, no longer turns after anything else, but rather than everything besides keeps his own soul, in itself and in its activity, rational and social, and to this end works conjointly with all that is akin to him
 >~ Marcus Aurelius, Book VI - 7
 
-The framework rests on the simple triplet of “sustain, create, and transform,” represented by the Hindu deities Vishnu, Brahma, and Shiva. This triplet forms the foundational meditation for shaping Trinity Bellwoods Park—or, more broadly, a vision of heaven on earth. It's my matter-of-fact Anarchist common-sense version of Plato's Republic or More's Utopia. Ideas burdened with grandeur much like people or institutions with titles will struggle with the burden of expectation who have bought into a mythos (democracy for example).
+The framework rests on the simple triplet of “sustain, create, and transform,” represented by the Hindu deities Vishnu, Brahma, and Shiva. This triplet forms the foundational meditation for shaping Trinity Bellwoods Park—or, more broadly, a vision of heaven on earth. It's my matter-of-fact Anarchist common-sense version of Plato's Republic or More's Utopia. Ideas burdened with grandeur much like people or institutions with titles will struggle with the burden of expectation who have bought into a mythos (democracy for example). As well there's no need for a grand overarching vision of a 'promised land' if you have a practical and pragmatic approach to incremental change in you and your immediate surroundings. The positive impact compounds exponentially over time. You'll radiate competence and set an example in how *you* govern yourself. Which is all you can really do. Then you wait for the people and communities who would naturally come into your path to do so. In the meantime, you're left in peace. The challenge is that much like hedonistic adaptation (it's the opposite in a way), you develop an appetite for construction as you positive change and you reach out for 'perfection' (utopia or 'republic) and *that's* were the return to 'sustain' (equilibrium) becomes critical. 
 
 The likes of Goldman, Chomsky and Graeber kept things 'ordinary' - which is perfectly fine. In fact most people would agree more 'ordinary' would be an improvement on our 'interesting times'. Starting with Trinity: the triplet recurs throughout thje anarchic modeling of governance you'll find across Regnum Dei, reflecting a balance between structure, innovation, and evolution. These models also emphasize clarity or truth (bell) and ecological attunement (woods).
 

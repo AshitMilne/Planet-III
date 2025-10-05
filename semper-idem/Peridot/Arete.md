@@ -3,13 +3,25 @@
 layout: "base.njk"
 title: "Arete"
 date: "2025-09-14"
-tags: ["Peridot"]
+tags: 
+- Ragnarok
+- Virtue
+- Debasement
+- Crisis
+- Mythology
+- Autonomy
+- Anarchy
+series Peridot
 
 ---
 
 ## Introduction ##  
 
-Here, I introduce the concept of **Giants** (entrenched power, coercive and hard power) and **Gods** (soft power), as actualized by individuals developing **arete** (virtue). **Arete** is a central concept in human-centric architectures that aim to scale human interaction and cooperation without consideration or deference to title, position or the accumulation of a notional token that has no legitimacy (the United States dollar and fiat currency in general). We are geared towards self-actualization: reaching our full potential or being the best versions of ourselves. To some degree we all do this through aspiration to deserve or at least hold positions of authority and prestige - those which command a degree of deference and come with perquisites that are granted to those deemed to have social credit so as to ease the burden of their responsibilities through the provision of comfort and consideration. These 'perks' often become the *object* of ambition rather than the accoutrements of accomplishment. These are the giants - the titans whose self-image is a reflection off the pool that is held as the Commons.
+Here, I introduce the concept of **Giants** (entrenched power, coercive and hard power) and **Gods** (soft power), as actualized by individuals developing **arete** (virtue) through a constant and deliberate practice aimed at developing *autonomy* from those self-styled giants. Autonomy is probably (at least for me) about as close to a freedom as is gets without the ultimate liberation of the soul from body. Autonomy is the capacity to do as you wish in the state of being free of another's capacity to influence you to behave in ways that are *contrary* to your self-interest. You ability to understand clearly what self-interest amounts to is critical to your ability to sustain it and to project that sustainability into the commons and into creation. Sustaining what you have doesn't of course mean you can't autonomously and independently be creative - developing useful skills and attributes that allow you to appreciate and enjoy the world and life. It should go without saying that autonomy doesn't mean you behave contrary to basic law. It is rather the soft-coercion of arbitrary norms and judgements that you're transcending. In your personal space with people you wish to be with you are free to do as you please as you appreciate and observe an intuitive and empathic sense of decorum. Pay attention - what works and doesn't in your immediate (global positioning system) location. Whatever is appropriate in your value system express it. You'll receive immediate feedback from your environment and you can course correct. Adjust your behaviour or your location and sense of community. With autonomy, it is *entirely* your choice.
+
+
+
+**Arete** is a central concept in human-centric architectures that aim to scale human interaction and cooperation without consideration or deference to title, position or the accumulation of a notional token that has no legitimacy (the United States dollar and fiat currency in general). We are geared towards self-actualization: reaching our full potential or being the best versions of ourselves. To some degree we all do this through aspiration to deserve or at least hold positions of authority and prestige - those which command a degree of deference and come with perquisites that are granted to those deemed to have social credit so as to ease the burden of their responsibilities through the provision of comfort and consideration. These 'perks' often become the *object* of ambition rather than the accoutrements of accomplishment. These are the giants - the titans whose self-image is a reflection off the pool that is held as the Commons.
 
 In contrast others demur and, in a mimicry of an alignment of behaviour to ecology or Creation seek to reflect that behaviour. It begins as a studied response to anima which over time becomes intuitive and instinctive. A rapid intelligence that gives (arbitrary) societal norms no room in their ruminations. In mythical terms they look past Caesar to God. In plain terms they no longer wish to be a part of our planet's destruction 
 
