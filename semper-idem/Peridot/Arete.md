@@ -15,23 +15,102 @@ series Peridot
 
 ---
 
-## Introduction ##  
+## Introduction  
 
-Here, I introduce the concept of **Giants** (entrenched power, coercive and hard power) and **Gods** (soft power), as actualized by individuals developing **arete** (virtue) through a constant and deliberate practice aimed at developing *autonomy* from those self-styled giants. Autonomy is probably (at least for me) about as close to a freedom as is gets without the ultimate liberation (*moksha*) of the soul from body. Autonomy is the capacity to do as you require in order to live well and be free of another's influence - the ability to make you behave in ways that are *contrary* to your self-interest (often without you entirely being aware of it) and to their advantage at your cost. Your ability to understand clearly what self-interest amounts to is critical to your ability to sustain yourself in good health and to project that sustainability into the commons and into creation. Sustaining what you have with autonomy then gives you the opportunity to be creative *entirely on your own terms* - developing useful skills and attributes that allow you to appreciate and enjoy your life in the world *as you model it* and perhaps even be an agent for positive change. One is increasingly autonomous in order to sustain oneself; then one creates in order; ultimately one transforms oneself and the world.
+>Can't you see a giant walks among you
+>Seeing through your petty lives?
+>Do you think I do these things for real?
+>I do these things just so I survive
+>~ I Spy (Pulp)
 
-Crucially your autonomy is impinged upon by certain three basic needs (for food, clothing and shelter) whose price (but not value) until very recently was almost entirely out of your control. The one factor within your control has been an opportunity to save, and be rewarded for it - undermined it has to be said in 2008 when the United States devalued its currency with a bailout that infuriated people across the political spectrum.  The opportunity to save has now returned and no one, not even that Hegemon can impinge upon the autonomy of a human being in command of themselves. This a commentary on ancient mythology that has resonance today - of self-styled giants on the one hand and the notion of monism - or God: those who possess the divine within and who sustain, create and transform truth into beauty in whatever station.
+Here, I introduce the concept of **Giants** (entrenched power, coercive and hard power) and **Gods** (soft power as actualized 	by individuals developing and expressing virtue or arete).  Through a constant and deliberate practice they achieve *autonomy* from those self-styled giants and their *machina animus*. Autonomy is probably (at least for me) about as close to a freedom as is gets without the ultimate liberation (*moksha*) of the soul from body. Autonomy is the capacity to do as you require in order to live well and be free of another's influence - the ability to make you behave in ways that are *contrary* to your self-interest (often without you entirely being aware of it) and to their advantage at your cost. Your ability to understand clearly what self-interest amounts to is critical to your ability to sustain yourself in good health and to project that sustainability into the commons and into creation. Sustaining what you have with autonomy then gives you the opportunity to be creative *entirely on your own terms* - developing useful skills and attributes that allow you to appreciate and enjoy your life in the world *as you model it* and perhaps even be an agent for positive change. One is increasingly autonomous in order to sustain oneself; then one creates in order; ultimately one transforms oneself and the world.
+
+Crucially however your autonomy is impinged upon by basic needs; for items such as food, clothing and shelter. Their price (but not their value to you) has always been out of your control. The one factor *within* your command is the opportunity to to save a surplus and be rewarded for it. A reward which compounds (at any rate) and which eventually affords autonomy.
+
+This was undermined in 2008 when the United States added a nominal 1.2 Trillion dollars to restore liquidity after a bout of malinvestment by institutions and individuals alike. This *debasement* decisively undermined the dollar regime's credibility and legitimacy. Indeed protest rained heavily from the entire range of political opinion. In the aftermath, alternatives emerged that allowed capital (even its purest for as data) to flow securely and seamlessly at speed. These are now in the process of being adopted by the dollar regime and will in time restore credibility to its institutions.
+
+Not even the Hegemon can resist this as the technology because it is *globally* distributed and offers *any* regime the opportunity to secure productive outcomes and contentment for its people. Several are seizing this opportunity with effort to demonetize their regimes (by removing paper cash) as well as introducing unassailable identity assurance. Others are arranging themselves around these new hubs - the most populous and demographically promising on earth.
+
+The giants and their Leviathan are no longer be able to impinge upon the autonomy of a person (unless they themselves allow it) because they have lost the capacity to arbitrarily assign a price for money (the interest rate). There is cause of enormous optimism as this has profoundly positive implications for our planet and the preservation of its ecology. No threat is greater to the environment than inflation (masked as money debasement).
+
+This a commentary on ancient mythology that has resonance today - of self-styled giants on the one hand and the notion of monism - or God: those who possess the divine within sufficiently and who sustain, create and transform truth into beauty in whatever station fate has them in the emerging global reality.
 
 
 
-## Arete
-
-**Arete** or virtue is a central concept in human-centric architectures that aim to scale human interaction and cooperation without consideration or deference to title, position or the accumulation of capital. It's an concept I was introduced to by Robert Pirsig in Zen and the Art of Motorcycle Maintenance. An important book for me as I came of age having studied the liberal arts and then pivoted towards the *real world* to understand how the gap that needed minding - the one between truth and beauty - might actually be closed for good. In assuming an office, a position that requires decisions be made based on values one brooks no compromise on those values without fundamentally impacting one's personal stability (and long-term sustainability). The reality however is that the 
+## ἀρετή
 
 
+> Ἀλλὰ Ζεὺς ὁ πάντων ἀκουστὸς ἀνδρὶ ἀρετὴν ἥμισυ λαοῖσιν ἀφαιρεῖται, ἐπεὶ ἄρα δούλη ἔπειτα ἔλθῃ.
+>
+> For Zeus, who views the wide world, takes away half a man's *arete* on the day when slavery comes upon him.”
+> — *The Odyssey*, Book 17, line 322
+
+Virtue (a sense of ethics) is a key concept in human-centric architectures that aim to scale human interaction and cooperation. If that sounds like a stretch then just know there is no hedging on a code as law: It is binary. 1 or 0. Guilty or Innocent. Not Guilty is a frame of reference for how the *rest* of the world approaches compromise. More on that later.
+
+: . The idea expressed above is that comfort over time invariably yields discomfort for those who enslave and exploit. They lose their autonomy incrementally. Since they have inherited their positions and being systemically unaware are destitute of options. The tidy stanza was expressed above in the poem Odyssey by Homer. It was expanded upon in a more modern myth, a novel by H.G. Wells in 1899, in *When the Sleeper Wakes*. In it Wells imagines a London where most people have become passive dependents on vast, automated systems and monopolistic corporations, while a small elite governs through mechanized convenience and economic abstraction. The ruling class and their technocrats live lives entirely outsourced to institutions and machines — their food, entertainment, decision-making, even moral life — leaving them spiritually empty and physically enervated.
+
+Outsourcing human responsibility—both personal and civic—creates a form of living death. The masses sleep (literally and figuratively), and the rulers, despite their comfort, are little more than custodians of a machina fueled by animus - war and extraction - from both planet and human identity.
+
+Never doing *any* manual or creative work. Their comfort is total; their decrepit frail bodies and minds dulled by a life of leisure and excess. They are incapable of defending themselves having outsourced courage, labour, and imagination — and in doing so, they lose their humanity and legitimacy:
+
+> “The men of the upper world were scarcely men at all, but effigies of comfort, pale with inactivity and sated pleasure.”
+
+In this world, the elite have grown dependent on their *machina animus*.  They live in a state of privilege becoming ever more infantile and delinquent. The delegation of work, entrenched and layered, they remain blithely unaware of its fragility; it's not so much that their system is prone to collapse but that they are impotent; powerlessly watching what remains of their brightest and bravest defect with ease.
+
+The myth was retold from a different angle by Ayn Rand decades later in *Atlas Shrugged* with its own mysterious *sleeper* John Galt. In the real world, you have Satoshi.
 
 
 
-This is particularly important at key cyclical moments - turnings where capital has been debased. Historians may derive considerable information about ordinary conditions for *commoners* in certain periods of time by examining the alloy in coinage, measuring the adulteration of silver or gold and then assessing against comparative standards of prosperity and well-being for different classes or 'professional' communities. Without the benefit of the broadly disseminated information we have today (the ultimate capital in any time and place) ordinary folk were at disadvantage. We have solved for this considerably by making market data for commodities freely available however structural impediments or preferences (front-running) still have these communities at a disadvantage. As well, of course there is the underlying unit (the currency) which some economic communities access directly by controlling its volume which unfortunately of course leads to inflation and undermines the autonomy of an individual (by making the ordinary details - food, shelter and clothing more difficult)
+## компрома
+
+The Russians have a term компрома (*Kompromat*), short for 'compromising material' which *usually* refers to embarrassing information about an individual used to influence their behaviour. This idea gets flipped on its head once the money has decisively lost its base case.
+
+On the one hand there are those, call them giants holding on to power tenuously who are willing to do *anything* to anyone to protect their station in society while affecting what they believe to be positive change because everyone is a heroic, loyal and virtuous their own minds. The matter at hand for them is loyalty and heroism to what and whom - and how much of their virtue is *compromised* in its expression. To them an innocent life or even that of someone who is plausibly not guilty (there is no evidence that he has ever committed one) is a tradeable asset - something to exploit in the name of something they define as a 'greater good' - some vision of utopia that they have conjured up perhaps with a view to get there asap (as they say - they don't have the time to say the whole sentence).
+
+
+
+
+
+The giants have their money beyond which they are bereft of options; they do not actually control the machina animus - it has accumulated too much technical debt. Even their capital influence those most securely entrenched in truth divined through real work which combines manual and artistic elements. Past exertions now yield the peace dividend reserved for an army of *One*. 
+
+
+
+
+
+
+
+In uncommon parlance it means that the Emperor has no clothes. He has been caught in a predicament that isn't embarrassing so much as, well, terminal. The regime is 
+
+
+
+It is difficult to go any length of time wherein even slight compromises are made over time by those who lead systemically important regime institutions without these accumulating to the point a overhaul is required. 2008 was turning point. Those who hold a  firm line on ethical behaviour began to push back at operating within an incumbent system with its penchant for episodic scapegoats and begin preparing a parallel environment and a transition to the virtual machine - something I call *Deus en Machina* and *Virtualis*.
+
+
+
+
+
+
+
+**HERE **- spin back quickly to main case.
+
+ They  - and with the faith that there is while there are some things worth living for, something is amiss when people largely appear to know not what they are. 
+
+If you are to question narrow arbitrary authority with any degree of credibility its because you have a broader perspective. It's because your entire frame of reference for the term stakeholder sets you apart. For you all humanity and even beyond it the entire ecology is a stakeholder. If you see then the you're not held back by even the most ordinary standards of propriety as you express a vehement challenge to authority at a moment when you deem it utterly necessary. One who like Joyce would turn the profane into social critique using real life as his stage - how much do you suppose such a one cares how many likes and comments he accumulates. He will go a step further to appal and amaze because these are the times of Ragnarök. In plain terms we have accumulated technical debt and our system design now grinds with the excessive heat and noise of a debt super-cycle coming to a climax.
+
+I was introduced to Arete by Kitto via Robert Pirsig in Zen and the Art of Motorcycle Maintenance. I came of age steeped in the social sciences particularly history, political science and economics. Then pivoted towards the *real world* and - finance and information technology - to understand , *in practice* rather than theory how the gap between truth and beauty might be better minded. 
+
+> He is in fact an excellent all-rounder; He has surpassing arete; an efficiency which exists, not in one department of life, but in life itself.
+~ Kitto
+
+
+
+that needed minding - the one between truth and beauty - might actually be closed for good. In assuming an office, a position that requires decisions be made based on values one brooks no compromise on those values without fundamentally impacting one's personal stability (and long-term sustainability). The reality however is that the 
+
+
+
+
+
+This is particularly important at key cyclical moments - turnings where capital has been debased. Historians may derive considerable information about ordinary conditions for *commoners* in certain periods of time by examining the alloy in coinage, measuring the *adulteration* of silver or gold and then assessing against comparative standards of prosperity and well-being for different classes or 'professional' communities. Without the benefit of the broadly disseminated information we have today (the ultimate capital in any time and place) ordinary folk were at disadvantage. We have solved for this considerably by making market data for commodities freely available however structural impediments or preferences (front-running) still have these communities at a disadvantage. As well, of course there is the underlying unit (the currency) which some economic communities access directly by controlling its volume which unfortunately of course leads to inflation and undermines the autonomy of an individual (by making the ordinary details - food, shelter and clothing more difficult)
 
 and in any case lacking the potential for autonomy we have today, communities in the past (before crypto-economics and the arrival of plausible parallel systems)
 
@@ -60,35 +139,15 @@ This essay uses the simplifying notion of **Giants** — a term drawn from fairy
 
 Can't you see the giant that walks around you
 
-Seeing through your petty lives?
 
-Do you think I do these things for real?
-
-I do these things just so I survive
-
-And you know I will survive
-
-It may look to the untrained eye
-
-I'm sitting on my arse all day
-
-I'm biding time until I take you all on
-
-My Lords and Ladies, I will prevail
-
-I cannot fail 'cause I spy
-
-~ Pulp [(I Spy](https://www.youtube.com/watch?v=B5WSNceUgNU)) 
 
 **On A River Borne To Be A Giver**
 
 We encode our hopes, dreams, and fears into mythology—compelling models to guide us through life. Joseph Campbell noted that early 20th-century scholars, studying the myths of distant tribes, were surprised to find a shared human core beneath the colorful masks. I expect Campbell himself drew solace and even saw the trace of monist divinity in our intrinsic uniformity. For him, we formed mythical Atlas and our ingenuity and creativity was shared through a network of tributaries whose insights flowed with strong currency to nourish the common denomination that distributed our values; that allowed each of us to gain the measure of ourself and so refine and develop character so that we may serve for the betterment of the commonwealth and through that endeavour find purpose and meaning. Moses, the slave child borne on the current and sweet tides of a river destined to lead, represents the collective and personal journey upon that arc - we travel only so far as merit allows. A few upon whom fortune smiles and are lavished with the requisite attributes travel well and far. 'Lucky me, swimming in my ability. I dance down on life with agility' he says to himself. He is blessed with lucky (upward) mobility. But he was borne on rivers of blood to be a giver. He won't let you shiver or whither and has no thoughts of kingdom - but only to be the servant leader and to manifest the Kingdom of Heaven on Earth. To project manage humanity's roadmap - the long arc of 'Justice' - he is Siddhartha and just is. He is the prodigy - the fire starter and instigator - bringing it home for all.
 
-Elon Musk recently posted on X that there would always be Kings and Slaves. I have a lot of time for the guy but I found the comment disconcerting. That's not the vision of a techno-optimist.
+
 
 Instead, where he sees Kings, I invariably see Giants - those whose hubris and unearned *inherited* privilege puts them in positions of influence allowing them to make sacrifices not just of others here and now, but unintentionally, of generations yet to come and the planet itself - they toy with people as though they were dolls - playthings. Then I see also God manifested in the collective humanist impulse of those whose desire to excel personally is not a matter of social climbing but a call to adventure. This is the monism of man, competitive yet collaborative, serving all creation. He makes of himself an offering through a consistent expression of virtue (ἀρετή or areté). He makes of himself *prasad* (Sanskrit for sacrament - akin to the eucharist body and blood of Christ - the milk and sweetmeats served after Hindus pray). His fruits of labour in whatever *Call to Adventure*  is then shared by all - to be distributed to the commons as needed.
-
-**Black Jack (21.000000)**
 
 We are uniquely imbued as creatures with the power of imagination and creativity. It is to be wielded with humility and the sum of our collective wisdom to manifest Regnum Dei. It demands the open-hearted (any colour you want as long as it's black) Jack of Clubs. He's a master of none who seeks to live and let live. It's the *Giant that walks above him* who would break him *for* bread...
 
@@ -118,11 +177,11 @@ The windmill is a manifestation of our creativity; it is the work of a *Milne* -
 
 The windmill is a manifestation of our creativity; it is the work of a *milne* - who through moments of introversion - meditations upon his craft - gleans insights to harness creation and yield comfort for a planet coming together. This combination of nouse and labour amidst creation is the Christ's breath. Jack's curiosity makes him a potential natural at whatever he tries his hand. He knows not of Kings - he would hang them high. He himself is the instrument of *Christ the King* - Thor's hammer or David's sling if you like.
 
-**It's The End of The World As We Know It...**
+
 
 The Kings of the Wild Frontier - the secure nodes of the Prehistoric Ledger - epitomize Jack's mentality. We were not born slaves but were free men in the wilderness and profoundly curious, even thrilled to see how working together we might harness our wits to serve collective mind and soul, eking out at first the barest of subsistence and then genuine *sufficient* comfort. We didn't split the work equally but rather equitably allocating based on our innate qualities - a pareto distributive mechanism that emphasized efficiency and a labour of love for the ones we love. When we succumb to material excess beyond earned courtesy and deference - an easement that aims only to *facilitate the efficient delivery* of work  - our tribes waned. In the Christian era we have seen the descent and renaissance of our own western civilization - one which is registered in the myths of a European pagan tribe. When the civilizational pressures at home forced a group of them to discover new found land, they reckoned with desolation and failed to come to grips with a peaceable approach to dealing with the indigenous and subsequently perished.
 
-![img](//img1.wsimg.com/isteam/ip/674c7aa6-fcc2-4283-a438-de467701f51c/DALL%C2%B7E%202025-01-05%2013.31.09%20-%20A%20majestic%20depic.webp/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280)Edit Image
+
 
 Canada has a distinct European origin story in the Western Hemisphere. Norsemen—Vikings are our original European tribe. They made landfall in Newfoundland around 1000 AD, five centuries before Columbus reached Hispaniola. Many of these warrior-farmers paid homage to the Norse gods of Aesir, including Thor (left) and his hammer. Among their myths was Ragnarök, an apocalyptic battle between gods and giants that mirrors end-times narratives across many ancient cultures.
 
@@ -130,7 +189,7 @@ In our Anthropocene nuclear age, Ragnarök is a resonant cautionary tale. Like t
 
 My own ancestral traditions of India have their own pantheon of Gods; one of whom, Shiv, the God of Destruction, was invoked by Oppenheimer when he uttered Hindu scripture (the Bhagavad Gita) upon ushering in our nuclear era: 'Now I am become Death, the destroyer of worlds'. Oppenheimer belonged to a generation of often melancholy, spiritually enlightened intellectuals (Einstein and Bohm are others) who in their exploration into the realms of the sub-atomic particle and theoretical mathematics realized that the Universe wasn't just queer - but that it had a queerness that transcended comprehension and human thought itself. This revelation imbued them with *enormous* humility - for they understood that for all of their schooling, careful examination of the material world and contemplation, what they had come full circle in old age to know was how little they really understood and how careful humanity needed to be in attempting to model reality with a view to affect change in the world. It was this forlorn understanding that prompted Oppenheimer to invoke the Destroyer of Worlds as a mere mortal who understood the danger posed by the hubris of Giants who would engineer society at its cost as citizenry or consumer to serve themselves.
 
-**The American Gordian Knot**
+
 
 Turn him to any cause of policy, The Gordian knot of it he will unloose, Familiar as his garter: that when he speaks, The air, a charter’d libertine, is still, And the mute wonder lurketh in men’s ears, To steal his sweet and honey’d sentences,
 

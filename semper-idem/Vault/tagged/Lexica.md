@@ -204,7 +204,7 @@ Latin for constant and unchanging this application of the term allows for the ev
 A metaphor for the layers of habits that are put or pat down by a person that  dictate behaviour. These are analogous to an archeological mound a tel (תל) or a tal (تَلّ) that denotes layers of human settlement. A culture rose, flowered and left its mark in stone. In the context of Semper Idem they  combine and mishpat (מִשְׁפָּט) mishtal (מִשְׁתָּל) to create a mound placed as a focal point for order, rule, law or justice (tal/tel) and so, culture if  tended but chaos if not - mishmash (in Yiddish מישמאַ)
 
 **Synchronicity**
-**Synchronicity** are meaningful coincidences that seem to defy causality, often perceived as signs or patterns; experiences where questions become affirmations of what is deeply known. These may be seen as fragments of our collective semantic perimeter *semper idem* as it pixelate for an instance into view through careful curious attention without followed by the still introspection within of a meditative practise as the symbols of our collective consciousness. It manifests as a religious or profoundly spiritual moment.
+Meaningful coincidences that seem to defy causality, often perceived as signs or patterns; experiences where questions become affirmations of what is deeply known. These may be seen as fragments of our collective semantic perimeter *semper idem* as it pixelate for an instance into view through careful curious attention without followed by the still introspection within of a meditative practise as the symbols of our collective consciousness. It manifests as a religious or profoundly spiritual moment.
 
 ## V
 
