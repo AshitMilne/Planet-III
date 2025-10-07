@@ -1,6 +1,6 @@
 ---
 
-layout: "base.njk"
+layout: base.njk
 title: "Arete"
 date: "2025-09-14"
 tags: 
@@ -12,7 +12,6 @@ tags:
 - Autonomy
 - Anarchy
 series Peridot
-
 ---
 
 ## Introduction  
@@ -39,7 +38,6 @@ This a commentary on ancient mythology that has resonance today - of self-styled
 
 ## ἀρετή
 
-
 > Ἀλλὰ Ζεὺς ὁ πάντων ἀκουστὸς ἀνδρὶ ἀρετὴν ἥμισυ λαοῖσιν ἀφαιρεῖται, ἐπεὶ ἄρα δούλη ἔπειτα ἔλθῃ.
 >
 > For Zeus, who views the wide world, takes away half a man's *arete* on the day when slavery comes upon him.”
@@ -65,21 +63,11 @@ The myth was retold from a different angle by Ayn Rand decades later in *Atlas S
 
 The Russians have a term компрома (*Kompromat*), short for 'compromising material' which *usually* refers to embarrassing information about an individual used to influence their behaviour. This idea gets flipped on its head once the money has decisively lost its base case.
 
-On the one hand there are those, call them giants holding on to power tenuously who are willing to do *anything* to anyone to protect their station in society while affecting what they believe to be positive change because everyone is a heroic, loyal and virtuous their own minds. The matter at hand for them is loyalty and heroism to what and whom - and how much of their virtue is *compromised* in its expression. To them an innocent life or even that of someone who is plausibly not guilty (there is no evidence that he has ever committed one) is a tradeable asset - something to exploit in the name of something they define as a 'greater good' - some vision of utopia that they have conjured up perhaps with a view to get there asap (as they say - they don't have the time to say the whole sentence).
+On the one hand there are those, call them giants holding on to power tenuously who are willing to do *anything* to anyone to protect their station in society while affecting what they believe to be positive change because everyone is a heroic, loyal and virtuous their own minds. The matter at hand for them is loyalty and heroism to what and whom - and how much of their virtue is *compromised* in its expression. To them an innocent life or even that of someone who is plausibly not guilty (there is no evidence that he has ever committed one) is a tradeable asset - something to exploit in the name of something they define as a 'greater good' - some vision of utopia that they have conjured up perhaps with a view to get there asap.
 
 
 
 
-
-The giants have their money beyond which they are bereft of options; they do not actually control the machina animus - it has accumulated too much technical debt. Even their capital influence those most securely entrenched in truth divined through real work which combines manual and artistic elements. Past exertions now yield the peace dividend reserved for an army of *One*. 
-
-
-
-
-
-
-
-In uncommon parlance it means that the Emperor has no clothes. He has been caught in a predicament that isn't embarrassing so much as, well, terminal. The regime is 
 
 
 
