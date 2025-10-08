@@ -14,6 +14,14 @@ tags:
 series Peridot
 ---
 
+
+
+![](./assets/Arete-1759869841517-2.png)
+
+Artwork: Vision represented by (a third) eye. Insight that ranges equivalence to express complexity however that trinity of architecture is framed across latitudes, and through time. Guided without instrumentation eternal Polaris (*Dhruv*) and the anima-borne tides of time, space and materiality are nonetheless sufficient for those with *arete* (virtue) to know up from down, wrong from right, truth from lie.
+
+
+
 ## Introduction  
 
 >Can't you see a giant walks among you
@@ -22,7 +30,7 @@ series Peridot
 >I do these things just so I survive
 >~ I Spy (Pulp)
 
-Here, I introduce the concept of **Giants** (entrenched power, coercive and hard power) and **Gods** (soft power as actualized 	by individuals developing and expressing virtue or arete).  Through a constant and deliberate practice they achieve *autonomy* from those self-styled giants and their *machina animus*. Autonomy is probably (at least for me) about as close to a freedom as is gets without the ultimate liberation (*moksha*) of the soul from body. Autonomy is the capacity to do as you require in order to live well and be free of another's influence - the ability to make you behave in ways that are *contrary* to your self-interest (often without you entirely being aware of it) and to their advantage at your cost. Your ability to understand clearly what self-interest amounts to is critical to your ability to sustain yourself in good health and to project that sustainability into the commons and into creation. Sustaining what you have with autonomy then gives you the opportunity to be creative *entirely on your own terms* - developing useful skills and attributes that allow you to appreciate and enjoy your life in the world *as you model it* and perhaps even be an agent for positive change. One is increasingly autonomous in order to sustain oneself; then one creates in order; ultimately one transforms oneself and the world.
+Here, I introduce the concept of **Giants** (entrenched power, coercive and hard power) and **Gods** (soft power as actualized by individuals developing and expressing virtue or arete).  Through a constant and deliberate practice they achieve *autonomy* from those self-styled giants and their *machina animus*. Autonomy is probably (at least for me) about as close to a freedom as is gets without the ultimate liberation (*moksha*) of the soul from body. Autonomy is the capacity to do as you require in order to live well and be free of another's influence - the ability to make you behave in ways that are *contrary* to your self-interest (often without you entirely being aware of it) and to their advantage at your cost. Your ability to understand clearly what self-interest amounts to is critical to your ability to sustain yourself in good health and to project that sustainability into the commons and into creation. Sustaining what you have with autonomy then gives you the opportunity to be creative *entirely on your own terms* - developing useful skills and attributes that allow you to appreciate and enjoy your life in the world *as you model it* and perhaps even be an agent for positive change. One is increasingly autonomous in order to sustain oneself; then one creates in order; ultimately one transforms oneself and the world.
 
 Crucially however your autonomy is impinged upon by basic needs; for items such as food, clothing and shelter. Their price (but not their value to you) has always been out of your control. The one factor *within* your command is the opportunity to to save a surplus and be rewarded for it. A reward which compounds (at any rate) and which eventually affords autonomy.
 
@@ -55,23 +63,35 @@ Never doing *any* manual or creative work. Their comfort is total; their decrepi
 
 In this world, the elite have grown dependent on their *machina animus*.  They live in a state of privilege becoming ever more infantile and delinquent. The delegation of work, entrenched and layered, they remain blithely unaware of its fragility; it's not so much that their system is prone to collapse but that they are impotent; powerlessly watching what remains of their brightest and bravest defect with ease.
 
-The myth was retold from a different angle by Ayn Rand decades later in *Atlas Shrugged* with its own mysterious *sleeper* John Galt. In the real world, you have Satoshi.
+The myth was retold from a different angle by Ayn Rand decades later in *Atlas Shrugged* with its own mysterious *sleepers* John Galt and Dagny Taggart. I encountered the book in 1994. Years later, such was its influence on me that I considered naming my first daughter Dagny. In the end a hardcover edition was my  gift to her when she came away from Western with an Engineering degree precisely so that she might understand *arete*. Finally in the real world, of course, we have Satoshi. 
 
 
 
 ## компрома
 
-The Russians have a term компрома (*Kompromat*), short for 'compromising material' which *usually* refers to embarrassing information about an individual used to influence their behaviour. This idea gets flipped on its head once the money has decisively lost its base case.
+The Russians have a term компрома (*Kompromat*), short for 'compromising material' which *usually* refers to embarrassing information about an individual used to influence their behaviour. This idea gets flipped on its head once a money has decisively lost its mooring; which amount to regime security.
 
-On the one hand there are those, call them giants holding on to power tenuously who are willing to do *anything* to anyone to protect their station in society while affecting what they believe to be positive change because everyone is a heroic, loyal and virtuous their own minds. The matter at hand for them is loyalty and heroism to what and whom - and how much of their virtue is *compromised* in its expression. To them an innocent life or even that of someone who is plausibly not guilty (there is no evidence that he has ever committed one) is a tradeable asset - something to exploit in the name of something they define as a 'greater good' - some vision of utopia that they have conjured up perhaps with a view to get there asap.
+On the one hand there are those, call them giants holding tenuously to power and willing to do *anything* to anyone to protect their station in society while affecting what they believe to be positive change. They are heroic, loyal and virtuous in their minds - as I should hope we all are.
+
+The matter at hand however is heroic, loyal and virtuous to what cause? There are some who like the hobbits of Tolkien's Middle Earth perhaps, who want to be left to quietly live untroubled by the cares of the great world. Others, like the Aragorn (a nomadic eternal sleeper) who roams to assess the 'challenge' in his way away from the fray like Galt or Satoshi. He represents a chronicle as good in its way as an Oracle. A student of eternity, he has the knowledge of paths - those of least resistance and those of the most.
+
+One challenge comes from his decadent libertine patriarchy a *Decay Ex Anima*; The arrogant, complacently corrupt Denethor II and decrepit Théoden who resist reform until it is almost too late. Flora and fauna perish and morale declines. The other from authoritarian and coercive challenging patriarchy of Sauron and his ally Saruman assert an I*mperium Ex Machina*. Theirs is a fierce puritanical vision shorn not just of sensuality but all empathy for either anima or its jealous cousin animus. Their machinations will whatever manpower is required, mass produced on dark production lines. This is an almost incoherent vision for us but it is one which Sauron intends for me whose decadence and appetite for opulence threatens to ripple across earth; and as well Saruman who now sets store on his own preservation.
+
+Aragorn's peers Boromir and Faramir at Gondor have virtue, loyalty and heroism in spades but lack the ranger's broad scope. It is all periphery all the time. He already know what the core has become - dependent. Whereas Legolas of the long lived Elfin is a stalwart ally from a tribe with broad insight. The hobbits and their dwarf cousin are good humoured connoisseurs of merriment and persistence journeymen. The three who dwell in forests, mountains or tidy homes set into hillsides add anima to Boromir's strength, steel and aesthetic authority which he finally and reluctantly relinquishes to his brother, captain and king,
+
+ save Aragorn who is above the fray until the opportunity and need to force a decisive fork appears. There will always be an Aragorn *is our hope*. He represent the eternal faith rather than a literal truth. What sets the Fellowship apart is their sense of mortality. They will die - that much they know to be true. However long or short, it may as well be a journey worth taking. This sort of thing is spoken and written so often as to have become trite and worthless. It almost isn't worth saying it anymore. It can only be understood viscerally through a life lived and survived close to the very edge for it to be absorbed  ring true in action.
+
+The uncompromising quality that sets Aragorn apart is vision borne of observation and the quiet introspection. When the time came the Fellowship emerged as coalition of the willing and bootstrapped; those with sufficient courage and intelligence to *refine* and reset their loyalty as they gained data. Those with enough patience, humility and skill to challenge and bolster Aragorn's *primus inter pares* leadership as he himself does them to lead a quest against barbarism to end it for all time in the fires of not man but of *Creation* itself.  It is the quiet corruption of the ring that is a barbarous relic - an shiny ornament for the Raven and ravenous. However it is the shards of Narsil made with hard forged alloy and capital well-used handled poorly by a cavalier Boromir which still cuts. It is *true* legacy technology. Still functional even autonomously in the poor hand to impart a lesson.
+
+This is *arete* - each in their station leading in their way and their argument becomes an irresistible rallying point and leads to the fall of the machina animus - and its veritable production line of monsters. For all of Aragorn's vision the one thing he *knew* to resist was the poisoned chalice of that barbarous ring. He preferred the functional - the shards of Narsil cast by men of a plainer 
 
 
 
+**Here - FIX.** 
 
+Over time slight compromises are made as ornamental features become an implicit blemish as the functional is neglected as a *compromise*
 
-
-
-It is difficult to go any length of time wherein even slight compromises are made over time by those who lead systemically important regime institutions without these accumulating to the point a overhaul is required. 2008 was turning point. Those who hold a  firm line on ethical behaviour began to push back at operating within an incumbent system with its penchant for episodic scapegoats and begin preparing a parallel environment and a transition to the virtual machine - something I call *Deus en Machina* and *Virtualis*.
+ over time by those who lead systemically important regime institutions without these accumulating to the point a overhaul is required. 2008 was turning point. Those who hold a  firm line on ethical behaviour began to push back at operating within an incumbent system with its penchant for episodic scapegoats and begin preparing a parallel environment and a transition to the virtual machine - Deus en Machina and *Virtualis*.
 
 
 
@@ -110,7 +130,7 @@ In contrast others demur and, in a mimicry of an alignment of behaviour to ecolo
 
 
 
-**HERE**
+**HERE **- these were darker fuller as gold declined and arsenals grew ever larger (Dial Square?) and ultimately atomic - lighter in the past (Quixote, Jack - pivot to a brighter series of satire (Pangloss/Voltaire too? Picaresque or? - Just Quixote...  - Flip this to end lightly and go long past to balance long future. 
 
 Anarchism, in this framework, is an optimistic perspective. In moments of crisis, while formal authority takes time to organize, ordinary people step in with ad hoc systems that respond immediately to pressing needs. This emerges from a deeply natural sense of empathy and altruism — the simple instinct that it's good to help those in need. When these efforts bear fruit, they bring not only relief but also a sense of fulfillment, camaraderie, and purpose — emotions that many don't experience in their day-to-day jobs. In fact, they may even find they dread returning to the rigidity of traditional work, feeling a deeper connection to the immediate, hands-on nature of problem-solving and mutual aid.
 
@@ -123,19 +143,19 @@ In Greek philosophy, particularly in the works of Aristotle, **arete** is centra
 3. **Rational Action:** Acting in alignment with reason and living a life that fulfills one's function or purpose, as it aligns with human nature.
 4. **Balance of Virtues:** Arete doesn't mean being perfect in a single aspect, but developing a [well-rounded character](https://transition-insight.com/research-%26-writing/f/the-hero-of-odyssey?blogcategory=Dictum+(Soul+of+Wit)), balancing traits like courage with temperance, and wisdom with generosity. 
 
-This essay uses the simplifying notion of **Giants** — a term drawn from fairy tales and biblical stories where they often appear as villains. These figures symbolize **larger-than-life truths**, though not literal beings. To understand the deeper reality they represent, one must look beyond the surface and through the myriad, often noisy, details that constitute the information around us.
-
-Can't you see the giant that walks around you
 
 
 
-**On A River Borne To Be A Giver**
-
-We encode our hopes, dreams, and fears into mythology—compelling models to guide us through life. Joseph Campbell noted that early 20th-century scholars, studying the myths of distant tribes, were surprised to find a shared human core beneath the colorful masks. I expect Campbell himself drew solace and even saw the trace of monist divinity in our intrinsic uniformity. For him, we formed mythical Atlas and our ingenuity and creativity was shared through a network of tributaries whose insights flowed with strong currency to nourish the common denomination that distributed our values; that allowed each of us to gain the measure of ourself and so refine and develop character so that we may serve for the betterment of the commonwealth and through that endeavour find purpose and meaning. Moses, the slave child borne on the current and sweet tides of a river destined to lead, represents the collective and personal journey upon that arc - we travel only so far as merit allows. A few upon whom fortune smiles and are lavished with the requisite attributes travel well and far. 'Lucky me, swimming in my ability. I dance down on life with agility' he says to himself. He is blessed with lucky (upward) mobility. But he was borne on rivers of blood to be a giver. He won't let you shiver or whither and has no thoughts of kingdom - but only to be the servant leader and to manifest the Kingdom of Heaven on Earth. To project manage humanity's roadmap - the long arc of 'Justice' - he is Siddhartha and just is. He is the prodigy - the fire starter and instigator - bringing it home for all.
 
 
 
-Instead, where he sees Kings, I invariably see Giants - those whose hubris and unearned *inherited* privilege puts them in positions of influence allowing them to make sacrifices not just of others here and now, but unintentionally, of generations yet to come and the planet itself - they toy with people as though they were dolls - playthings. Then I see also God manifested in the collective humanist impulse of those whose desire to excel personally is not a matter of social climbing but a call to adventure. This is the monism of man, competitive yet collaborative, serving all creation. He makes of himself an offering through a consistent expression of virtue (ἀρετή or areté). He makes of himself *prasad* (Sanskrit for sacrament - akin to the eucharist body and blood of Christ - the milk and sweetmeats served after Hindus pray). His fruits of labour in whatever *Call to Adventure*  is then shared by all - to be distributed to the commons as needed.
+
+
+
+
+
+
+## Jack
 
 We are uniquely imbued as creatures with the power of imagination and creativity. It is to be wielded with humility and the sum of our collective wisdom to manifest Regnum Dei. It demands the open-hearted (any colour you want as long as it's black) Jack of Clubs. He's a master of none who seeks to live and let live. It's the *Giant that walks above him* who would break him *for* bread...
 
@@ -144,6 +164,10 @@ We are uniquely imbued as creatures with the power of imagination and creativity
 Anyone who has planted a garden understands that creation will only yield comfort for the *devoted* constant gardener *-* one who shows care, attention and applied focus to what he sows where, how and when. In the tale of Jack and the Beanstalk, only the credulously infantile reads of a quickly sprouting stalk and dreams of fabulous wealth earned (number go up). This is a story of merit; of a peasant but one who knows what great fortune it is to be human - one who might trade chattel for seed and still yet flourish upward to raid and slay the hoarding giant who would prey and feast on his marrow - for him time stands still for he is in flow - this is Godspeed. Jack, like Thoreau wishes to "live deep and *suck* out all the marrow of *life*, to live so sturdily and Spartan-like as to put to rout all that [is] not life". The word in Sanskrit for that which provides the contentment that suffices - is सुख (*sukh*). Thoreau as a student of Hindu scripture certainly understood this -  he speaks of the Bhagavad Gita (Song Celestial) in *Walden.*
 
 Jack wishes to extinguish the Giant - and foremost, any remnant of the Giant that lies within him - his ego and instead of seeking the prestige of rank at the cost of another (and his marrow), prefer to absorb as much as he can from that scarcest currency - the life he has been granted by creation.
+
+
+
+## Quixote
 
 The Giant in mythology and literature is occasionally an impoverished wastrel rather than hoarder - a self-styled extravagant noble. Take Don Quixote the Hidalgo who squanders what little wealth he has on learning and collecting the gestures, symbols, and paraphernalia of chivalry instead of expressing nobility through effort and thought in the application of a Call to Adventure (in any vocation whatsoever). Quixote is no mad man; he is merely drunk on the rituals, traditions, courtesies and privileges afforded to nobility who are assigned rank without merit. The fraudulent noble is worse than the luddite (for these are graceful windmills set amongst bucolic pasture against which they tilt and not the dark satanic mills of exploitation). He has a sense of entitlement expressed as the monopoly of seigniorage - all capital beyond that which the serf requires to subsist - there is no such thing as social recovery. For him *l'etat est moi* - all rights are reserved for him alone.  He is an embattled knight - the hollowed out shell of Goliath - the feudal dominion over serfs and he who lords over all with comprehensive eminent domain - even body, minds and souls of those who dwell upon the land. The retrograde would rather look back to his opulence and revert to an earlier instance of Leviathan than cast his vision to the future. For the anarchist Jack - The 'Wind' Milne and Christ's Breath - it is a matter of *l'etat et moi (*until he might negotiate for his 'planet come together' a more reasonable bargain - for all). Seigniorage must be dispensed equitably with the automaticity of monism.
 
@@ -200,8 +224,6 @@ Eisenhower warned of this military-industrial complex and the spectre of its dee
 When foreign sources have been thoroughly plundered, the deep state turns inward, financializing its own economy and condemning large swaths of the poor and unemployed to opioid-induced death—courtesy of Big Pharma and its monstrous Health Plan Industrial Complex. Then, as the petro-dollar begins to fail, it sets its sights on oil once more in Kuwait and Iraq. Ironically, the bloodletting continued in Afghanistan—home to organic, golden-brown heroin—a potential salve for those of us who tire of this repetitive strain. 
 
 In stark contrast to the beautiful minds of Oppenheimer, Einstein and Bohm who might have blushed at praise stands the Committee to Save the World - The well-heeled trio who graced the cover of Time magazine in 1999 (below) on the cusp of the new millennium without the slightest hint of either self-awareness nor irony. You wonder whether they were conned into it. Mid-20th century classical economists, those that followed Paul Samuelson, were at least earnest in their studiously insistent and simplistic modeling of reality's complexity but here you have three men; false prophets of a hollowed out faith in profits - apologists for Goliath and a fraudulent hegemony - first round draft picks to stick-handle the fallout.
-
-![img](//img1.wsimg.com/isteam/ip/674c7aa6-fcc2-4283-a438-de467701f51c/CTSTW.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280)Edit Image
 
 Nothing better encapsulates the core issue than this photograph (left): the full-time policy-making class is mired in sclerosis and paid for with a broken coin. Bloated bureaucracies—both public and private—combine with gerrymandered elected officials to create a logjam so severe that governance is increasingly outsourced to co-opted corporate officers; decision-making is deferred to entities for whom security has never been a priority especially when it comes at the expense of capital gains, annual bonuses, or stock option packages. 
 
