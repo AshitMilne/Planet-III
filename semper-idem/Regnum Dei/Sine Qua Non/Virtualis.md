@@ -18,7 +18,7 @@ This piece aims to reconcile notions of competition with anima that exclude anim
 
 Any exploration of prehistoric reality is conjecture, but remaining unchanged in a foundational sense for 50,000 to 100,000 years, we may postulate with common sense as a foundation. The close-knit communities of our distant past were naturally inclined to expressing anima both at home, by the hearth, as well as away in the wilderness—collaborating to scale their tribe.
 
-Animus was the impulse of the challenge—a madness with method, perhaps best exemplified by the Kiwi Haka, wherein the 'All Blacks' tell their opponents in no uncertain terms, drawing a line in orthodox black boy fashion that they will not partner with them today. They have an obligation to those they represent and to Creation itself to decimate them in the ritual of good sport. Brazil's Capoeira reflects a similar idea—but very differently.
+Animus was the impulse of the challenge—a madness with method, perhaps best exemplified by the Kiwi Haka, wherein the 'All Blacks' tell their opponents in no uncertain terms, drawing a line in orthodox black boy fashion that they will not partner with them today. They have an obligation to those they represent and to Creation itself to decimate them in the ritual of good sport. Brazil's Capoeira reflects a similar idea—but very differently; through dance. Similarly lines may be drawn with other forms of  artistic expression and most certainly rhetoric—*if* it is consistent with what one sees in reality from the creator.
 
 Pervasive through nature is the idea that conservation of energy (capital) is paramount, especially in times of real scarcity. It demands that peace and the search for equivalence be the default behavior.
 
@@ -111,6 +111,5 @@ You may discern that without explicit statement, it presents itself as an idea t
 If it does not work, it is because that intelligence lacks a mechanism to distribute its value transparently and naturally. Something by which we many may become one. Because virtual, all is or is not. We are either all in or we will be all out, and it's just a question of time. This is why the view of the earth from the moon had such a striking impact on the first astronauts. It was finite. We were infinite in faculty *E Pluribus Unum*.
 
 If it does not work, it is because that intelligence lacks a mechanism to distribute its value transparently and naturally. Something by which we many may become one. Because virtual, all is or is not. We are either all in or we will be all out, and it's just a question of time. *E Pluribus Unum*.
-
 
 **RISC = Reduced Instruction Set Computer. Call this a rationalized operating system; a 'smart-contract' enabled to pair-off or 'level' countervailing instructions to recover value lost as a negative externality (heat, particulate emission, noise), all of which serve to bring forward end-of-life and inflate costs.*
