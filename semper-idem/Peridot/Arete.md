@@ -42,18 +42,42 @@ The giants and their Leviathan are no longer be able to impinge upon the autonom
 
 This a commentary on ancient mythology that has resonance today - of self-styled giants on the one hand and the notion of monism - or God: those who possess the divine within sufficiently and who sustain, create and transform truth into beauty in whatever station fate has them in the emerging global reality.
 
+**Arete** (ah-ree-teh) is an ancient Greek term that refers to excellence, virtue, or the fulfillment of purpose or function. In the context of ethics and philosophy, it encompasses the idea of living in accordance with one's highest potential, excelling in specific areas, and demonstrating moral character.
+
+In Greek philosophy, particularly in the works of Aristotle, **arete** is central to his ethical theory. For Aristotle, **arete** meant achieving the highest form of human potential through reason and virtue. It was not just about success or talent in a particular skill, but about flourishing in life by cultivating good character traits, such as courage, wisdom, temperance, and justice. In short, **arete** means living up to the highest standard of your abilities and virtues, embodying the pursuit of excellence in all aspects of life. Arete involves:
+
+1. **Excellence of Character:** Living virtuously by practicing good habits and making morally right decisions.
+2. **Achieving Potential:** Striving to reach one’s personal best, in whatever field or role one is engaged in—whether intellectually, physically, or emotionally.
+3. **Rational Action:** Acting in alignment with reason and living a life that fulfills one's function or purpose, as it aligns with human nature.
+4. **Balance of Virtues:** Arete doesn't mean being perfect in a single aspect, but developing a well-rounded character, balancing traits like courage with temperance, and wisdom with generosity.
 
 
-## ἀρετή
+
+## Reality Bites
+
+If you are to question authority with any degree of credibility its because you have a broad enough perspective to be utterly decisive in making the call; to harness the gathered momentum and reach decisively for your *Calling*;  you watched enough of information for a long time. What's changed is you. You're older and freed from the need to persist with the incumbency. Your debts to civilization paid in the form of self-aware offspring successfully launched. Meanwhile time bears down with the ultimate truth of your mortality. Your head turns up finally from the mundane and scarcity is made a fraud. So you pivot hard towards the prospect a virtuous reality and autonomy.
+
+I was introduced to Arete by Kitto via Robert Pirsig in Zen and the Art of Motorcycle Maintenance. I came of age steeped in the social sciences particularly history, political science and economics. Then pivoted towards the *real world* and - finance and information technology - to understand , *in practice* rather than theory, how the gap between truth and beauty might be better minded. 
+
+> He is in fact an excellent all-rounder; He has surpassing arete; an efficiency which exists, not in one department of life, but in life itself.
+> ~ Kitto
+
+This is important at key cyclical moments - turnings where capital has been debased. Historians derive considerable information about ordinary conditions for *common people* at certain periods by examining the alloy in coinage, measuring the *adulteration* of silver or gold and then assessing it against comparative standards of prosperity and well-being for different classes or 'professional' communities. Without the benefit of the broadly disseminated information we have today (the ultimate capital in any time and place) ordinary folk were at disadvantage. We have solved for this considerably by making market data for commodities freely available. However structural impediments or preferences still have these communities at a disadvantage. As well, of course there is the underlying unit (the currency) which some economic communities access directly by controlling its volume which unfortunately of course leads to inflation and undermines the autonomy of an individual (by making the ordinary details - food, shelter and clothing more difficult). As well the same networks which make commodity data available to producers accumulate an enormous quantity of data about peoples' habits. Data monetized in markets that analyze this to place product precisely when they are most amenable and susceptible to consumption. Subtly these peel away autonomy if order isn't cultivated with a consistent practice.
+
+
+
+## Virtue (or Arete)
 
 > Ἀλλὰ Ζεὺς ὁ πάντων ἀκουστὸς ἀνδρὶ ἀρετὴν ἥμισυ λαοῖσιν ἀφαιρεῖται, ἐπεὶ ἄρα δούλη ἔπειτα ἔλθῃ.
 >
 > For Zeus, who views the wide world, takes away half a man's *arete* on the day when slavery comes upon him.”
 > — *The Odyssey*, Book 17, line 322
 
-Virtue (a sense of ethics) is a key concept in human-centric architectures that aim to scale human interaction and cooperation to achieve meaningful positive outcomes. The aesthetic quality of the outcome is critical and virtue ensures that competition, a powerful impulse is aesthetically acceptable and that functionality follows only good form (efficient, elegant, and tasteful from *any* perspective). Virtue can be seen the practice of turning the competitive impulse upon oneself to cultivate meaningful growth. This is what the Greeks called Arete.
+Virtue (a sense of ethics) is a key concept in human-centric architectures that aim to scale human interaction and cooperation to achieve meaningful positive outcomes. The aesthetic quality of the outcome is critical and virtue ensures that competition, a powerful impulse is aesthetically acceptable and that functionality follows only good form (efficient, elegant, and tasteful from *any* perspective). Virtue can be seen the practice of turning the competitive impulse upon oneself to cultivate meaningful growth. This is what the Greeks called Arete (Aἀρετή).
 
-The idea expressed above by Homer is that comfort over time invariably yields discomfort for those who enslave and exploit. They lose their autonomy incrementally by first surrendering the opportunity to express themselves as basic human beings; It begins surreptitiously as they demur on menial tasks, walking or the preparation of meals for example. Spoiled by their accumulated wealth they eat and live lavishly and ever further from the world as it is. In every sense they become removed from reality - how the world is and how people live in it. This carries across generations. Offspring inherit indifference, complacency, insouciance and callousness as much as wealth. The comfort derived from wealth evolves into discomfiture in plain-spoken company as indifference is reciprocated with interest, or rather disinterest (and disdain). This is experienced too by ordinary folk dutifully execute conventional activities yieldlessly (D.E.C.A.Y). Even as these, relatively innocent gather in their various communities, their indifference to the plight of the world leads to sporadic volatility and crude intrusions; they lack the smart perimeters of walled communities. All Inheritance is unearned by definition and therefore leads to compromise in some sense. Signal is lost even in the message of a lesson taught, *even* to the attentive because it lacks the insight of lived experience.
+The idea expressed above by Homer *subtly* is that comfort over time invariably yields discomfort for those who enslave and exploit; not to mentioned the enslaved when the opportunity for the swift liberation of moksha (death) was there for the taking. It is a pox on houses.
+
+For the victor comes the long Faustian bargain. They lose their autonomy incrementally by first surrendering the opportunity to express themselves as basic human beings; It begins surreptitiously as they demur on menial tasks, walking or the preparation of meals for example. Spoiled by their accumulated wealth they eat and live lavishly and ever further from the world as it is. In every sense they become removed from reality - how the world is and how people live in it. This carries across generations. Offspring inherit indifference, complacency, insouciance and callousness as much as wealth. The comfort derived from wealth evolves into discomfiture in plain-spoken company as indifference is reciprocated with interest, or rather disinterest (and disdain). This is experienced too by ordinary folk dutifully execute conventional activities yieldlessly (D.E.C.A.Y). Even as these, relatively innocent gather in their various communities, their indifference to the plight of the world leads to sporadic volatility and crude intrusions; they lack the smart perimeters of walled communities. All Inheritance is unearned by definition and therefore leads to compromise in some sense. Signal is lost even in the message of a lesson taught, *even* to the attentive because it lacks the insight of lived experience.
 
 The titans are the celebrated. They are the *giants* who have accumulated capital and entourage. Their use of largess to delegate responsibility diminishes insight and they become systemically unaware. Soon, they are destitute of options to manage strategy because they lack vision in *almost* a literal sense.
 
@@ -71,9 +95,9 @@ The myth was retold from a different angle by Ayn Rand decades later in *Atlas S
 
 
 
-## компрома
+## Entropy of Virtue
 
-The Russians have a term компрома (*Kompromat*), short for 'compromising material' which since the advent of photography and telephony *usually* referred to embarrassing information about an individual used to influence their behaviour. Previously one's *true* reputation was an aggregate assessment of credibility held within one's socio-economic *strata*.
+Russians have a term компрома (*Kompromat*), short for 'compromising material' which since the advent of photography and telephony *usually* referred to embarrassing information about an individual used to influence their behaviour. Previously one's *true* reputation was an aggregate assessment of credibility held within one's socio-economic *strata*.
 
 This idea gets amplified and turned on its head once a money has decisively lost its mooring. The quality of a regimes money dictates the security and comfort if can afford. *De facto* when money has lost its foundation neither security nor comfort can be bought. More profoundly disturbing is that increasingly it is no longer available *de jure*. Judicial systems creak under the weight of codes defined to protect both property and person where increasingly the former has priority over the latter because giants govern and will always place theirs (if not themselves) above the rest. Disparities in outcomes become untenable and indefensible and increasingly even performative expressions of competence leave much to be desired aesthetically.
 
@@ -85,19 +109,17 @@ One challenge comes from his decadent libertine patriarchy a *Decay Ex Anima*; T
 
 Aragorn's peers Boromir and Faramir at Gondor have virtue, loyalty and heroism in spades but lack the ranger's broad scope. It is all periphery all the time. He already know what the core has become - dependent. Whereas Legolas lithe, mobile and ethereal of the long lived Elfin, is a stalwart ally from a tribe with broad insight. The hobbits and their dwarf cousin Gimli are good humoured connoisseurs of merriment and persistent stout journeymen. The three who dwell in forests, mountains, and hillside homes close to life in all its forms add anima to Boromir's strength, steel and aesthetic authority; which he must finally and reluctantly relinquish to his more subtle brother, captain and king Aragorn.
 
-There will always be an Aragorn *is our hope*. He represent the eternal faith rather than a literal truth that life matters and is good. What sets the Fellowship apart is their sense of mortality. They will die - that much they know to be true - and it is *the* defining quality of all that lives. However long or short, life may as well be a journey worth taking. This sort of thing is spoken and written so often as to have become trite and worthless. It can only be understood viscerally through a life lived and survived close to the very edge for it to be absorbed and ring true in action. Which is why so many of us are drawn addictively and tantalizingly close to death in all its forms.
+There will always be an Aragorn. That *is our hope*. He represent the *eternal* faith rather than a literal truth that life matters and is good. What sets the Fellowship apart is their sense of mortality. They will die - that much they know to be true - and it is *the* defining quality of all that lives. However long or short, life may as well be a journey worth taking. This sort of thing is spoken and written so often as to have become trite and worthless. It can only be understood viscerally through a life lived and survived close to the very edge for it to be absorbed and ring true in action. Which is why so many of us are drawn addictively and tantalizingly close to death in all its forms as a preoccupation even in leisure.
 
-The uncompromising quality that sets Aragorn apart is vision borne of observation and the quiet introspection. When the time came the Fellowship emerged as coalition of the willing and bootstrapped; those with sufficient courage and intelligence to *refine* and reset their loyalty as they gained data. Those with enough patience, humility and skill to challenge and bolster Aragorn's *primus inter pares* leadership as he himself does them to lead a quest against barbarism to end it for all time in the fires of not man but of *Creation* itself.  It is the quiet corruption of the ring that is a barbarous relic - an shiny ornament for the Raven and ravenous. However it is the shards of Narsil made with hard forged alloy and capital well-used handled poorly by a cavalier Boromir which still cuts. It is *true* legacy technology. Still functional even autonomously in the poor hand to impart a lesson.
+The uncompromising quality that sets Aragorn apart is vision borne of observation and the quiet introspection. When the time came the Fellowship emerged as coalition of the willing and bootstrapped; those with sufficient courage and intelligence to *refine* and reset their loyalty as they gained data. Those with enough patience, humility and skill to challenge and bolster Aragorn's *primus inter pares* leadership as he himself does them to lead a quest against barbarism to end it for all time in the fires of not man but of *Creation* itself.  It is the quiet corruption of the ring that is a barbarous relic - an shiny ornament for the Raven and ravenous. However the shards of Narsil, alloy and capital well-used but poorly handled by the cavalier Boromir cut. It is *true* legacy *still* operational.
 
-This is *arete* - each in their station leading in their way and their argument becomes an irresistible rallying point and leads to the fall of the machina animus - and its veritable production line of monsters. For all of Aragorn's vision the one thing he *knew* to resist was the poisoned chalice of that barbarous ring. He preferred the functional - the shards of Narsil cast by men of a plainer 
+This is *arete* - each in their station leading in their way and their argument becomes an irresistible rallying point and leads to the fall of the machina animus - and its veritable production line of monsters. For all of Aragorn's vision the one thing he *knew* to resist was the poisoned chalice of that barbarous ring. He preferred the functional - the shards of Narsil forged in fire, our first technology, and our first penetrating magic of plainer men and mettle.
 
+Over time compromises accumulate. Underlying culture entropies as property, again prioritized before personhood is valued and priced as *capital* and imagined in ways that appear ever more removed from the basic realities of food, clothing and shelter that concern the vast majority of humanity. 
 
+Those who question the legitimacy of incumbent institutions and the Sovereign understand that priorities have been compromised and that as a result, value as a concept denoted in relative terms 'as the price one pays' and its accumulated legacy of culture or ultimately it's kernel of core truth, that which constitutes our values, is being undermined by the society in being continuously be generated (the constant churn of the series of transactions that constitute society and civilization. What has happened is that priorities have been 'flipped' so that those things traditionally priced the least (i.e. of low real-world value) are now exorbitant and those priced the most (i.e. of high real world value) are exceedingly affordable. The most obvious indication is the perpetually inverted yield curve as the price of money itself is fundamental distorted such that it no longer pays to save or build things which are long-lasted or even worth building at all. 
 
-**Here - FIX.** 
-
-Over time slight compromises are made as ornamental features become an implicit blemish as the functional is neglected as a *compromise*
-
- over time by those who lead systemically important regime institutions without these accumulating to the point a overhaul is required. 2008 was turning point. Those who hold a  firm line on ethical behaviour began to push back at operating within an incumbent system with its penchant for episodic scapegoats and begin preparing a parallel environment and a transition to the virtual machine - Deus en Machina and *Virtualis*.
+The thing forever worth building and investing is oneself. One's identity, personality and capabilities - the Stone Rose. The thing most prized of all by those with virtue is autonomy which once priceless is now firmly in sight. Seeing this, the virtuous seize the day to live the life they dream of - without the repression and coercion of arbitrary authority.
 
 
 
@@ -105,28 +127,7 @@ Over time slight compromises are made as ornamental features become an implicit 
 
 
 
-**HERE **- spin back quickly to main case.
-
- They  - and with the faith that there is while there are some things worth living for, something is amiss when people largely appear to know not what they are. 
-
-If you are to question narrow arbitrary authority with any degree of credibility its because you have a broader perspective. It's because your entire frame of reference for the term stakeholder sets you apart. For you all humanity and even beyond it the entire ecology is a stakeholder. If you see then the you're not held back by even the most ordinary standards of propriety as you express a vehement challenge to authority at a moment when you deem it utterly necessary. One who like Joyce would turn the profane into social critique using real life as his stage - how much do you suppose such a one cares how many likes and comments he accumulates. He will go a step further to appal and amaze because these are the times of Ragnarök. In plain terms we have accumulated technical debt and our system design now grinds with the excessive heat and noise of a debt super-cycle coming to a climax.
-
-I was introduced to Arete by Kitto via Robert Pirsig in Zen and the Art of Motorcycle Maintenance. I came of age steeped in the social sciences particularly history, political science and economics. Then pivoted towards the *real world* and - finance and information technology - to understand , *in practice* rather than theory how the gap between truth and beauty might be better minded. 
-
-> He is in fact an excellent all-rounder; He has surpassing arete; an efficiency which exists, not in one department of life, but in life itself.
-~ Kitto
-
-
-
-that needed minding - the one between truth and beauty - might actually be closed for good. In assuming an office, a position that requires decisions be made based on values one brooks no compromise on those values without fundamentally impacting one's personal stability (and long-term sustainability). The reality however is that the 
-
-
-
-
-
-This is particularly important at key cyclical moments - turnings where capital has been debased. Historians may derive considerable information about ordinary conditions for *commoners* in certain periods of time by examining the alloy in coinage, measuring the *adulteration* of silver or gold and then assessing against comparative standards of prosperity and well-being for different classes or 'professional' communities. Without the benefit of the broadly disseminated information we have today (the ultimate capital in any time and place) ordinary folk were at disadvantage. We have solved for this considerably by making market data for commodities freely available however structural impediments or preferences (front-running) still have these communities at a disadvantage. As well, of course there is the underlying unit (the currency) which some economic communities access directly by controlling its volume which unfortunately of course leads to inflation and undermines the autonomy of an individual (by making the ordinary details - food, shelter and clothing more difficult)
-
-and in any case lacking the potential for autonomy we have today, communities in the past (before crypto-economics and the arrival of plausible parallel systems)
+**HERE**
 
 
 
@@ -139,25 +140,6 @@ In contrast others demur and, in a mimicry of an alignment of behaviour to ecolo
 **HERE **- these were darker fuller as gold declined and arsenals grew ever larger (Dial Square?) and ultimately atomic - lighter in the past (Quixote, Jack - pivot to a brighter series of satire (Pangloss/Voltaire too? Picaresque or? - Just Quixote...  - Flip this to end lightly and go long past to balance long future. 
 
 Anarchism, in this framework, is an optimistic perspective. In moments of crisis, while formal authority takes time to organize, ordinary people step in with ad hoc systems that respond immediately to pressing needs. This emerges from a deeply natural sense of empathy and altruism — the simple instinct that it's good to help those in need. When these efforts bear fruit, they bring not only relief but also a sense of fulfillment, camaraderie, and purpose — emotions that many don't experience in their day-to-day jobs. In fact, they may even find they dread returning to the rigidity of traditional work, feeling a deeper connection to the immediate, hands-on nature of problem-solving and mutual aid.
-
-**Arete** (ah-ree-teh) is an ancient Greek term that refers to excellence, virtue, or the fulfillment of purpose or function. In the context of ethics and philosophy, it encompasses the idea of living in accordance with one's highest potential, excelling in specific areas, and demonstrating moral character.
-
-In Greek philosophy, particularly in the works of Aristotle, **arete** is central to his ethical theory. For Aristotle, **arete** meant achieving the highest form of human potential through reason and virtue. It was not just about success or talent in a particular skill, but about flourishing in life by cultivating good character traits, such as courage, wisdom, temperance, and justice. In short, **arete** means living up to the highest standard of your abilities and virtues, embodying the pursuit of excellence in all aspects of life. Arete involves:
-
-1. **Excellence of Character:** Living virtuously by practicing good habits and making morally right decisions.
-2. **Achieving Potential:** Striving to reach one’s personal best, in whatever field or role one is engaged in—whether intellectually, physically, or emotionally.
-3. **Rational Action:** Acting in alignment with reason and living a life that fulfills one's function or purpose, as it aligns with human nature.
-4. **Balance of Virtues:** Arete doesn't mean being perfect in a single aspect, but developing a [well-rounded character](https://transition-insight.com/research-%26-writing/f/the-hero-of-odyssey?blogcategory=Dictum+(Soul+of+Wit)), balancing traits like courage with temperance, and wisdom with generosity. 
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -243,15 +225,13 @@ My fixation of course is the resolution and reconciliation of civilizational cyc
 
 The sub-plot within the grinding wheel turning us towards oblivion is the tension between kings and slaves as the latter pull away from the former in a journey along Jacks, Bobby's and Martin's moral arc of the universe - towards freedom and justice. This is linearity and its unfolding story of upward progress albeit also of periodically steep drawdowns. Linearity pulls us towards reconciliation while the modalities of tradition and heritage push us away from it. The elastic band that comprises humanity expands and contracts and a coming together seems perpetually out of scope - until it is in sight and then finally insight yields results - transition - to a New World Order.
 
-**Ragnarök Redux**
 
-As I work these themes in my writing and  look for partnership to help resolve them on the ground in the delivery of information technology, I explore the realm of popular culture where it makes more and more frequent appearances as the zeitgeist catches on to our reality. The arts and entertainment industry throws up some subtle comic relief occasionally. 
+
+## Ragnarök Redux
 
 On Netflix a show called Ragnarök is a Norwegian retelling of that *End of Times* myth. Set in a small fictional Norwegian town, Edde, both blight-ridden and picturesque quietly nestled amongst the fjords an epic battle between Gods and Giants plays out.
 
 The story unfolds as the townsfolk grapple with the environmental issues of climate change and industrial pollution, primarily caused by the local industrial power player and fifth largest company in Norway(!) Jutul Industries owned by the Jutul family. The Jutuls are depicted as jötnar—supernatural beings, or Giants, from Norse mythology—disguised as humans; This can be viewed as narrative device presenting the centralization of power and capital through heritage and descendance - one that endows oligarchy with power over the commons; A formidable capability yielding ROI on the outside (public key) while wielding influence on the inside (private key) leveraging the aforementioned 'manufactured' consent. These Giants are dualists par - everyone else is merely a tool or an ally to be corrupted and co-opted.
-
-**If I Had A Hammer**
 
 The narrative centers on Magne, a dyslexic teenage boy who discovers he is the reincarnation of Thor, the Norse god of thunder; a random good deed he does without the expectation of compensation is blessed by an elderly cashier at the local SPAR grocery. The narrative device here is the tenets of *virtue* are passed on generationally and are available to all - whether they are great or common - the choice is ours as to whether we adhere to them or not.
 
@@ -263,6 +243,5 @@ An agent of meaningful change regardless (whether as just a good kid or God) Mag
 
 The subtle hilarity is the manner in which the Giants join battle with Thor: By undermining his social credit at school and in the community. He gets expelled from school (a failing grade on a paper that highlights environmental hazards) and having the local psychiatric clinic prescribe him anti-psychotics to undermine his social credit. When all else fails, there is for the giants an absurd final solution - risperidone. I'm not 'Thor' literally but I can relate. I was in a impatient ward and prescribed risperidone for a bit (let's call it field experiment). I guess they think we're insane - when instead there is crystal clear method to our madness.
 
-I've selected a 'fairy' tale (about Jack), a story of Gods (Thor, Ragnarök and his risperidone script) and a classic novel (Don Quixote and his triste with a Milne) - three 'myths' to express key ideas in productivity; which is the essence of turning time into that which has currency - meaning for the self and for the commons manifested in the current - a word which means in motion (flow) and the present (still). This is why money is *always* yield it is notional in both senses - otherwise it's a commodity such as gold - no doubt valuable to a human but only as stable element with useful industrial properties. 
 
-I explore these ideas in Part 2 of this series driving us from macro (public) down to the micro (private) to model Regnum Dei (governance). All of this because from my anarchist perspective governance of the commons requires first a governance of the self (hence E Pluribus Unum). In software architecture we use the term stateful for that  which is public and which maintains equivalency to the aggregation of private states - essentially expressing the idea of E Pluribus Unum in real-time. I think of this as being in a *solid pukka united state*. It is complete (hard) yet ripe (as fruit when it has yield - extractable value); to be sure it's constantly evolving but it is *universally definitive* at a precise moment in time.
+

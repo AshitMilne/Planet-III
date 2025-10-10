@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Virtualis
+title: Machina Virtualis
 date: 2025-09-13
 tags: 
 - Regnum Dei
@@ -73,7 +73,7 @@ From a systems perspective, the structure represents an unstable server; its equ
 
 
 
-## The Virtual Machine ##
+## Machina Virtualis ##
 Since all contracts are compromised or at least suboptimal, let's take money out of the equation to imagine an alternative system: one without pyramid scheme hierarchies of practical strangers commanded by the self-styled giants among us. As well, let's pivot from intelligence, which we might agree is equivalently, if not equally, endowed in that we all have a gift or a **Calling**, to talk about leadership in an anarchist context.
 
 If we have gifts or a Calling, then they are useful insofar as they make our living possible, interesting (in a good way), and fun—in that order. You might not enjoy the prospect of changing a flat on a dark November morning in the middle of nowhere, but doing it safely will allow you to persist. It will be interesting the first time and result in some growth—a new skill and a light dopamine hit from having solved a problem without help. Alternatively, you could take the **Path of Least (POL) Resistance** and call a tow truck—spending money (after taxes), learning nothing, and becoming boring, ordinary, and unattractive. It's the slippery slope to becoming the inspiration for a new vision for mediocrity as a slow-cooked form of postmodern ambition; something whose development may be savored over the long span of a deteriorating circumstance you call **quantity of life**. There's a quiet epidemic wherein people put as little effort as possible to get as much out of the 'system.' It bleeds a system that doesn't itself actually create value anymore while removing from you the capacity to generate it for yourself.
@@ -97,8 +97,8 @@ Within our indigenous communities, there was no such animus. Primarily, I think,
 Neither within our indigenous American communities was there any framework for exerting coercive power, nor was there any means or desire to project it outwardly. The boundedness of a tribe allows for discussion and the formulation of consensus. The details of a matter are transparently assessed, and together, the tribe creates a solution for a challenge. Even crimes such as murder required reparations to be made collectively, as if to stake the community to the persistence of a meaningful, long-lasted reconciliation. Information had currency, and it was worn on the sleeve. Disclosure did not have to be demanded by an individual in a relevant circumstance—it was common sense that transparency was required to generate a fair outcome that would have resilience.
 
 
-## Virtualis
-Go back to the qualities that make intelligence a creative and resilient, life-giving anima:
+## Virtue
+Going back to the useful properties, also known as virtues of being constituted with anima: aspects which make intelligence a creative and resilient, life-giving:
 
 - **A Connection:** A shared notion of commitment
 - **Empathy:** An understanding of the 'other,' distinct from oneself
