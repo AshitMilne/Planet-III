@@ -1,0 +1,1 @@
+**Virtue** — The practiced alignment of character, reason, and action toward excellence (_arete_); the disciplined expression of autonomy that transforms truth into beauty and power into integrity.
