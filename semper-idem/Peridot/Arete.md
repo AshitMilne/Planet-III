@@ -1,8 +1,8 @@
 ---
 
 layout: base.njk
-title: "Arete"
-date: "2025-09-14"
+title: Arete
+date: 2025-09-14
 tags: 
 - Ragnarok
 - Virtue
@@ -11,7 +11,7 @@ tags:
 - Mythology
 - Autonomy
 - Anarchy
-series Peridot
+series: Peridot
 ---
 
 

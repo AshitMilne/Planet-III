@@ -1,7 +1,7 @@
 ---
-layout: "base.njk"
-title: "Anima"
-date: "2025-09-13"
+layout: base.njk
+title: Anima
+date: 2025-09-13
 tags: ["Regnum Dei"]
 series: "Sine Qua Non"
 part: 4
