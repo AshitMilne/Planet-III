@@ -1,6 +1,6 @@
 ---
 author: Ashit Milne
-title: Liveness: Anima and Animus
+title: Liveness - Anima and Animus
 date: 2025-09-13
 layout: base.njk
 draft: False

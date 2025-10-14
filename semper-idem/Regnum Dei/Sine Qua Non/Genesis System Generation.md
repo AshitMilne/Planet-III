@@ -1,6 +1,6 @@
 ---
 author: Ashit Milne
-title: Genesis: System Generator
+title: Genesis - System Generator
 layout: base.njk
 date: 2025-09-13
 draft: False
