@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "43b656e14b1b7687",
+    "id": "ab517f407a230220",
     "type": "split",
     "children": [
       {
-        "id": "0d20732362f7d819",
+        "id": "f3fd334f5f10ba11",
         "type": "tabs",
         "children": [
           {
-            "id": "e240e20d4a4a8690",
+            "id": "a57225832cdebd3e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3e1df9e6134d7a44",
+    "id": "39efab6f6ddc80a6",
     "type": "split",
     "children": [
       {
-        "id": "526a1635eb5bca3d",
+        "id": "e1298845e34b0e78",
         "type": "tabs",
         "children": [
           {
-            "id": "bab7d25e0907ecf1",
+            "id": "c0e7c8127a4d3da4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "7e3dabbcd2ddf251",
+            "id": "17354c8eef8455eb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "50da34a7e34411bd",
+            "id": "be1452709a209947",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "de328517e0ce2ace",
+    "id": "42d3ae7e2ec1c163",
     "type": "split",
     "children": [
       {
-        "id": "016ec36b0c583388",
+        "id": "d24e741170b15783",
         "type": "tabs",
         "children": [
           {
-            "id": "097c389b78fa082c",
+            "id": "1ac9f3ca6d41facc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tagged/Arete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Arete"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "bf42bf6179173134",
+            "id": "68d282acee035aa0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tagged/Arete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Arete"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "b635943804ad3a6a",
+            "id": "d80d1c8a1ed323a7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,18 +131,17 @@
             }
           },
           {
-            "id": "54a5b624f249f617",
+            "id": "4f4ad6d7b7ee33ec",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "tagged/Arete.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Arete"
+              "title": "Outline"
             }
           }
         ]
@@ -165,33 +162,8 @@
       "bases:Create new base": false
     }
   },
-  "active": "bab7d25e0907ecf1",
+  "active": "a57225832cdebd3e",
   "lastOpenFiles": [
-    "tagged/Arete.md",
-    "notes/Capital.md",
-    "notes/Identity Stack.md",
-    "notes/legitimate.md",
-    "tagged/Anima.md",
-    "tagged/Virtualis.md",
-    "notes/D.E.C.A.Y.md",
-    "notes/creation.md",
-    "tagged/Lexica.md",
-    "notes/semper idem.md",
-    "notes/Stone Rose.md",
-    "notes/arete.md",
-    "notes/calling.md",
-    "aretearete.md",
-    "notes/giant.md",
-    "notes/intelligence.md",
-    "notes/Sine Qua Non.md",
-    "notes/Path of Most Resistance (POMR).md",
-    "Path of Most (POMR).md",
-    "notes/Path of Least Resistance (POLR).md",
-    "notes/Patriarchy.md",
-    "Path of Least  Resistance (POLR).md",
-    "Path of Least (POLR).md",
-    "notes/Virtue.md",
-    "notes/Smart Contract.md",
-    "notes/coordination.md"
+    "Anima.md"
   ]
 }

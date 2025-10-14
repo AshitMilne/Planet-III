@@ -1,11 +1,32 @@
 ---
-layout: "base.njk"
-title: "Genesis"
-date: "2025-09-13"
+author: Ashit Milne
+title: Genesis
+layout: base.njk
+date: 2025-09-13
+
+
 tags: ["Regnum Dei"]
 series: "Sine Qua Non"
 part: 2
+
 ---
+
+
+
+author: Ashit Milne
+title: Deus
+date: 2025-09-13
+layout: base.njk
+draft: False
+tags:
+- philosophy
+- anarchism
+- technology
+- intelligence
+- yoga
+- sacred feminine
+series: Sine Qua Non
+part: 1
 
 ![](./assets/AlgonquinSunrise.jpg)
 

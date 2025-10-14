@@ -1,29 +1,26 @@
 
 # Sine Qua Non 3: Anima - [[OK Computer]] #
 
-## Introduction ##
+## Introduction
 
-<<<<<<< HEAD
-In short, our purpose here is to examine what a human-centric system design imbued with a natural and organic intelligence that is efficient. We use the term 'emotional intelligence' or empathy broadly in street psychology to describe a 'good people' vibe. A deeper understanding is required if we are to enable contracts with this intelligence, which is why I frame it as Anima. This piece explores [[notes/Anima]] and the elements that constitute it. The short answer is that through an anarchist lens, crime, especially premeditated murder (which of course includes war) is a health matter (i.e., not intelligent).
-=======
-In short, our purpose here is to examine what constitutes a human-centric system design imbued with a natural and organic intelligence that is efficient. We use the term 'emotional intelligence' or empathy broadly in street psychology to describe a 'good people' vibe. A deeper understanding is required if we are to enable contracts with this intelligence, which is why I frame it as Anima. This piece explores [[notes/Anima]] and the elements that constitute it. The short answer is that through an anarchist lens, crime, especially premeditated murder (which of course includes war) is a health matter (i.e., not intelligent).
->>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a
+In short, our purpose here is to examine what a human-centric system design imbued with a natural and organic intelligence that is efficient. We use the term 'emotional intelligence' or empathy broadly in street psychology to describe a 'good people' vibe. A deeper understanding is required if we are to enable contracts with this intelligence, which is why I frame it as Anima. This piece explores [[Anima]] and the elements that constitute it. The short answer is that through an anarchist lens, crime, especially premeditated murder (which of course includes war) is a health matter (i.e., not intelligent).
 
+In short, our purpose here is to examine what constitutes a human-centric system design imbued with a natural and organic intelligence that is efficient. We use the term 'emotional intelligence' or empathy broadly in street psychology to describe a 'good people' vibe. A deeper understanding is required if we are to enable contracts with this intelligence, which is why I frame it as Anima. This piece explores [[Anima]] and the elements that constitute it. The short answer is that through an anarchist lens, crime, especially premeditated murder (which of course includes war) is a health matter (i.e., not intelligent).
 
-## Animus ##
+## Liveness
 
->A heart that's full up like a landfill
+A heart that's full up like a landfill
 A job that slowly kills you
 Bruises that won't heal
 
->You look so tired, unhappy
+You look so tired, unhappy
 Bring down the government
 They don't, they don't speak for us
 ~ Radiohead (No Surprises)
 
-To understand Anima, think of it as human intelligence—but without [[Animus]] (something absent in other fauna). Taking a via negativa approach, we may then approach human-centric design to create systems that work for all.
+To understand human intelligence we have to appreciate forms of _liveness_, the fundamental quality of intelligent things. First there is the _vital_, (still, quiet and gentle) liveness characteristic of plant life we find so calming; this is us in a still contemplative state. This is anima. Then there in animus which is expressive, kinetic and dynamic. This is a quality of animal life in self-actualisation. Animus secures a boundary and will extend beyond that boundary to transact with the world. How it transacts and to the degree it exploits is critical to maintaining balance or equilibrium. Humans often struggle with establishing that boundary when they lose sight of what is and is not _vital_ (necessary and sufficient for self-actualisation - not just subsistence). Taking a _via negativa_ approach to assess and those transactions objectively we may then approach human-centric design to create systems that work for all without exploitation of others (which also includes by extension unsustainable exploitation of the Commons - in the aggregate and inclusive of the spaces in between - I call this Creation.
 
-[[notes/Machina]] before humanity was the world as an 'OK' Computer—God's idea. The [[discussion mudra]] was the unseen and unspoken intelligence that flowed freely in abundance: a force of nature to make life on this third stone satellite a reality. It was one with God, deeply embedded within, before the complexity of civilization began to arise. Anima is a human idea that separates and categorizes to understand and model the universe, but without a notional wholeness that is too complex and particulate to fully apprehend ([[Deus ex Machina]]). The risk, of course, is that the compelling model becomes the singular prism through which we see reality. Understanding that there is a (holy) ghost in the machine is critical.
+[[Machina]] before humanity was the world as an 'OK' Computer—God's idea. The [[discussion mudra]] was the unseen and unspoken intelligence that flowed freely in abundance: a force of nature to make life on this third stone satellite a reality. It was one with God, deeply embedded within, before the complexity of civilization began to arise. Anima is a human idea that separates and categorizes to understand and model the universe, but without a notional wholeness that is too complex and particulate to fully apprehend ([[Deus ex Machina]]). The risk, of course, is that the compelling model becomes the singular prism through which we see reality. Understanding that there is a (holy) ghost in the machine is critical.
 
 I wonder at how precocious child Mary Shelley would have been—to have grown up under the guidance of such farsighted parents in a country as prosperous and relatively free as England. The daughter of anarchists William Godwin and Mary Wollstonecraft, of course, wrote *Frankenstein*, which can be summarized as follows: The corpse is not the sum of some ordinarily random parts assembled in an accustomed way in the manner of corporations (corps).
 
@@ -51,7 +48,7 @@ Now I ask you, if I think I am privileged because I am not forced to surrender a
 
 As we hive off into communities, male and female aspects of a society perform different roles. The feminine aspect of man (anima) is that which will listen and discuss to yoke community rather than immediately resort to force to aggrandize. The male aspect of the female (animus) meanwhile looks to keep and hold what has already been secured, fearful that coercion and force will one day leave offspring wanting lest the patriarch compromises through transactional behavior which structurally undermines the collective her matriarchy has nursed into being with care in the household. This is the inner tension in our collective with which we struggle as we simultaneously reconcile it with its reciprocal personality in the 'other'. These internal machinations are the paranoid android gripped by panic and fear or alternatively pride and prejudice as we encounter the 'alien us'. The contemplative seeks to overcome this negativity by emanating the positive and constructive elements of Anima—intelligence without which a personality risks being swept up by animus which represents emotion that is hostile or defensiveness.
 
-[[notes/Anima]] has five dimensions:
+[[Anima]] has five dimensions:
 
 - A [[connection]]: a shared notion of what constitutes a high-fidelity commitment
 
@@ -64,13 +61,10 @@ As we hive off into communities, male and female aspects of a society perform di
 - [[Shared Purpose]]: We gravitate around a distilled outcome becoming from many one - [[E Pluribus Unum]]*. This is our notional capital. Whatever the legal *ownership* of capital in a very real sense it is a shared utility
 
 
-<<<<<<< HEAD
+
 What makes this [[anarchy]] is that anima is sufficiently expressed in masculinity through the absence of coercive energy—either emotional or physical (violence) on a person. The fine line becomes nuanced in practice as incumbent participants in a polity resort to tactics required to achieve outcomes (electoral victory). Anima is essentially love without possessiveness; an abiding affection which neither wants nor needs anything. Love that does not require the 'other' to requite—nor even offer even negligible social credit. This removes paranoia and what is left is abstract identity (id) that contains both masculine and feminine aspects in a bespoke balance of androgyny. What this means is that we are not the same (which is to say we are not identical), but we are each of equivalent worth or value in Creation as a starting point for discussion. This notion is central to reconciliation and wholeness and demands the removal of arbitrary preference (i.e., bias).
-=======
+
 What makes this anarchy is that anima is sufficiently expressed in masculinity through the absence of coercive energy—either emotional or physical (violence) on a person. The fine line becomes nuanced in practice as incumbent participants in a polity resort to tactics required to achieve outcomes (electoral victory). Anima is essentially love without possessiveness; an abiding affection which neither wants nor needs anything. Love that does not require the 'other' to requite—nor even offer even negligible social credit. This removes paranoia and what is left is abstract identity (id) that contains both masculine and feminine aspects in a bespoke balance of androgyny. What this means is that we are not the same (which is to say we are not identical), but we are each of equivalent worth or value in Creation as a starting point for discussion. This notion is central to reconciliation and wholeness and demands the removal of arbitrary preference (i.e., bias).
->>>>>>> 9b1874734d4fd44a27e70ec41cb6e6388fcb441a
-
-
 
 ## But Is It Yoga? ##
 

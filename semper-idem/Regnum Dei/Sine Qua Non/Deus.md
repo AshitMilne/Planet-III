@@ -1,9 +1,17 @@
 ---
-layout: "base.njk"
-title: "Deus"
-date: "2025-09-13"
-tags: ["Canon"]
-series: "Sine Qua Non"
+author: Ashit Milne
+title: Deus
+date: 2025-09-13
+layout: base.njk
+draft: False
+tags:
+- philosophy
+- anarchism
+- technology
+- intelligence
+- yoga
+- sacred feminine
+series: Sine Qua Non
 part: 1
 ---
 

@@ -1,9 +1,17 @@
 ---
-layout: base.njk
-title: Anima
+author: Ashit Milne
+title: Liveness: Anima and Animus
 date: 2025-09-13
-tags: ["Regnum Dei"]
-series: "Sine Qua Non"
+layout: base.njk
+draft: False
+tags: 
+ - philosophy
+ - anarchism
+ - technology
+ - intelligence
+ - yoga
+ - sacred feminine
+series: Sine Qua Non
 part: 4
 ---
 
@@ -11,21 +19,20 @@ part: 4
 
 Sacred white cedar who bark clad Wendat and Haudenosaunee dwellings at Milton's Crawford Lake in Ontario. They grow right out of stone. Intelligence finding a way to express itself from practically nothing.
 
-## Introduction ##
+## Introduction
 
 In short, our purpose here is to examine what constitutes a human-centric system design imbued with a natural and organic intelligence that is efficient. We use the term 'emotional intelligence' or empathy broadly in street psychology to describe a 'good people' vibe. A deeper understanding is required if we are to enable contracts with this intelligence, which is why I frame it as Anima. This piece explores Anima and the elements that constitute it. The short answer is that through an anarchist lens, crime, especially premeditated murder (which of course includes war) is a health matter (i.e., not intelligent).
 
-## Animus ##
+## Liveness
 >A heart that's full up like a landfill
 A job that slowly kills you
 Bruises that won't heal
-
->You look so tired, unhappy
+You look so tired, unhappy
 Bring down the government
 They don't, they don't speak for us
-~ Radiohead (No Surprises)
+>~ Radiohead (No Surprises)
 
-To understand Anima, think of it as human intelligence—but without Animus (something absent in other fauna). Taking a via negativa approach, we may then approach human-centric design to create systems that work for all.
+To understand human intelligence we have to appreciate forms of *liveness*, the fundamental quality of intelligent things. First there is the *vital*, (still, quiet and gentle) liveness characteristic of plant life we find so calming; this is us in a still contemplative state. This is anima. Then there in animus which is expressive, kinetic and dynamic. This is a quality of animal life in self-actualisation. Animus secures a boundary and will extend beyond that boundary to transact with the world. How it transacts and to the degree it exploits is critical to maintaining balance or equilibrium. Humans often struggle with establishing that boundary when they lose sight of what is and is not *vital* (necessary and sufficient for self-actualisation - not just subsistence). Taking a *via negativa* approach to assess and those transactions objectively we may then approach human-centric design to create systems that work for all without exploitation of others (which also includes by extension unsustainable exploitation of the Commons - in the aggregate and inclusive of the spaces in between - I call this Creation.
 
 Machina before humanity was the world as an 'OK' Computer—God's idea. The discussion mudra was the unseen and unspoken intelligence that flowed freely in abundance: a force of nature to make life on this third stone satellite a reality. It was one with God, deeply embedded within, before the complexity of civilization began to arise. Anima is a human idea that separates and categorizes to understand and model the universe, but without a notional wholeness that is too complex and particulate to fully apprehend (Deus ex Machina). The risk, of course, is that the compelling model becomes the singular prism through which we see reality. Understanding that there is a (holy) ghost in the machine is critical.
 
@@ -51,7 +58,7 @@ Now I ask you, if I think I am privileged because I am not forced to surrender a
 
 
 
-## Paranoid Android ##
+## Paranoid Android
 As we hive off into communities, male and female aspects of a society perform different roles. The feminine aspect of man (anima) is that which will listen and discuss to yoke community rather than immediately resort to force to aggrandize. The male aspect of the female (animus) meanwhile looks to keep and hold what has already been secured, fearful that coercion and force will one day leave offspring wanting lest the patriarch compromises through transactional behavior which structurally undermines the collective her matriarchy has nursed into being with care in the household. This is the inner tension in our collective with which we struggle as we simultaneously reconcile it with its reciprocal personality in the 'other'. These internal machinations are the paranoid android gripped by panic and fear or alternatively pride and prejudice as we encounter the 'alien us'. The contemplative seeks to overcome this negativity by emanating the positive and constructive elements of Anima—intelligence without which a personality risks being swept up by animus which represents emotion that is hostile or defensiveness.
 
 Anima has five dimensions:
@@ -70,7 +77,7 @@ What makes this anarchy is that anima is sufficiently expressed in masculinity t
 
 
 
-## But Is It Yoga? ##
+## But Is It Yoga?
 > अचिन्त्य भेदाभेद तत्त्व
 Like the flower and the scent of summer
 like the sun and shine
@@ -88,7 +95,7 @@ Yoga is the practice of yoking self to creation through anima so that one encomp
 
 That's the ideal. Now, civilization in its present mode is such that it encourages the opportunistic meme—merely the veneer of an idea and a path of least resistance to what is admittedly a version of what may be called 'the good life' (*Degen* rather than Scott and Helen Nearing's). Lucifer enlightens us and seeing an opportunity for indolence (efficiency) and licentiousness (procreation)—central rhetorical themes in what constitutes humanity, a melee ensues. Conferences are organized for the purpose. It is freedom untethered from responsibility and from accountability. This is the Last Man—a YOLO soft-nihilism before we settle into something more natural for the long run. Nietzsche's reset has us (and for that matter him) oscillate wildly into promiscuity before settling into a standard on what constitutes Regnum Dei. If not entirely wholesome, it's just dessert: dates with a few nuts as we examine the range of what constitutes the boundary of tolerable behavior, even it isn't accepted as comprehensively legitimate by some (kosher or ḥalāl).
 
-## Self Sufficiency ##
+## Self Sufficiency
 Shiv, the patron of yogis however, is Sufi—self-sufficient in a metaphorical and mystical solitude as an archetype and as a platonic example of what it means to retire with meaning and intention: to be in one's own company as a palliative and practice like a John Galt or a Henry David Thoreau. To seek an understanding of self—and then bring it back to the world with Calling as God's gift. This is a practice to be cultivated as a component of life in the midst of culture.
 
 To walk out on a problem entirely is irresponsible. As an alternative to walking away from the civilization of men is the opportunity to live and work within and yet in another paradigm. The ancient renunciates communed with nature giving up the world of men, but when you know that Creation itself is being assaulted by man, you cannot leave. You need to stand, deliver, and defend. One obeys laws and one works as much or as little as one wants. Never for money but for the love of the labor and with a view as to how carefully capital is expended. Whether yours or not—it was hard-earned. This is why an anarchist ultimately no longer sees the Sovereign, Hegemon and their corporate agents as legitimate. They are no longer creative but running to stand still on a dreadful treadmill.
@@ -97,7 +104,7 @@ One reason I left the practice of yoga (as it is known in the west) is precisely
 
 My own feeling is that the extravagant knots of the original sannyasin were presented as a mocking satire—a frightful mirror inspired by Kali and shown to a messy and disturbing society as it tied itself in masochistic narcistic knots designed to draw attention and make an impression: the same problems were clear to yogis thousands of years ago as they are now; this is a subtlety lost on those bending themselves painfully into some extremely weird poses unnecessarily and those assisting them into torn hamstrings. That said, I came away with some clever ideas as I shifted to urban and wilderness protocols and methods—strategic and tactical. These tune awareness in the world much as introspection does in the quiet warm moments before dawn where I cultivated a seated vipassana practice—I needed to slow right down.
 
-## The Sacred Feminine ##
+## The Sacred Feminine
 My view of civilization is modeled with the broad spectrum of time in mind and with cues from nature at large. The rest of creation is ruthlessly efficient and without arbitrary rules geared towards making 'everyone happy all of the time'. The assumption is that everybody is already content, which is to say, they have what they are—there is no concept of property as such. Rules appear to be autonomously driven from an innate algorithm and seem based on logic: a calculus or a process that amounts to determining fitness for purpose. Division of labor is generally dictated by innate attributes. We apply these attributes or qualities through, for the purposes of this discussion, masculine and feminine aspects; all living things have masculine and feminine aspects. Some species have separate male and female plants, some species have male and female flowers on the same plant while the flowers of some have both masculine and feminine aspects within a flower. All species however in some way as an entity allow for both masculine and female aspects—respectively the stamen and the pistil (or carpel).
 
 The masculine aspect in living things secures and projects while and the feminine nurtures and holds. With that as your basic idea in social science, grammar such as the use of gender and the person. In a transaction, a coming together that is necessary and dictated by circumstances, equivalence is sought not equality. If there were equality, there should be no transaction because everyone would have what they need. Instead, we're looking for an equivalence; a coincidence of needs. If you're looking for someone else's additive—the outcome of their creativity—something which you haven't but are in need of, one hopes you have something to offer that they need.

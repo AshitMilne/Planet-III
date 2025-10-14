@@ -1,0 +1,1 @@
+An asset, including sound money, that has real-world value; it is readily accepted for food, shelter and clothing without hesitation by anyone. It has the quality of holding or appreciating in value over time ( when invested or staked).

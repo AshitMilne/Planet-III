@@ -36,7 +36,7 @@ Above: Lord Shiva, Patron of Transformation. For yogis he represents the *inner*
 
 
 
-I've taken Milne as my pen name. In my ancestral Gujarati (and Hindi), the word 'milne'    (मिल्न) phonetically means, in an abstract sense, to 'come together' or meet - whether it be to break bread and share warmth and intimacy on shabbat or to conduct an atomic transaction for due consideration. On a spectrum those are the extreme two bounds within which parties exchange value, and are then over time imbued with a notion of relative *trust* as they manage their affairs in a social network, digital or otherwise.
+Entering Act III I have assumed Milne as my given name. In my ancestral Gujarati (and Hindi), the word 'milne' (मिल्न) phonetically means, in an abstract sense, to 'come together' or meet - whether it be to break bread within one's community of friends and partners in life or to conduct an atomic transaction for due consideration with a stranger. On a spectrum those are the extreme two bounds within which parties exchange value, and are then over time imbued with a notion of relative *trust* as they manage their affairs in a social network, digital or otherwise.
 
 My given name, is Indo-Aryan Sanskrit - Ashit अशित). It denotes the immaterial yet desirable. That unfrozen (warm) space, our planet, which has allowed consciousness to evolve, and through it truth to be known over time; allowing ultimately for the end of ignorance (below). The notion is made real on this planet - Earth - which yields comfort for humanity. Ashit Milne therefore means 'The Planet Come Together'. It reverberates with anarchism - the world is our country, to do good is our religion.
 
@@ -46,7 +46,7 @@ Whatever I am to the world, I call *myself* Ashit Milne. 'Milne' suggests a hewe
 
 Planet - Third rock from the Sun
 
-**Mess Are Ya? I'll Sort You**
+
 
 There is a nuance with modern English that non-native speakers find bewildering - even the fluent. For example,  do you apprehend the truth carried on the Christ's breath in the cockney turn of phrase above? And does it imply the Creator's wrath or his benevolent kindness? You cannot know without direct personal experience of his countenance (as *He* offers you a nod and a wink).
 
