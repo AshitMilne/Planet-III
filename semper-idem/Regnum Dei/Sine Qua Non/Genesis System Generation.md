@@ -1,40 +1,29 @@
 ---
 author: Ashit Milne
-title: Genesis
+title: Genesis: System Generator
 layout: base.njk
 date: 2025-09-13
-
-
-tags: ["Regnum Dei"]
-series: "Sine Qua Non"
-part: 2
-
----
-
-
-
-author: Ashit Milne
-title: Deus
-date: 2025-09-13
-layout: base.njk
 draft: False
-tags:
+tag:
 - philosophy
 - anarchism
 - technology
 - intelligence
-- yoga
+- yoga element
 - sacred feminine
 series: Sine Qua Non
-part: 1
+part: 2
+---
 
 ![](./assets/AlgonquinSunrise.jpg)
 
-## Introduction ##
+
+
+## Introduction
 
 This piece continues our examination of intelligence and explores the frameworks humanity applies once it evolved code — the ability to transmit word or signal — toward an approaching coda, where that signal might be transmitted at practically the speed of light speed (pulse with impedance over fibre optic cable): Morse became telegram, which in turn evolved to binary, machine-readable, code transmitting intellectual property (IP) between what we call IP (internet protocol) addresses. All that was really required for the signaler (automated or otherwise) to possess the ability to express two states — stop and start —  easily done with a solenoid (a type of resistor) as with brake and gas pedals — a framework transferrable to software running signal over networks on hardware.
 
-## The Reckoning ##
+## The Reckoning
 Many of us, while preoccupied with our own progress in life—the dichotomy of being and becoming versions of ourselves that might coexist more comfortably with our conscience with each step taken—also watch carefully the broad sweep of human behavior in a global setting. Amidst the seeming entropy and apparent chaos, our imaginations have been captured by the evolution of information technology, and in particular the imagined promise of a beautiful reckoning: not a fearsome retribution, but rather a reconciliation of the self to the commons (the structures we establish to govern ourselves), and thence to creation.
 
 Perhaps the first complex civilization to linguistically capture this challenge in universally accessible terms is that of the East. The Japanese characters for "China" represent that country on its own terms as two characters, together constituting the term "Middle Kingdom"—an administrative artifice occupying a realm between the earth (where the self dwells) and heaven (or creation).
@@ -51,7 +40,7 @@ This has been a theme in spiritual and transcendental thought, through Christ an
 
 Thoreau, who had retired to Walden to become a jack of all the required 'trades' necessary to front the essentials of life, commented on the incessant and excessive noise generated *à la mode*—fashions incessantly cycled to generate artificial demand for the professional or the specialist. The accumulation and preoccupation with things is accompanied by a degradation in our relationships to one another, and by extension, to our communities and institutions. This anti-heritage weighs on our emotional and physical wellbeing, and, of course, the aggregate outcome is a degradation of our planet itself—the tragedy of the commons on a global scale. This was called out in 1962 by Rachel Carson in *Silent Spring* as a hubristic separation from nature—our inability as a species to align our self-interest with those of the commonwealth, other species, and the planet itself.
 
-## The World Wakes Up From History ##
+## The World Wakes Up From History
 In my own life, the year of magic will forever be 1989 when I stood at the threshold of becoming a man. Twenty years on from the summer of '69 when I was born, the air appeared lit with incessant warmth and sunshine; I saw the good in everyone. That optimism was reflected broadly in the pivot in English music away from the maudlin dulcet tones of my teenaged years; an inheritance of the mod and punk of my early childhood. In its place now was the ecstatic rave euphoria of a primal scream launched with fever pitch, promising a life filled with Happy Mondays. *Bryter Layter* had become Kula Shaker, and the air reverberated with pop piety and praise—a savvy and refined style infused with good taste *and* good vibes. We cheered and celebrated the promise of a bounty—a dividend with peace its midwife, just as our flowerchild forbears, now in mid-life, once protested with derision and division their war-torn strife.
 
 It was up for grabs now, or so it appeared. Human arrangements writ large no longer looked a fraught and tenuous round peg in a square hole but rather a whole that may yet be dialed into a square meal and fair deal. In real terms, the Berlin Wall came down, and in South Africa, Nelson Mandela, held captive for twenty-five years, was finally free. To those of us, students of history and political science, the long march to freedom had begun. I was on my way toward a career in law or diplomacy—arenas whose quality depend on the veracity *and* fidelity of the confluence of signals being transmitted and received by participants in the system of governance they comprise. Reality bit when I got a look into those fields at graduate school and whilst traveling and living abroad. Seeing limited scope for impact in the civil service or in the courts, I switched and began a career in information technology at *the* great 20th-century corporate behemoth—IBM.
@@ -62,17 +51,17 @@ It was no longer difficult to get an alternative view of reality—one that wasn
 
 The emergence of this decentralized currency, along with yet another bailout, forced me into a personal reckoning; I began to re-examine my life and my career. The whole point of managing software delivery was to contain risk to capital—the triple constraints of scope, time, and money. Scope was always dictated by revenue, and if revenue was to be denominated in a currency of no apparent value, then what was the point of managing an 'enterprise' project? All that really mattered was how I used that truly scarce commodity—*my own* time on earth. I started Transition Insight in 2010 and continued my career as an independent contractor, usually working on digital identity and wallet initiatives with smaller, more nimble teams applying agile methods. All the while I continued to explore the broader implications of that tumultuous year 2008—and watch the evolution of legitimate money.
 
-## Le Prix: The Genesis of Legitimate Global Consensus ##
+## Le Prix: The Genesis of Legitimate Global Consensus
 > Life's rich demand creates supply in the hand
 Of the powers, the only vote that matters
 Silence means security, silence means approval
 On Zenith on the TV, tiger run around the tree
 Follow the leader, run and turn into butter
-
-> Let's begin again, begin the begin
+>
+Let's begin again, begin the begin
 Let's begin again like Martin Luther Zen
 The mythology begins the begin
-~ R.E.M (Begin The Being)
+>~ R.E.M (Begin The Being)
 
 As I geared up to complete a decade at IBM in the midst of the great financial crisis, Bitcoin emerged, and we began to begin again—like Martin Luther and Zen mythology in times past. My own feeling is that Satoshi is not so much a Zen master sensei and practitioner (of what I imagine to be a reverse-engineered protocol) but an imagined mark or destination. ‘He’ represents an imagined universally applicable philosophical model reduced to an algorithm and protocol that sets out a notion of what is relatively valuable to *humans* in the marketplace of *ideas*. He represents humanist self-sovereignty—at a minimum the capacity to live and let live (or leave)—and where possible, he seeks through example to be the servant leader our times call for.
 

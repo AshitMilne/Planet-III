@@ -1,19 +1,27 @@
 ---
-layout: "base.njk"
-title: "Machina"
-date: "2025-09-13"
-tags: ["Canon"]
-series: "Sine Qua Non"
+layout: base.njk
+title: Machina
+date: 2025-09-13
+tags:
+ - machina
+ - anima
+ - animus
+ - legitimacy
+ - sovereignty
+ - ecology
+ - abundance
+ - hourglass-of-redcurrant
+series: Sine Qua Non
 part: 3
 ---
 
 ![](./assets/Machina-1758022225889-6.jfif)
 
-## Introduction ##
+## Introduction
 
-In this third installment of *Sine Qua Non*, we introduce the metaphors **Machina** and **Anima** to consider the intelligence inherent in the architecture of reality. The earth operated as an autonomous perpetual machine before humanity emerged. Intelligence was *in habit* (i.e., dwelling within a persistent but evolving architecture—a global-macro *semper idem*—that seemed natural and organic). There was no extrinsic rule or algorithm sought to enhance operation within it.
+In this third installment of *Sine Qua Non*, we introduce the metaphors **Machina** and **Liveness** **(Anima/Animus)** to consider the intelligence inherent in the architecture of reality. The earth operated as an autonomous perpetual machine before humanity emerged. Intelligence was *in habit* (i.e., dwelling within a persistent but evolving architecture—a global-macro *semper idem*—that seemed natural and organic). There was no extrinsic rule or algorithm sought to enhance operation within it.
 
-## The Planet Works ##
+## The Planet Works
 Evolution appears to be a process pushing intelligence out of the inert matter we began the planet with. The system as a whole was adaptive to its environment and incrementing slowly while manifesting intelligent life. Periodically, systemic resets of life came through the “fire and brimstone” of Earth's shifting thermal behavior—setting the world alight with flame or awash with salt. Alternatively, it was the impact of inanimate extraterrestrial bodies (meteors). Each of these catalysts for shifting life in a radical and novel direction adjusted to the new circumstances, as intelligence pivoted to a new strategy. The latest of these is to put an animal capable of both objective precision and playful mirth on the board. One that apprehended cycles, calling them *saeculum*, and in time, as civilization grew in size, they also came to think too of apocalypse (invariably a rout of humanity brought on by its accumulated fissures).
 
 Humanity is the jolly ape imbued with imagination and delight at finding itself at the wheel of heavy machinery: a technology it has yet to wield adeptly. We're still just excited about being exceptionally 'brainy' and we're showing that off with some pretty wild stunt driving; it's not our habit to ask for directions or read the instructions. In any case, it's our driving that makes the road. Every tiny decision that each of us makes sends us collectively to one destination or another on a jagged, volatile path. We can't make Eden better. Only ourselves, but our inability to face the truth of the Anthropocene is a penchant for compromising truth to continue an assault on its beauty. I have had the best life imaginable and I am perfectly fine with either destination—as you like it. I travel with you, and the journey is better for it.
@@ -26,12 +34,12 @@ Humanity’s emergence into this system was itself dictated by changes in climat
 
 With our numbers still small, these weren't destructive in a wholesale way. However, in modernity, as we look upon those ancient expressions of power still projected at what styles itself as the democratic world's leadership—the planes, helicopters, official residences, the entourage of advisors, secretaries, speechwriters, and the motorcades they travel in—you ask whether you and your ecology are getting your money's worth. Hopefully, as citizen and taxpayer embedded in the incumbent structure or system, you feel at least that this is a framework you are willing to participate in. Some of us, however, have in different ways forked to set for us all a secure framework with a lower price tag across the board—as consumer, citizen, or just an ape (bored or otherwise) in an ever more depleted ecology.
 
-## Humanity Stakes ##
+## Humanity Stakes
 In Dial Square, my model for layers of the identity stack, the **Stone Rose** was the totality of the planet's material—inert and alive—while **Hour Glass of Redcurrant** was evolution itself, the environment, or the surface tension between matter and energy where things were made to happen and adapt. Humanity uniquely has the capacity to introspect. To wonder about the nature of reality and to ask why it is that we come to exist and what our purpose is. We model that reality in terms of symbols that resonate in the myths, metaphors, and analogies that our tribe collects on its journey. This, after first carving out for ourselves a modicum of comfort first. That comfort derived is cause of elation and joy in our collection of tribes; each small discovery, foothold or firm purchase made to persist our collective, is a goal-mouth celebration in nature's face in the face of adversity and the constant tragedy of loss. It is natural for us then to model our relationship to the world as an adversarial one and one where we have a right to claim from it what we need to make our life; other groups or collectives can become a part of that scenery, appearing as 'other' with their own peculiar models and symbols. If not entirely strange in their manners, themes, and color schemes, they are at least 'strangers'. In each of our collectives, as we seek to persist and remove the madness from our method, we look amongst ourselves for the exemplary, and aping them, we developed instead a pride about our manner. This becomes the essence of who we are; a distillation of the tribe's spirit becomes the manners of the tribe—our ways writ symbolically in word and in deed ritually become who we are, virtually and literally. Affinity is beyond proximation. This distillation of spirit—**Hourglass of Redcurrant (HGR or hugger)**—holds us close to our folk. The idea of HGR expresses the universality of this principle so that we may look beyond a scarcity that no longer needs to be modeled in our reality and no longer draw fine points around symbols that are increasingly difficult to reconcile with pluralism, particularly in the west.
 
 In this complex world, moving towards seven billion individuals who insist on becoming who they aspire to be—something more than an accident of birth—a common HGR serves as a denominator defining a consensus of what constitutes legitimate self-sovereign behavior. Meanwhile, each transaction—a purchase or a conversation, a coming together of any kind, in fact—is numerated against this. In a world that, while providing abundantly for us, is obviously finite, it is prioritized in a way that serves our tribe (however it's defined by HGR) while being constructive as we engage with the world beyond that 'community'—the rest of creation that you and yours are a part of. Dance is, perhaps, as close as we get to a state of letting oneself go to become one with a moment. The movement expressed is its own proof of work, and the pleasure we feel is for our own sake and for those that gravitate to dance with us—staking with us in a moment of recognition as something worth being a part. HGR requires that we acknowledge too the ways of others by accepting their presence, preferably at some distance, respectful of their ways which we must accept as not our own.
 
-## Claiming Legitimacy ##
+## Claiming Legitimacy
 >And I try
 Oh my God, do I try
 I try all the time
@@ -48,7 +56,7 @@ So, legitimacy is recognized into existence, not coerced into hegemony through f
 
 Once you recognize abundance and surrender your own personal narratives of scarcity—ones that tied you to the incumbent institutions—you are in a position to actualize legitimate behavior into being in the insurgency, the structure being architected to hold our collective spirit.
 
-## Unanimity - The Cold Standard ##
+## Unanimity - The Cold Standard
 
 **Anima** is the term used to describe the intelligence that emanated into the world from the primordial inorganic mineral of chemistry before humanity from Machina. Anima is the feminine aspect of thingness with inorganic mineral its oppositive male. All nature expresses **unanimity**—unity animated in amity—its compiled code encapsulating *profound* consensus. There is for example never *animus* in nature: no behaviour for example animated by spitefulness, envy, revenge or just plain capacity to inflict  random damage. They are though profoundly efficient however. Cool as you like, a cat will not waste energy putting quarry out of its misery. It likes its food fresh and nutritionally maximal -  *just* dead enough to be safe to eat and never dead long enough for pathogens to set in and help themselves all the while curiously and playfully learning how its food best prepares itself. Now *that* is *MEV* (Maximum Extractable Value) and why cats are the undisputed rulers of the internet and a model for domestic life. They *can* go feral and come back to domesticity new and improved. Take us on the other hand and our bias for empathy. It requires us to put animals out of their misery and field dress them. Smart as he may have been, Christopher McCandless died because he was a kind naive idealist. He wanted out. But he was no Timothy McVeigh - he forked but didn't know how to jerk a moose or real-*manage* real world risk. He wanted no alarms. He needed no surprises - including remarkably - hunger, which isn't known to creep up on people.
 

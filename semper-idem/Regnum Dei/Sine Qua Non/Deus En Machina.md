@@ -1,6 +1,6 @@
 ---
 author: Ashit Milne
-title: Deus
+title: Deus En Machina
 date: 2025-09-13
 layout: base.njk
 draft: False

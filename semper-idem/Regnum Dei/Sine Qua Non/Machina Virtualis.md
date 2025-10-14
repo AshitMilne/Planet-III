@@ -2,16 +2,21 @@
 layout: base.njk
 title: Machina Virtualis
 date: 2025-09-13
+draft: False
 tags: 
-- Regnum Dei
+  - anima
+  - animus
+  - sovereignty
+  - anarchy
+  - zero trust
+  - resilience
 series: Sine Qua Non
 part: 5
 ---
 
 ![](./assets/PrehistoricLedger.jpeg)
 
-
-## Introduction ##
+## Introduction
 If Anima is the innately rational yet connected aspect of intelligence, regardless of linguistic convention—the anarchic intelligence that emanates in Creation (the ecology)—then we approach the "other" as a uniquely embodied identity, in plain language, a person (not a role, responsibility, or title). Previously, we noted that Creation expresses masculine and feminine aspects in all life, distinct from notions of gender or sex. As humans, we compete, explore, and press into adventures. However, we also nurture, hold, mentor, encourage, and long to be at home. These are not mutually exclusive traits, nor are they paradoxes. We hold these seemingly contradictory aspects just as we, in turn, exhale and inhale to seek balance. We each have bespoke ratios of these traits, and we imagine that we may guide each other to express our two aspects in perfect balance as a species, as a whole.
 
 This piece aims to reconcile notions of competition with anima that exclude animus—hostility and defensiveness (i.e., envy or vindictiveness). In our pastimes and games, we set forth rules and boundaries that define the parameters for legitimate behavior (truth). Invariably, when we emphasize the end result, beauty is removed from the spectacle.
