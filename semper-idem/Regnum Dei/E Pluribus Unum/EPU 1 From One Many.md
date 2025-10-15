@@ -1,10 +1,84 @@
-**E Pluribus Unum - From One, Many**
+---
+author: Ashit Milne
+layout:base.njk
+title: From One, Many 
+date: 2025-09-26
+draft: True
+tags:
+- Human Stewardship & Ethics
+- Capital, Money, and Governance
+- Decentralization & Cryptographic Systems
+- Cultural & Historical Context
+- Philosophical / Existential Inquiry 
+series: E Pluribus Unum
+part: 1
+---
 
-*Is it getting better Or do you feel the same? Will it make it easier on you now You got someone to blame?* 
 
-​                                             U2 ~ [One](https://www.youtube.com/watch?v=ftjEcrrf7r0)
 
-E Pluribus Unum - From one, many. One World. That is as scarce as it gets. *Provably scarce*. Scarcity will encourage you to either save (or in other words, invest) or hoard. The distinction comes from whether you believe there is *enough*. In society we are encouraged to save when its institutions and symbols are imbued with meaning and value - and the incentive encouraging us to save is yield. When you no longer trust the yield derived from holding society's symbol of value (currency or things measured with it) you are now saving by 'other means' and are foregoing that yield - you are now hoarding (usually gold). This is why [Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) called gold a barbarous relic and [Friedman](https://en.wikipedia.org/wiki/Milton_Friedman) called inflation a monetary *problem*. When a money breaks, you find *your* best alternative. A money that works *demands* of its holders a price - yield. A money that works comprehensively on Earth expresses wholeness *and* allows the expression of yield that expands and contracts without hindrance otherwise people resort to hoarding gold - the one form of money that is not a token, but rather the scarcest stable element on earth. So how do we ensure that yield doesn't break?  We incentivize fiscal and monetary discipline and rectitude in those who govern money through competition; allowing currency to operate on credibly neutral decentralized architecture (e.g. proof of stake denominators) that permit the expression of relative sovereign yield. This provides a *stable* universal foundation for free markets - a necessity in the transition to a post-hegemonic world in which power is wielded with multipolarity and asymmetry. It also paves the way to the reconciliation of pluralism and collectivism in our world.
+![](./../../../assets/WholeAlphaHorizonBalance.png)
+
+Artwork: The paradox of a path into an infinite horizon of possibilities within a *bounded* reality resulting in balance.
+
+## Introduction
+
+If intelligence — expressed as Anima — is the blueprint for legitimacy (and what is more legitimately reasonable and beautiful than our ecology - the natural world without animus?) Then *capital* is its vector in the material world for humanity to replicate the order perceived in the natural world: the current which flows as the distilled codification of trust, the manifestation of collective purpose, and the medium through which creativity, labor, and cooperation transform potential into realized abundance without needless toil and spin. Misapplied through sub-optimal decisions at either level (individual or sovereign), it mirrors the failure of intelligence: destructive, extractive, and ultimately unsustainable to Creation. Applied wisely, it is the signal through which self-sovereign individuals and communities (including their aggregation as nation states) coordinate, flourish, and align with the emergent order of life itself. ***E Pluribus Unum*** extends the conversation we began in Sin Qua Non to discuss the qualities of good money (capital).
+
+
+
+## One
+
+>Is it getting better
+Or do you feel the same?
+Will it make it easier on you now 
+You got someone to blame? 
+~ U2 (One)
+
+
+
+E Pluribus Unum - From one, many. From *within* one world we are capable of apprehending the infinite with our faculties - our minds and bodies. That is as scarce and productive as potential can be. The matter at hand is whether we see our potential and use it well or squander it. Which amounts to which even is for oneself and no other to decide;  that is the power of autonomy - when self-mastery becomes us. We become adept at doing things and then increasingly shrewd in knowing what to do and what to leave alone. What to have and what to deliberately, intentionally go without and leave alone as the priceless unpaid companion; a songbird in the bush.
+
+A sense of scarcity will encourage you to either save a thing or hoard it. The distinction comes from how you perceive creation. Is your ecology - the world of things beyond your body - something that already belongs to you. Perhaps something you have been given custody of or is it something something which you have yet to somehow take and make your own? Are you a world conqueror or a world saviour.  
+
+Our ancient ancestors took from creation to eke out a semblance of comfort before *property* was modeled. Our first nations in the Americas manifested civilization - something much more than bare subsistence without *any* formal notion of property. I imagine them facing the 'hostile' elements with a determination that was not animosity but rather a conviction - a willfulness before sentences were ever spoken or written, leave alone passed on free men on open land by magistrates of the king. It was a posture stood up like defenses which ranged outward.
+
+From the outset we took from our ecology because it was necessary to survive; stones and sticks for implements with which to hunt or for shelter be I take from you today because *your* survival requires my patrimony, my ways, to continue. For I am your custodian not master. I am but a child and am yours - and as your child I will take from you freely *only* insofar as I require to keep me and mine safe and warm and no more, I swear to you.
+
+Once comfort was safely brought home the posture which in truth was ***anima*** universally extended and exercised precisely without trespass, settled. What had hardened was now set loose - sinew, breath and gaze eased and lengthened while voice turned inward to introvert. In stillness and quietude something was learned within of what had passed. Knowing looks and wry smiles are all that told around a hearth still held whose flames danced all to calm slumber so awaken with the sun once more in the morning.
+
+Only the callous indifference and cruelty of another *man* tempts the ***animus*** within us to rear its head. This is a sustained indiscriminate inchoate hostility that only humanity expresses in measures small and large towards that which it will not understand and cares not to because the time for caring (and minding) has ended. 
+
+The irony is that such is our *empathy* and love for that which is of our own that we may lash out with an animus borne of it towards ones we might otherwise have related to or even loved: Even the most beautiful, sensitive, rational, poetic, intelligent and sublime ones - simply because we have accepted the generated imagined collectives of 'us' and 'them' of those who claim to lead impossibly large and diverse groups which we are now rallied and called to love as our own. 
+
+For these 'leaders', 'winners' and 'drivers' - these champions of all that is high and mighty - and their ambition (and that of their children) we have made those other beautiful ones foreign by turning them away for a mere utility - a travel document. A passport and the cash carried with it. As well an unforgivably high standard of permanent disparity. Which is to say any disparity at all.
+
+This is war even when it is conducted by other *mercantilist* means. It is Indiscriminate violence perpetrated by the *very* *strongest* upon the 'other'.  Ask the question: If they place themselves above all others and follow no one then *what* do they follow? What are their values. What price will they sell a thing and how is that price to be denominated? 
+
+This is how the United States dollar lost its legitimacy. It failed because it became too tempting an instrument to be used against *any* adversary in *any* domain through executive action - behaviour which continues unabated even now. It *was* to be a vehicle of persuasion - a legitimate *transparent* instrument of tender for consideration. Instead it became Tolkien's one ring to rule them all Or at least ensure survival and comfort - even if it means that a growth spreads wildly and uncontrollably - sown on the endless fruitless toil of weekend weak-end humanity.
+
+
+
+## Follow The Money
+
+In society we rally to our institutions and symbols and seek to preserve them when they and their agents (our servants and delegates to them) express plainly that they are aligned with some greater sense of meaning or purpose than those institutions or their sovereign. The sovereign cannot in any sensible world be an arbitrary final authority on matters and its agents cannot seek to or have cause to influence the lives of people whose right remain intact (i.e. those who are unfettered by obligations imposed by law) to behave in ways that are contrary to their self-interest and detrimental to their capacity for achieving *autonomy* without losing credibility.
+
+Yet these are our circumstances today in a post-scarcity reality: we need very little. So little in fact that most governments in the west could comfortably distribute a basic subsidy, perhaps contingent on behaviour which over time reduces their dependency on its provisions for health and security while measuring and improving their quality of life.
+
+**HERE**
+
+
+
+with which to while away our time to either cause no harm to others in reasonable comfort or else discover a passion or develop some useful skill.
+
+
+
+
+
+There is only one thing greater than our institutions and on this there is overwhelming consensus: Creation or if you prefer, the ecology or environment. There is no need to engage the sophist in an argument on these terms - that is a plain is a plain distraction. All I mean to say is that we are destroying this planet. 
+
+. If they cannot preserve creation nor recognize that they are failing it and therefore, not just humanity but all flora and fauna. They will express animus towards life in increasingly indiscriminate fashion. 
+
+to save when our institutions and symbols are imbued with meaning and value - and the incentive encouraging us to save is yield. When you no longer trust the yield derived from holding society's symbol of value (currency or things measured with it) you are now saving by 'other means' and are foregoing that yield - you are now hoarding (usually gold). This is why [Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) called gold a barbarous relic and [Friedman](https://en.wikipedia.org/wiki/Milton_Friedman) cal led inflation a monetary *problem*. When a money breaks, you find *your* best alternative. A money that works *demands* of its holders a price - yield. A money that works comprehensively on Earth expresses wholeness *and* allows the expression of yield that expands and contracts without hindrance otherwise people resort to hoarding gold - the one form of money that is not a token, but rather the scarcest stable element on earth. So how do we ensure that yield doesn't break?  We incentivize fiscal and monetary discipline and rectitude in those who govern money through competition; allowing currency to operate on credibly neutral decentralized architecture (e.g. proof of stake denominators) that permit the expression of relative sovereign yield. This provides a *stable* universal foundation for free markets - a necessity in the transition to a post-hegemonic world in which power is wielded with multipolarity and asymmetry. It also paves the way to the reconciliation of pluralism and collectivism in our world.
 
 **Wholesome -  Reconciling Pluralism and Collectivism**
 
@@ -38,7 +112,7 @@ In the modern world having credentialed leadership moves us collectively towards
 
 **Truth and Utility**
 
-The motto of my [alma mater](https://www.uwo.ca/index.html), the University of Western Ontario, situated in North London (no, the small town in Ontario, Canada - roughly the size of Tulsa or New Orleans*), is *Veritas et Utilitas.* Whatever else I learned in school, and I have a rich education, understanding those three words are all I will ever need to live my life with purpose; to know myself, apprehend reality, and then to be of utility as I seek to change it for the better. Arthur Kroeger (one of Canada's finest civil servants) spoke at my convocation ceremony in 1991. He also served as Chancellor at [Carleton](https://carleton.ca/) while I studies International Affairs at the [Norman Paterson](https://carleton.ca/npsia/) School as though a mentor watching my development; his journey through life and passing in 2008 are meaningful to me. His (Mennonite) family came to our country from the Soviet Union to *avoid* conflict and foster community. You have likely never heard of him but he is nevertheless a giant in my world. He and other leaders quietly express legitimacy by articulating policy that aims to find a balance between a commitment to historic partners, and reaching out to build transparent bridges to potential ones. We are peacekeepers and have deliberately surrendered home-grown military capability (nuclear and aeronautic) to instead exercise [*soft*](https://en.wikipedia.org/wiki/Lester_B._Pearson) power to prove it. We work for our constituents, and define that term broadly, regardless of whether they pay our salaries directly. It's how those who lead and govern claim legitimacy.
+The motto of my [alma mater](https://www.uwo.ca/index.html), the University of Western Ontario, situated in London (the Ontario city roughly the size of Tulsa or New Orleans), is *Veritas et Utilitas.* Whatever else I learned in school, and I have a rich education, understanding those three words are all I will ever need to live my life with purpose; to know myself, apprehend reality, and then to be of utility as I seek to change it for the better. Arthur Kroeger (one of Canada's finest civil servants) spoke at my convocation ceremony in 1991. He also served as Chancellor at [Carleton](https://carleton.ca/) while I studies International Affairs at the [Norman Paterson](https://carleton.ca/npsia/) School as though a mentor watching my development; his journey through life and passing in 2008 are meaningful to me. His (Mennonite) family came to our country from the Soviet Union to *avoid* conflict and foster community. You have likely never heard of him but he is nevertheless a giant in my world. He and other leaders quietly express legitimacy by articulating policy that aims to find a balance between a commitment to historic partners, and reaching out to build transparent bridges to potential ones. We are peacekeepers and have deliberately surrendered home-grown military capability (nuclear and aeronautic) to instead exercise [*soft*](https://en.wikipedia.org/wiki/Lester_B._Pearson) power to prove it. We work for our constituents, and define that term broadly, regardless of whether they pay our salaries directly. It's how those who lead and govern claim legitimacy.
 
 *For the Bitcoin maximalist: Remember, Satoshi was cypherpunk so you need to think like one to understand why governance matters. 21 Bitcoin (don't let the million throw you off - remember it's *infinitely and equally divisible -* it might as well just be  21.000000 bitcoin as well as 21,000,000) is only half the answer to the 'Ultimate Question of Life, the Universe, and Everything' (the question the Earth was built to ask); the answer of course is '42'. Bitcoin is a virtual machine - amazing - but still a *only* a machine. Don't get all 'Skynet' on us; you still need legit (identity abstracted and integrity assured) humanity and a healthy planet - not just to pose the question, but to fully answer it.
 
@@ -46,4 +120,3 @@ Put another way, '21' is just a game. To be a player in the real world takes a '
 
 *City (for me at least is something approximating those that I've lived in - London (England), Toronto, Ottawa, Tokyo. I'm not sure where the demographic and geographical demarcations are but they involve outsized cultural significance. I have particularly deep and abiding affection for London and Toronto. They're not for everybody (thank God) but they are my 'hometowns'. I've spent the whole of my career in Toronto - consulting in practically every notable tower in its downtown core and IBM's campus in Markham. I think there's something special about Toronto and Ontario generally that deals with the nexus between humanity and the evolving technology given Anglo-Saxon's dominant role modern culture, its modernity, its secularism and its multiculturalism (particularly with respect to idea of 'joins' or nodes of relative neutrality). Seminal moments in blockchain and Agile/DevOps happened here and ideas emerged to manage risks and opportunities to to derive optimal value based *perhaps*, on negotiating a tricky path of entanglement between an old and a new hegemon - A bizarre love triangle. On the one hand, its desire to forge an independent destiny reconciling  imperialism at home and on the other complicity with expressing it away from home.
 
-As for Toronto I *think* something special happens here and those of us who like it here, and for whom opportunity and circumstances afford the right to, may want to stick around. It's nice. Nice for what? God's Plan.

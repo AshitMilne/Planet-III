@@ -165,14 +165,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "bab7d25e0907ecf1",
+  "active": "e240e20d4a4a8690",
   "lastOpenFiles": [
+    "tagged/Genesis To SysGen.md",
+    "notes/Sysgen.md",
+    "tagged/Virtualis.md",
+    "tagged/Machina.md",
     "tagged/Arete.md",
     "notes/Capital.md",
     "notes/Identity Stack.md",
     "notes/legitimate.md",
     "tagged/Anima.md",
-    "tagged/Virtualis.md",
     "notes/D.E.C.A.Y.md",
     "notes/creation.md",
     "tagged/Lexica.md",
@@ -189,9 +192,6 @@
     "notes/Path of Least Resistance (POLR).md",
     "notes/Patriarchy.md",
     "Path of Least  Resistance (POLR).md",
-    "Path of Least (POLR).md",
-    "notes/Virtue.md",
-    "notes/Smart Contract.md",
-    "notes/coordination.md"
+    "Path of Least (POLR).md"
   ]
 }
