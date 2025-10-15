@@ -29,13 +29,16 @@ The sundial is rendered a unique signal in time and space with which to work rea
 
 - <u>Yoga Element</u>: the principle that contentment (sufficient joy and satisfaction) occur when the self is aligned to community (Commons) and ecology (Creation)
 
-### InTev (Growth & Productivity)
+### InHabit (Governance)
 
-Pronounced cockney as 'intel' (dropped 'l'): How trend develops in the expression of behaviour by an identity as transactional flow (Dhara). This may be illuminated (Diya) to incrementally enhance intelligence and live with vision (Drishti). Habits (tevs) are internalized and stacked (as tells) when possessed of intelligence (intel).
+InHabit explores the architecture of self-sovereign human data and development — how individuals evolve across cycles of time through feedback, reflection, and behavioral pattern recognition. The aim is to create a self-governing, non-coercive system for human flourishing — one that aligns personal growth, economic independence, and social balance without reliance on imposed hierarchies or outdated industrial constructs of “work” and “retirement.”
+
+The framework blends philosophy, behavior science, and temporal design — integrating Decameron cycles (10-day phases), self-assessment algorithms, and life-stage dynamics to model how individuals internalize, transform, and externalize value.
 
 
 
 ## Peridot
+
 A series that examines and aims to illuminate key terms relevant to this corpus through the lens of my own experiences: fundamental ideas in governance, system design, political economy, history and culture. Peridot, my birthstone (August), is famous for possessing an internally luminous quality. Historiography is a study within the field of history that examines how history itself is written — the methods, perspectives, sources, and interpretive frameworks historians use, as well as how these have changed over time. I lean into this idea by absorbing into my analysis my own personal life experience unapologetically, making it all the more imperative that credibility be self-evident in my work and that it is appreciated through a different but relatable perspective from one's own.
 
 
