@@ -1,8 +1,8 @@
 ---
 author: Ashit Milne
+layout: base.njk
 title: Liveness - Anima and Animus
 date: 2025-09-13
-layout: base.njk
 draft: False
 tags: 
  - philosophy

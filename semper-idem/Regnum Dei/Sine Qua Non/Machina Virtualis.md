@@ -1,15 +1,16 @@
 ---
+author: Ashit Milne
 layout: base.njk
 title: Machina Virtualis
 date: 2025-09-13
 draft: False
 tags: 
-  - anima
-  - animus
-  - sovereignty
-  - anarchy
-  - zero trust
-  - resilience
+ - anima
+ - animus
+ - sovereignty
+ - anarchy
+ - zero trust
+ - resilience
 series: Sine Qua Non
 part: 5
 ---

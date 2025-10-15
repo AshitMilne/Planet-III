@@ -13,7 +13,11 @@ Through *Sine Qua Non* Parts 1–5, intelligence emerges as the organizing princ
 
 ### E Pluribus Unum (Capital)
 
-If Sine Qua Non constitutes legitimate intelligence (without which there is no thingness) then E Pluribus is the lifeblood that flows to make intelligence legitimate in civilization. What constitutes a token denoting value in an intelligent system? It must model *relative* scarcity as it seeks both velocity and equilibrium of *flow* in a system of interactions (transactions); as well it must model true yield (productivity) and have the capacity to make distinctions between growth for its own sake and that towards meaningful aggregate benefit. In practical terms it constitutes legitimate denominators in which jurisdictions may flourish (attract talent and sound capital without hindrance)
+Across nine essays, this work traces humanity’s long oscillation between order and chaos, meaning and mechanism, through the lens of money, morality, and technology. It begins by rooting legitimacy and capital in *Anima* — the creative, ethical impulse that aligns human will with natural intelligence. From this foundation, it follows how money—our symbolic language of trust—became corrupted by opacity and power, turning civilization’s nervous system against itself.
+
+As institutional trust decays, decentralized architectures arise: not as utopian rebellion but as a technological return to moral equilibrium. The essays situate this shift within the cyclical “Fourth Turning” of history, arguing that renewal follows when humanity re-learns how to measure value truthfully and transmit it cleanly—through transparent, distributed systems that balance individual sovereignty with collective coherence.
+
+Ultimately, the collection argues that civilization’s evolution depends on restoring moral symmetry between human intention and technological infrastructure. To repair the world, we must rebuild the medium through which we perceive, price, and pursue the good—so that time, value, and trust once again converge toward wholeness.
 
 ### Dial Square (Identity)
 

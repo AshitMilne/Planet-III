@@ -1,22 +1,21 @@
 ---
-layout: "base.njk"
-title: "From One Many" 
-date: 2025-09-26 
+author: Ashit Milne
+title: From One, Many 
+date: 2025-09-26
+layout: base.njk
 tags:
-- Regnum Dei 
-series: "E Pluribus Unum"
+- Human Stewardship & Ethics
+- Capital, Money, and Governance
+- Decentralization & Cryptographic Systems
+- Cultural & Historical Context
+- Philosophical / Existential Inquiry 
+series: E Pluribus Unum
 part: 1
 ---
 
+![](./../../../assets/WholeAlphaHorizonBalance.png)
 
-
-
-
-
-
-![](./../../assets/WholeAlphaHorizonBalance.png)
-
-Artwork: A path into a horizon (which of course never ends). One travels some way, then, fully 'read-in' and self-aware, having looked out at the world and having absorbed it and introverted upon it and oneself. We are then unafraid, seeking alpha and balance in our mode in the right ways for the right reasons. One has heard calling.
+Artwork: A path into the horizon and its *bounded* reality. Life happens, one becomes self-aware, introspects and then introverts to find *Calling* and in this finite and divisible world manifests a miracle to create something that is new. 
 
 ## Introduction
 
