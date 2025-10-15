@@ -63,7 +63,7 @@ Aims to provide opinion and editorial perspective from my anarchist lens. It exa
 
 A casually assembled and far from comprehensive collection of habits, utilities, tools and practices that hint at the underlying philosophy of anarchy (and related minimalist, organic and reductive approaches to life; swapping apparent comfort for agency through resistance training that acclimatizes the individual to *natural* order. Loss aversion is reduced and a more objective common sense approach to framing 'risk' that acknowledges the value of *being* understanding that it is a temporary state. Energy is redirected from incumbent modes and swapped for agency and time. The benefit is reflexive as the capital and effort required to secure 'property' of all kind is released to become a generative asset.
 
-Lexica
+## Lexica
 
 Lexica defines or describes key terms. Some of these are idiosyncratic to Regnum Dei which tries to introduce the power of story-telling and narrative (Jackanory) to cultivate interest in esoteric subject matter without substantially impacting integrity. This is viable in the social sciences (and the application of the social sciences to model systems architecture - broadly political science as it pertains to the *applied* sciences in information technology). As well as broadly used terms in the social and the applied science of information technology, particularly proof of stake blockchain are reintroduced. Some of these are 'heuristics for social science' - subjective narrative story telling that evolves like a Platonic worldview to a Copernican one - both functionally useful but the latter, built on new information, more truthful. This is the stuff of archetype, legend and dreamscapes.
 
