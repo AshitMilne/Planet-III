@@ -3,8 +3,17 @@ Imagine a real-time, on-chain version of Palantir Foundry—without centralized 
 
 
 
+>Me, myself and I
+>Follow me in the search for truth
+>And help me try to find
+>Ohh-ohh, where we're going to
+>
+>~ Chalk Circle (Me, Myself and I)
 
-##  Regnum Dei
+
+
+
+##  Regnum Dei (Natural Order)
 A rule (both in terms of governance and measurement which has numerical consensus having been verified in diversity, equity and inclusion by the removing the power and influence of hegemony over time (so-called democratic government). Canonical frameworks for consensus governance are explained in a set of four myth-models which explore core concepts:
 
 ### Sine Qua Non (Intelligence)
@@ -35,7 +44,7 @@ The sundial is rendered a unique signal in time and space with which to work rea
 
 
 
-### InHabit (Governance)
+### InHabit (Self-Sovereign Governance)
 
 InHabit explores the architecture of self-sovereign human data and development — how individuals evolve across cycles of time through feedback, reflection, and behavioral pattern recognition. The aim is to create a self-governing, non-coercive system for human flourishing — one that aligns personal growth, economic independence, and social balance without reliance on imposed hierarchies or outdated industrial constructs of “work” and “retirement.”
 
@@ -43,27 +52,29 @@ The framework blends philosophy, behavior science, and temporal design — integ
 
 
 
-## Peridot
+## Peridot (Illumination)
 
 A series that examines and aims to illuminate key terms relevant to this corpus through the lens of my own experiences: fundamental ideas in governance, system design, political economy, history and culture. Peridot, my birthstone (August), is famous for possessing an internally luminous quality. Historiography is a study within the field of history that examines how history itself is written — the methods, perspectives, sources, and interpretive frameworks historians use, as well as how these have changed over time. I lean into this idea by absorbing into my analysis my own personal life experience unapologetically, making it all the more imperative that credibility be self-evident in my work and that it is appreciated through a different but relatable perspective from one's own.
 
 
 
-## Daily Planet
+## Daily Planet (The Star)
 
 The greater the number of angles we can approach a subject the more sophisticated the holistic lens that is developed to explore language and define a philosophical model that serves humanity in pluralistic ways that are objectively legitimate. Daily Planet provides a background into the Jackanory personal stories or experiences that define my  own personal worldview that become a *form* of knowledge on a virtual plane or dimension. I hope you feel as though your life has been and is as worthwhile as mine. I often wish my ancestors had written about who they were and what their lives were about so that I might their times through *their* lens. 
 
 
 
-## Polite Bureau
+## Polite Bureau (Kommentariat)
 
 Aims to provide opinion and editorial perspective from my anarchist lens. It examine at often sub-optimal policy outcomes of 'split the difference' electoral systems even as the system itself is examined to apply regeneration through reductive approaches to code (law) through the application of smart contracts which having a broader insight into transactional data may define preferable outcomes.
 
 
 
-## Imprimatur
+## Imprimatur (Tout Suite)
 
 A casually assembled and far from comprehensive collection of habits, utilities, tools and practices that hint at the underlying philosophy of anarchy (and related minimalist, organic and reductive approaches to life; swapping apparent comfort for agency through resistance training that acclimatizes the individual to *natural* order. Loss aversion is reduced and a more objective common sense approach to framing 'risk' that acknowledges the value of *being* understanding that it is a temporary state. Energy is redirected from incumbent modes and swapped for agency and time. The benefit is reflexive as the capital and effort required to secure 'property' of all kind is released to become a generative asset.
+
+
 
 ## Lexica
 

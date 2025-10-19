@@ -11,7 +11,7 @@ tags:
 series: Peridot
 ---
 
-![](C:/Repos/planet-III/semper-idem/assets/Paddy.png)
+![](./assets/Paddy.png)
 
 The Japanese character for paddy field (田) is both literal and metaphysical: structure without possessiveness. It frames functional space for cultivation, not control. Stroke order matters—not because of tradition, but because efficiency becomes crucial when you’re learning thousands of characters. Routine develops with automaticity. Anarchy too needs structure—not imposition, but order that justifies itself through use. Happily, our notional reality is bounded and finite, as it is on earth—and within it you will discern Christ-consciousness (which, if you know the stroke order, you will see as a prerequisite for creating the enclosure). Now you know the meaning of *underlining*, or to “draw the line,” or create a platform, or set a foundation.
 
