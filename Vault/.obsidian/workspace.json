@@ -11,10 +11,14 @@
             "id": "e240e20d4a4a8690",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "tagged/Arete.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arete"
             }
           }
         ]
@@ -167,11 +171,11 @@
   },
   "active": "e240e20d4a4a8690",
   "lastOpenFiles": [
+    "tagged/Arete.md",
     "tagged/Genesis To SysGen.md",
     "notes/Sysgen.md",
     "tagged/Virtualis.md",
     "tagged/Machina.md",
-    "tagged/Arete.md",
     "notes/Capital.md",
     "notes/Identity Stack.md",
     "notes/legitimate.md",

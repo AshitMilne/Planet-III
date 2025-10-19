@@ -3,6 +3,9 @@ Imagine a real-time, on-chain version of Palantir Foundry—without centralized 
 
 
 
+>The key is so precious for the two of us
+>Am I willing to commit to the natural order?
+>
 >Me, myself and I
 >Follow me in the search for truth
 >And help me try to find
