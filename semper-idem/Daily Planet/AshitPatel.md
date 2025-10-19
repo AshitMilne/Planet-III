@@ -1,9 +1,11 @@
 ---
 
-layout: "base.njk"
-title: "The Making of Ashit Patel"
-date: "2025-09-14"
-tags: ["Daily Planet"]
+author: Ashit Milne
+layout: base.njk
+title: Wonderwall
+date: 2025-10-19
+tags: 
+series: Daily Planet
 
 ---
 
@@ -20,8 +22,6 @@ Above: My first passports. The clerks at the offices in London made sure to unde
 >~ Marcus Aurelius, Book V, 7
 
 A Tel is a hint passed through time by the virtuous. It comes from the Arabic تلّ  and the Hebrew תֵּל, both meaning "mound." It is an artificial hill formed by layers of human effort over centuries. These mounds accumulate as older structures are built over and compressed — a literal stratification of history. A Tel is a physical record of human activity, where past and present converge in a single layered form, encoded even within the names we are assigned.
-
-
 
 In my ancestral Gujarati, the word તેવ (transcribed '*tev*' but pronounced as a Cockney would say 'tell') means *habit*. So my name means to place habits one after the other.
 
