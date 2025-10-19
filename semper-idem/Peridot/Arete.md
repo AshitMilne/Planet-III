@@ -25,11 +25,12 @@ Artwork: *In the Blink of An Eye*: Insight that arranges equivalence to express 
 
 ## Introduction
 
->Can't you see a giant walks among you
->Seeing through your petty lives?
->Do you think I do these things for real?
->I do these things just so I survive
->~ I Spy (Pulp)
+>Walk on, walk on
+>With hope in your heart
+>And you'll never walk alone
+>You'll never walk alone
+>
+>~ Gerry & the Pacemakers (You'll Never Walk Alone)
 
 Here, I introduce the concept of **Giants** (entrenched, coercive and hard power) and **God** (soft power) actualized as individuals developing and expressing virtue or arete; through deliberate practice they achieve *autonomy* from giants and the machina animus*. Autonomy is as close to a freedom as is gets without the ultimate liberation of the soul from body. Autonomy is the capacity to do as you require to live well: be free from arbitrary and coercive authority) and their ability to perpetuate their control of you by influencing you to behave in ways that are *contrary* to your self-interest to their advantage. Your ability to understand self-interest  is required to sustain good health and to project that sustainability into Creation. Sustaining what you have with autonomy then gives you the opportunity to be creative *entirely on your own terms* - developing useful skills and attributes that allow you to appreciate and enjoy your life *as you model it* in the world and be an agent for positive change. 
 
@@ -137,5 +138,3 @@ This inversion has made what was once priceless — autonomy, craft, permanence 
 The only enduring work worth building is oneself. The Stone Rose: the cultivation of identity, virtue, and capability. The truly free — those who see through the coercion of arbitrary authority — seize the day to live as they dream.
 
 Yet when the positions of esteem become the object rather than the outcome of character, civilization enters decay. The myths of the early twentieth century remind us: the comforts of progress often precede the conflagrations that destroy it. There are x aspects to character: The ability to apply reason and empathy (Intelligence), an ability to care for things (Capital), an understanding of one's place in the world (Identity) and a sense of how to manage one's life constituent of those elements - a (Governance). What manifests is a meaningful sense of who you are - a semantic perimeter of identity embodied (semper idem). Autonomy enables this to make one self-sovereign.
-
- 

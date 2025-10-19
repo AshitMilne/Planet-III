@@ -76,3 +76,6 @@ As institutional trust decays, decentralized architectures arise: not as utopian
 
 Ultimately, the collection argues that civilization’s evolution depends on restoring moral symmetry between human intention and technological infrastructure. To repair the world, we must rebuild the medium through which we perceive, price, and pursue the good—so that time, value, and trust once again converge toward wholeness.
 
+
+
+Just as you transition into this piece from SQN, you'll need to transition to Dial Square by pivoting from pyramid/triangle (hierarchy) to the Dial and the Square
