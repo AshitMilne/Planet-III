@@ -15,15 +15,20 @@ series: Sine Qua Non
 part: 4
 ---
 
-![](./assets/crawford-anima-1758021987856-3.jpg)
+![](./assets/crawford-anima.jpg)
 
-Sacred white cedar who bark clad Wendat and Haudenosaunee dwellings at Milton's Crawford Lake in Ontario. They grow right out of stone. Intelligence finding a way to express itself from practically nothing.
+Sacred white cedar who bark clad Wendat and Haudenosaunee dwellings at Milton Ontario's Crawford Lake: designated as the site for marking the beginning of the Anthropocene. They grow right out of stone. Intelligence finding a way to express itself from practically nothing.
+
+
 
 ## Introduction
 
 In short, our purpose here is to examine what constitutes a human-centric system design imbued with a natural and organic intelligence that is efficient. We use the term 'emotional intelligence' or empathy broadly in street psychology to describe a 'good people' vibe. A deeper understanding is required if we are to enable contracts with this intelligence, which is why I frame it as Anima. This piece explores Anima and the elements that constitute it. The short answer is that through an anarchist lens, crime, especially premeditated murder (which of course includes war) is a health matter (i.e., not intelligent).
 
+
+
 ## Liveness
+
 >A heart that's full up like a landfill
 A job that slowly kills you
 Bruises that won't heal

@@ -17,7 +17,9 @@ series: Sine Qua Non
 part: 3
 ---
 
-![](./assets/Machina-1758022225889-6.jfif)
+![](./assets/Machina.jfif)
+
+
 
 ## Introduction
 

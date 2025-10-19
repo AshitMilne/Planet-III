@@ -6,7 +6,7 @@ layout: base.njk
 draft: False
 tags:
 - satire
-- cultural-Critique
+- cultural-critique
 - political-economy
 - environmental-ethics
 - monetary-policy

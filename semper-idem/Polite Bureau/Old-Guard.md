@@ -1,12 +1,24 @@
+---
+
+author: Ashit Milne
+title: Old Guard
+date: 2025-10-19
+layout: base.njk
+draft: False
+tags:
+- art
+- cultural-critique
+- political-economy
+- environmental-ethics
+- monetary-policy
+series: Polite Bureau
+---
 
 
 
+![](./assets/OldGuard2.png)
 
-
-
-![](./../assets/OldGuard2.png)
-
-**The Self Preservation Society**
+## The Self Preservation Society
 
 I've been a fan of Charlize Theron since *The Italian Job* — a rare remake that surpassed the original (except for obvious nostalgia value) — and I enjoyed *The Old Guard* belatedly. My daughter (the Assassin's Creed aficionado) recommended it to me when it first came out. So when a sequel dropped - a sign these days that a franchise may be worth a looking at— I had one and kept going...
 
