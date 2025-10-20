@@ -1,5 +1,5 @@
 ---
-
+author: Ashit Milne
 layout: base.njk
 title: Arete
 date: 2025-09-14
