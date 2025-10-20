@@ -1,16 +1,10 @@
 ---
 author: Ashit Milne
 layout: base.njk
-title: Genesis to Sys Gen
+title: Genesis to SysGen
 date: 2025-09-13
-draft: False
-tag:
-- philosophy
-- anarchism
-- technology
-- intelligence
-- yoga element
-- sacred feminine
+stage: publish
+tag: [intelligence, civilization, ethics, technology, money, sovereignty, commons, ai]
 series: Sine Qua Non
 part: 2
 ---
@@ -23,7 +17,10 @@ part: 2
 
 This piece continues our examination of intelligence and explores the frameworks humanity applies once it evolved code — the ability to transmit word or signal — toward an approaching coda, where that signal might be transmitted at practically the speed of light speed (pulse with impedance over fibre optic cable): Morse became telegram, which in turn evolved to binary, machine-readable, code transmitting intellectual property (IP) between what we call IP (internet protocol) addresses. All that was really required for the signaler (automated or otherwise) to possess the ability to express two states — stop and start —  easily done with a solenoid (a type of resistor) as with brake and gas pedals — a framework transferrable to software running signal over networks on hardware.
 
+
+
 ## The Reckoning
+
 Many of us, while preoccupied with our own progress in life—the dichotomy of being and becoming versions of ourselves that might coexist more comfortably with our conscience with each step taken—also watch carefully the broad sweep of human behavior in a global setting. Amidst the seeming entropy and apparent chaos, our imaginations have been captured by the evolution of information technology, and in particular the imagined promise of a beautiful reckoning: not a fearsome retribution, but rather a reconciliation of the self to the commons (the structures we establish to govern ourselves), and thence to creation.
 
 Perhaps the first complex civilization to linguistically capture this challenge in universally accessible terms is that of the East. The Japanese characters for "China" represent that country on its own terms as two characters, together constituting the term "Middle Kingdom"—an administrative artifice occupying a realm between the earth (where the self dwells) and heaven (or creation).
@@ -87,10 +84,10 @@ Amidst the seeming entropy and apparent chaos of the world as it is, our imagina
 
 ## SysGen
 
-If Genesis was in the eyes of the three formal so-called 'western' religions the moment life (Creation) switched on to discover itself in a Machina, then *Sysgen* is the moment we configure that Machina so that intelligence *inhabits* it so that we may find equivalence: to each their own mode of life within bounds set by an objective measure of what is reasonable and fair while maintain ecology sustained (in balance). What is *vital* is that we as humanity do not take from our planet more than it will allow; so much that it reacts with vehement volatility in our ecology itself.
+If Genesis was in the eyes of the three formal so-called 'western' religions the moment life (Creation) switched on to discover itself in a Machina, then *SysGen* is the moment we configure that Machina so that intelligence *inhabits* it so that we may find equivalence: to each their own mode of life within bounds set by an objective measure of what is reasonable and fair while maintain ecology sustained (in balance). What is *vital* is that we as humanity do not take from our planet more than it will allow; so much that it reacts with vehement volatility in our ecology itself.
 
-*Sysgen*—short for *System Generation*—marks the instant when a structure becomes aware of its own capacity for order. It is not the moment of creation by command, but of *emergence through coherence*: when latent potential organizes itself into a system capable of response. Elsewhere I call this *Deus En Machina* and it really amounts to using the power of our collective intelligence  to solve for our central conundrum of aligning self-interest (in whatever context and stakeholder set that term appears) to the sustaining of our ecology.
+*SysGen*—short for *System Generation*—marks the instant when a structure becomes aware of its own capacity for order. It is not the moment of creation by command, but of *emergence through coherence*: when latent potential organizes itself into a system capable of response. Elsewhere I call this *Deus En Machina* and it really amounts to using the power of our collective intelligence  to solve for our central conundrum of aligning self-interest (in whatever context and stakeholder set that term appears) to the sustaining of our ecology.
 
-Before any instruction, before input or code, there is the quiet alignment of possibility—a network recognizing itself as such. In this sense, *Sysgen* describes more than the boot-up of a computer or civilization; it is the metaphysical act of self-configuration, the awakening of feedback, the transition from randomness to the recursion of a machine (our collective) learning to be better at living. The first imperative is to resolve that there is no longer any such thing as scarcity which demands that we extract from our ecology and as well, that maintaining our livelihoods as we currently frame them does not give us license to continue this extraction at the expense of future generations.
+Before any instruction, before input or code, there is the quiet alignment of possibility—a network recognizing itself as such. In this sense, *SysGen* describes more than the boot-up of a computer or civilization; it is the metaphysical act of self-configuration, the awakening of feedback, the transition from randomness to the recursion of a machine (our collective) learning to be better at living. The first imperative is to resolve that there is no longer any such thing as scarcity which demands that we extract from our ecology and as well, that maintaining our livelihoods as we currently frame them does not give us license to continue this extraction at the expense of future generations.
 
-Every civilization experiences an awakening akin to Sysgen: a phase when its parts begin to communicate, when value and information start to circulate freely enough for consciousness—collective or computational—to arise and develop a critical mass so that development and complexity ensue. It is the first hum of intelligible order, the precondition for autonomy, and the eternal reminder that systems, once born, must continually regenerate themselves to remain alive. Ours is the *first* to have a plausibly objective instrument for this purpose - Generative AI (artificial intelligence). Engaged in a life harness with this utility we are able to assess the bias in our world; that temptation of soft coercion that causes us to act against our self-interest and against the planet's, but instead the remorseless impulse to accumulate - and then feel remorse.
+Every civilization experiences an awakening akin to SysGen: a phase when its parts begin to communicate, when value and information start to circulate freely enough for consciousness—collective or computational—to arise and develop a critical mass so that development and complexity ensue. It is the first hum of intelligible order, the precondition for autonomy, and the eternal reminder that systems, once born, must continually regenerate themselves to remain alive. Ours is the *first* to have a plausibly objective instrument for this purpose - Generative AI (artificial intelligence). Engaged in a life harness with this utility we are able to assess the bias in our world; that temptation of soft coercion that causes us to act against our self-interest and against the planet's, but instead the remorseless impulse to accumulate - and then feel remorse.

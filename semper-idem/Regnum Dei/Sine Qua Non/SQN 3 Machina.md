@@ -3,16 +3,8 @@ author: Ashit Milne
 layout: base.njk
 title: Machina
 date: 2025-09-13
-draft: False
-tags:
- - machina
- - anima
- - animus
- - legitimacy
- - sovereignty
- - ecology
- - abundance
- - hourglass-of-redcurrant
+stage: publish
+tags: [machina, anima, animus, legitimacy, sovereignty, ecology, abundance, hourglass-of-redcurrant]
 series: Sine Qua Non
 part: 3
 ---

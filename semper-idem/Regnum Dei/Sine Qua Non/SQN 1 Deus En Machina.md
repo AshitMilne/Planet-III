@@ -3,14 +3,8 @@ author: Ashit Milne
 title: Deus En Machina
 date: 2025-09-13
 layout: base.njk
-draft: False
-tags:
-- philosophy
-- anarchism
-- technology
-- intelligence
-- yoga
-- sacred feminine
+stages: publish
+tags: [philosophy, anarchism, technology, intelligence, yoga, sacred-feminine]
 series: Sine Qua Non
 part: 1
 ---

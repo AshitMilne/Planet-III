@@ -3,14 +3,8 @@ author: Ashit Milne
 layout: base.njk
 title: Liveness - Anima and Animus
 date: 2025-09-13
-draft: False
-tags: 
- - philosophy
- - anarchism
- - technology
- - intelligence
- - yoga
- - sacred feminine
+stage: publish
+tags: [anima,intelligence, civilization, ethics, ecology, sacred-feminine, consciousness, awakening]
 series: Sine Qua Non
 part: 4
 ---
