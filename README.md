@@ -4,16 +4,18 @@ Imagine a real-time, on-chain version of Palantir Foundry—without centralized 
 >The key is so precious for the two of us
 Am I willing to commit to the natural order?
 >
-Me, myself and I
-Follow me in the search for truth
-And help me try to find
-Ohh-ohh, where we're going to
+>Me, myself and I
+>Follow me in the search for truth
+>And help me try to find
+>Ohh-ohh, where we're going to
 >
 >~ Chalk Circle (Me, Myself and I)
 
 
 ##  Regnum Dei (Natural Order)
 A rule (both in terms of governance and measurement which has numerical consensus having been verified in diversity, equity and inclusion by the removing the power and influence of hegemony over time (so-called democratic government). Canonical frameworks for consensus governance are explained in a set of four myth-models which explore core concepts:
+
+
 
 ### Sine Qua Non (Intelligence)
 
