@@ -2,7 +2,7 @@
 Imagine a real-time, on-chain version of Palantir Foundry—without centralized orchestration—where trusted identities transact freely across community, corporate, and sovereign boundaries. Here, data flows without censorship, governed transparently by rules that align individual self-interest with the commons. We call this Intelligent Capital: sound information (like good money) moving at the speed of light. It may not be immediately obvious but this is the stuff that twentieth-century anarchist dreams were made of. It paves the way to reimagining civil and economic governance by fully integrating good-faith pluralism and opportunism into our global reality.
 
 >The key is so precious for the two of us
-Am I willing to commit to the natural order?
+>Am I willing to commit to the natural order?
 >
 >Me, myself and I
 >Follow me in the search for truth
