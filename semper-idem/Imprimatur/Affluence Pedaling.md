@@ -4,7 +4,7 @@ title: Affluence Pedaling
 date: 2025-09-13
 layout: base.njk
 stage: publish
-series imprimatur
+series: imprimatur
 tags: [anarchism, self-sovereignty, exercise, minimalism, environment, bicycles, habits, lifestyle]
 ---
 
