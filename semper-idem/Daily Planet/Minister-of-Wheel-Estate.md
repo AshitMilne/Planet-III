@@ -16,14 +16,14 @@ series: Daily Planet
 >Fear today, forgot tomorrow
 >Ooh-ooh, here besides the news of holy war and holy need
 >Ours is just a little sorrowed talk
->
+
 >Just blowing away
->
+
 >And I don't cry for yesterday, there's an ordinary world
 >Somehow I have to find
 >And as I try to make my way to the ordinary world
 >I will learn to survive
->
+
 >~ Duran Duran (Ordinary World)
 
 
