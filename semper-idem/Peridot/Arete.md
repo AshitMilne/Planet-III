@@ -3,15 +3,8 @@ author: Ashit Milne
 layout: base.njk
 title: Arete
 date: 2025-09-14
-draft: False
-tags: 
-- Ragnarok
-- Virtue
-- Debasement
-- Crisis
-- Mythology
-- Autonomy
-- Anarchy
+stage: publish
+tags: [Ragnarok, Virtue, Debasement, Crisis, Mythology, Autonomy, Anarchy]
 series: Peridot
 ---
 

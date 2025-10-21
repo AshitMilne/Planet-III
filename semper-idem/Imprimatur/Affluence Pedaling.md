@@ -1,8 +1,11 @@
 ---
-layout: "base.njk"
-title: "Affluence Pedaling"
-date: "2025-09-13" 
-tags: ["Daily Planet", "Tout Sweet"]
+author: Ashit Milne
+title: Affluence Pedaling
+date: 2025-09-13
+layout: base.njk
+stage: publish
+series imprimatur
+tags: [anarchism, self-sovereignty, exercise, minimalism, environment, bicycles, habits, lifestyle]
 ---
 
 ![](./assets/FLXBabyMaker.jpg)
@@ -101,5 +104,3 @@ Bicycles are compact and economical and fit Henry Ford's anarchist standard: "An
 >Come and drink it up from my fertility
 >Blessed with a bucket of lucky mobility
 >~ Give It Away (RHCP)
-
-~ Ashit Milne (Planet Come Together)
