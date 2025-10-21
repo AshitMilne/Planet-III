@@ -1,35 +1,38 @@
 ---
-
 author: Ashit Milne
-layout: base.njk
-title: Wonderwall
+title: The Making of Ashit Patel
 date: 2025-10-19
-tags: 
+layout: base.njk
+tags: [Patel, Milne, Tel, Inhabit]
 series: Daily Planet
 
 ---
 
-![Two expired UK Passports belonging to Ashit Patel as a child. A portion of the surname, 'atel' is underlined ](./assets/tels.jpg)
+![](./assets/tels.jpg)
 
-Above: My first passports. The clerks at the offices in London made sure to underscore the message - I was A Tel - reminding me that I was born a free man - Mister Patel, the Indian in a brave's New World to become hopefully *mishpat* (מִשְׁפָּט) and *tel* (תֵּל) and amount to something legitimate from London's New Ham - amidst a 2000 year-old mishmash (מִישמַאש) in turn both profane and profound since the Roman first lay a ton of stone. Yet though I might still forget myself in the coming chaos and turmoil of a Fourth Turning.
+Above: My first passports. The clerks at the offices in London made sure to underscore the message - I was A Tel - reminding me that I was born a free man - Mister Patel, the Indian in a brave's New World to become hopefully *mishpat* (מִשְׁפָּט) and *tel* (תֵּל) and amount to something legitimate from London's New Ham - amidst a 2000 year-old mishmash (מִישמַאש) in turn both profane and profound since the Roman lay the first of a 'ton of stone' on the banks of the Thames (in Leytonstone). I might have forgetten myself in the coming chaos and turmoil of a tumultuous century's turning had those those clerks not be so judicious in reminding me I was 'a tel' carried from continent to continent to continent to, yet another continent, across three generations. Surely I had something to say about our modern interstitially complex reality.
 
 
 
-## A Mound To Something ##
+## Inhabit ##
 
 >What befalls each man has been ordained in some way as conducive to his destiny. For we say that things *fall* to us as the masons too say that the huge squared stones in walls and pyramids *fall* into their places, adjusting themselves harmoniously to one another in a sort of structural unity
 >
 >~ Marcus Aurelius, Book V, 7
 
-A Tel is a hint passed through time by the virtuous. It comes from the Arabic تلّ  and the Hebrew תֵּל, both meaning "mound." It is an artificial hill formed by layers of human effort over centuries. These mounds accumulate as older structures are built over and compressed — a literal stratification of history. A Tel is a physical record of human activity, where past and present converge in a single layered form, encoded even within the names we are assigned.
+A Tel is a hint passed through time by the virtuous. It comes from the Arabic تلّ  and the Hebrew תֵּל, both meaning "mound." It is an artificial hill formed by layers of human effort over centuries. These mounds accumulate as older structures are built over and compressed; a literal stratification of history these tels are the civilizational stone roses. The slotted together aspects of a culture that may be deciphered by archeologists and anthropologist who want to understand what it is precisely that a people *valued* (and so, kept).
 
-In my ancestral Gujarati, the word તેવ (transcribed '*tev*' but pronounced as a Cockney would say 'tell') means *habit*. So my name means to place habits one after the other.
+In my mother tongue (the first language I learned as a young child) Gujarati, the word તેવ is pronounced 'tel' in the cockney I'd ingested on the streets of East and North London. It was slowly exorcised by years of elite education in England, India, Canada and Japan replaced with a vaguely academic Trans-Atlantic stream of an accent that drifts this way and that. In any case *tev* means habit.
 
-We inhabit our bodies and in habit manifest personality through action. What are we ourselves except a mound of habits to be carefully tended and curated by our constant gardener selves. Through the close inspection of introversion we tighten the interlock to build stable yet supple structures to the extent we mind and care for the matter which constitute us.
+We inhabit our bodies and in habit manifest personality through action. What are we ourselves except a mound of habits to be carefully tended and curated by our constant gardener selves? Through the close inspection of introversion we tighten the interlocking pieces to build stable yet supple structures to the extent we mind and care for the matter which constitutes us. We keep what works, or perhaps what helps us cope for a while - a scaffold or a makeshift aspect, in time to be discarded for something more stable. This is how we make ourselves.
 
-**BACK HERE**
 
- In 2010 beginning to discern my coming round to calling as 'Milne', I started Transition Insight and continued to construct my 'Square' as a ''full-time equivalent' and 'contractor'. At [55](https://transition-insight.com/research-%26-writing/f/a-sort-of-homecoming?blogcategory=Daily+Planet+(Toronto+Star)), still (sometimes) handsome, healthy and young with my habits intact I [became Ashit Milne](https://transition-insight.com/research-%26-writing/f/the-making-of-ashit-milne?blogcategory=Daily+Planet+(Toronto+Star)) (planet come together).  I walked away, condensing what I owned to the least amount necessary — so I might instead express a vision however imperfectly.
+
+## Come Together
+
+Around 2010 I began to 'come together' decisively turning from the institutional path. I wasn't to make Partner - I just didn't have the constitutional ingredients required. I was too much the radical already looking for ways out.
+
+beginning to discern my coming round to calling as 'Milne', I started Transition Insight and continued to construct my 'Square' as a ''full-time equivalent' and 'contractor'. At [55](https://transition-insight.com/research-%26-writing/f/a-sort-of-homecoming?blogcategory=Daily+Planet+(Toronto+Star)), still (sometimes) handsome, healthy and young with my habits intact I [became Ashit Milne](https://transition-insight.com/research-%26-writing/f/the-making-of-ashit-milne?blogcategory=Daily+Planet+(Toronto+Star)) (planet come together).  I walked away, condensing what I owned to the least amount necessary — so I might instead express a vision however imperfectly.
 
 The clerks in the London office, where my first passports were issued, underscored a hint as to my responsibility — a quiet reminder of heritage. It's one reason I make much of tradition, particularly English heritage and the radiant qualities of the union flag.
 

@@ -1,6 +1,8 @@
 # The Vision #
 Imagine a real-time, on-chain version of Palantir Foundry—without centralized orchestration—where trusted identities transact freely across community, corporate, and sovereign boundaries. Here, data flows without censorship, governed transparently by rules that align individual self-interest with the commons. We call this Intelligent Capital: sound information (like good money) moving at the speed of light. It may not be immediately obvious but this is the stuff that twentieth-century anarchist dreams were made of. It paves the way to reimagining civil and economic governance by fully integrating good-faith pluralism and opportunism into our global reality.
 
+
+
 >The key is so precious for the two of us
 >Am I willing to commit to the natural order?
 >Me, myself and I
@@ -11,7 +13,9 @@ Imagine a real-time, on-chain version of Palantir Foundry—without centralized 
 >~ Chalk Circle (Me, Myself and I)
 
 
+
 ##  Regnum Dei (Natural Order)
+
 A rule (both in terms of governance and measurement which has numerical consensus having been verified in diversity, equity and inclusion by the removing the power and influence of hegemony over time (so-called democratic government). Canonical frameworks for consensus governance are explained in a set of four myth-models which explore core concepts:
 
 
@@ -48,7 +52,7 @@ The sundial is rendered a unique signal in time and space with which to work rea
 
 InHabit explores the architecture of self-sovereign human data and development — how individuals evolve across cycles of time through feedback, reflection, and behavioral pattern recognition. The aim is to create a self-governing, non-coercive system for human flourishing — one that aligns personal growth, economic independence, and social balance without reliance on imposed hierarchies or outdated industrial constructs of “work” and “retirement.”
 
-The framework blends philosophy, behavior science, and temporal design — integrating Decameron cycles (10-day phases), self-assessment algorithms, and life-stage dynamics to model how individuals internalize, transform, and externalize value.
+The framework blends philosophy, behavior science, and temporal design — integrating Decameron cycles (10-day phases), self-assessment algorithms, and life-stage dynamics to model how individuals transform, and externalized cost to create value internally
 
 
 
