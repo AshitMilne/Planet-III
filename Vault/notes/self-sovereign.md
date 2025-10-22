@@ -1,1 +1,1 @@
-Autonomy over one’s own decisions, life, and outcomes; moral and practical independence requiring a radical assumption of responsibility and personal accountability for well-being and persistence necessitating self-awareness and purpose.
+One who has autonomy over one’s own decisions, life, and outcomes may be said to be self-sovereign; moral and practical independence requires a radical assumption of responsibility and personal accountability for well-being and persistence necessitating self-awareness and purpose.

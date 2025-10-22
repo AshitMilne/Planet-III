@@ -3,7 +3,7 @@ author: Ashit Milne
 layout: base.njk
 title: Generation Ex Infinitum
 date: 2025-09-26
-draft: True
+stage: draft
 tags:
 - Human Stewardship & Ethics
 - Capital, Money, and Governance
@@ -24,7 +24,9 @@ Artwork: Infinitely divisible: The paradox of a path into an infinite horizon of
 
 ## Introduction
 
-If intelligence — expressed as Anima — is the blueprint for legitimacy (and what is more legitimately reasonable and beautiful than our ecology and its bounded animus? then *capital* is its vector in the material world for humanity to replicate the order perceived in the natural world: the current which flows as the distilled codification of trust, the manifestation of collective purpose, and the medium through which creativity, labor, and cooperation transform potential into realized abundance without needless toil and spin. Without it we will incur the wrath of our ecology as its animus becomes ever more unbounded. The materialist's hubris is that nature may be tamed. Instead, we must better govern ourselves within it.
+**REWRITE NEEDED ON INTRO**
+
+If intelligence — expressed as Anima — is the blueprint for legitimacy (and what is more legitimately reasonable and beautiful than our ecology and its bounded animus?) then *capital* is its vector in the material world for humanity to replicate the order perceived in the natural world: the current which flows as the distilled codification of trust, the manifestation of collective purpose, and the medium through which creativity, labor, and cooperation transform potential into realized abundance without needless toil and spin. Without it we will incur the wrath of our ecology as its animus becomes ever more unbounded. The materialist's hubris is that nature may be tamed. Instead, we must better govern ourselves within it.
 
 Our money as it stands is misapplied through sub-optimal decisions at the individual and sovereign level mirroring the failure of intelligence. The ultimate reflection of this is our admiration for the dragons who hoard and flaunt it: This is destructive, extractive, and ultimately unsustainable in Creation. Worse, it's in bad taste and soon enough everyone despises those with objectively bad taste because it a tell that you're corrupt and so lacking in self-awareness that you wear it openly.
 
@@ -60,15 +62,46 @@ So *animus* was inevitable: it was the clash between cosmologies. One saw territ
 
 And yet, that same *animus* — the spirit of resistance — became a testament to survival. It was not merely opposition to colonization but an affirmation of life itself: a refusal to be written out of the story of creation. This is the energy that anarchism seeks to harness as we look past a sovereign and hegemon and towards the ecology it even now continues to tear away at.
 
-When serious peaceful Anarchists seek to offer alternatives they have been summarily canceled. David Graeber was targeted and persecuted in the aftermath of the great financial crisis: A serious intellectual losing his position and tenure at Yale without any explanation, forced into exile in London may be a short term kluge but it's not a good look in the long run for any regime which seeks to lead the world as a champion of thought, democracy and liberalism. And so we learn from our mentors and pivot when the opportunity arises to grasp the autonomy which frees us decisively from institutional dependence and hegemony's coercive screw.
+When serious peaceful Anarchists seek to offer alternatives they have been summarily canceled. David Graeber was targeted and persecuted in the aftermath of the great financial crisis: A serious intellectual losing his position and tenure at Yale without any explanation, forced into exile in London may be a short term kluge but it's not a good look in the long run for any regime which seeks to lead the world as a champion of thought, democracy and liberalism. And so we learn from our mentors and pivot when the opportunity arises to grasp the autonomy which frees us decisively from institutional dependence and the Leviathan's coercive screw.
 
 
 
-## Hegemony
+## Leviathan
 
-Every sovereign has an approximately defined intellectual elite. People who are spirited, passionate, charismatic and capable who have an oversized potential capacity for influence. Marshaling this coterie's allegiance for their group and by extension to the broader hegemonic regime is drilled early and often; so too the 'principle' of acting in self-interest; when everyone else seems onboard it will seem even practical and rational to toe the line. Your family's prospects may even be impacted and so it may even be honourable. It is certainly patriotic, to acquiesce, and commit so that a broad consensus may be achieved at least in appearance - if only to present a common front and prevent a loss of face. Such pretexts were marshalled to regrettably lash out with animus borne of it towards ones we might otherwise have related to or even loved because some systemic impulse called for it.
+>Beauty — and all the values that derive from beauty — are not measured and evaluated in of the dollar.
+>~ Rachel Carson
 
-**HERE  - BREAK - THIS NEEDS A LOT OF WORK -IF BACK: DRIVE PIPELINE OR OTHER PRESENTATION OR NOTHING FOR A WEEK
+Every sovereign has an approximately defined operating elite. Call this the *Sovereign's* semper idem formed through a social graph of those who have connected over time and shown some capacity for competence, commitment and service; all those contained within it are 'read-in' to the extent they are trusted by the collective and require access to the data. The agenda for this cohort largely deals with managing the affairs of state in either public or private institutions; a business which deals largely with negotiating a 'split the difference' compromise between their household self-interests and the interests of the state and its people. 
+
+The sovereign semper idem is analogous to Thomas Hobbes' Leviathan and is generally made up of giants (those who may or may not have personal wealth, but do at least have access to capital, connections and a market place for favours). Within the incumbency wealth, fame and high-office is the measure of success. This framework is replicated in regimes across earth in both time and space regardless of their founding mythologies. These measure of self-interest are accumulated as due consideration in a quest to serve civil society (the commons). The negotiation however has not until relatively recently included the ecology. While many in the regime sincerely advocate on behalf of the environment's protection and restoration, it sits *alongside* and not ahead of various other 'priorities' - electoral success, security and order in civil society, stable profits and jobs, and relative prestige.
+
+This sovereign semper idem constantly 'assesses' the terrain beyond its perimeter for threats and opportunities which amount to the same thing: 'managing' people who are spirited, passionate, charismatic and capable; who have oversized potential for influence but remain at the periphery (deliberately at lower levels of the administrative apparatus) or outside of the regime entirely (i.e the pipeline for leadership) because they dissent; they object not so much to the underlying value system but to the operating system and structural resistance to the innovation and evolution.
+
+>The world is my country, all mankind are my brethren, and to do good is my religion.
+>~ Thomas Paine
+
+The term 'enemies foreign and domestic' paints a stark picture of protagonist and antagonist: of those loyal to the sovereign arrayed against those who are working with adversaries to undermine it.  The reality is considerably more nuanced and complicated. The 20th century's most profound legacy was the speed with which people and information dispersed across planet. An increasingly large number of the intellectual and academic elite dispense with notions of loyalty (at any cost) to a particularly sovereign. The most they will promise, with formal segregation now a memory, is to observe the law.
+
+As well many of them are conversant and uncompromising on global climate change. It is no exaggeration to say they have made it their life's purpose to save Creation. In practical terms that at the very least begins by exiting an incumbent system that fails badly on the file. These dissidents no longer see sovereign institutions of so-called democratic west as credible authorities in any sense. Most damning is that, even by their own metrics, the left/right division of loyalties systemically has collapsed into a grotesque and barely believable pantomime — an obscene carnival of self‑interest. More to the point, the system grinds badly on the weight of its technical debt:
+
+- **Complexity and compromise:** Policies and decisions are the product of layers of negotiation, legal constraints, risk management, and political oversight. Clear-cut moral decisions are uncommon; ambiguity dominates.
+- **Incentives:** Bureaucracies reward process adherence, risk aversion, and incremental progress rather than bold heroism. Standing out for “doing the right thing” can even be risky.
+- **Diffuse responsibility:** Large institutions diffuse responsibility so no single person is fully accountable — which often blurs heroism into quiet persistence or compromise.
+- **Human variability:** Leaders expressing any dissent or non-conformity to their party's line on a matter will invariably be ostracised or forced to compromise their ideals, courage, creativity
+
+**HERE**
+
+In practical terms 'dying' for the planet means checking out of the incumbent framework for what constitutes prestige and credibility; and instead operating in the parallel post-scarcity, post-consumerist system design for civilization that is being imagined and assembled. As well, others decide to check-out in order to actively contradict what they see as arbitrary norms and standards. Both sets overlap; they are dissenters, and in a myriad number of ways, choose to live on their own terms, whatever the opprobrium. I am not referring here to the legions of protestors or rioters who take to the streets to make some kind of statement periodically, but rather those with the knowledge, experience and skills to actually disrupt the institutions of state (public and private) by simply having the temerity to ghost them; deliberately rejecting them as well as the their standard measures of 'success' (wealth, fame, connection and high office). 
+
+![](./assets/ChatGPT%20Image%20Oct%2021,%202025,%2003_17_39%20PM.png)
+
+Above: Leviathan envisioned as a semper idem of insiders - those 'Inside the House'.
+
+
+
+
+
+
 
 Even the most beautiful, sensitive, rational, poetic, intelligent and sublime ones - simply because we have accepted the generated imagined collectives of 'us' and 'them' of those who claim to lead impossibly large and diverse groups which we are now rallied and called to love as our own and marshalled into the hierarchy as though we were an extension of the war machine operating on *their* social network.
 
