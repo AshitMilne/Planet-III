@@ -95,7 +95,11 @@ As well many of them are conversant and uncompromising on global climate change.
 - **Diffuse responsibility:** Large institutions diffuse responsibility so no single person is fully accountable — which often blurs heroism into quiet persistence or compromise.
 - **Human variability:** Leaders expressing any dissent or non-conformity to their party's line on a matter will invariably be ostracised or forced to compromise their ideals, courage, creativity
 
-In practical terms 'dying' for the planet means checking out of the incumbent framework for what constitutes prestige and credibility; and instead operating in the parallel post-scarcity, post-consumerist system design for civilization that is being imagined and assembled. As well, others decide to check-out in order to actively contradict what they see as arbitrary norms and standards. Both sets overlap; they are dissenters, and in a myriad number of ways, choose to live on their own terms, whatever the opprobrium. I am not referring here to the legions of protestors or rioters who take to the streets to make some kind of statement periodically, but rather those with the knowledge, experience and skills to actually disrupt the institutions of state (public and private) by simply having the temerity to ghost them; deliberately rejecting them as well as their standard measures of 'success' (wealth, fame, connection and high office). 
+In practical terms 'dying' for the planet means checking out of the incumbent framework for what constitutes prestige and credibility; and instead operating in the parallel post-scarcity, post-consumer, post-celebrity system design for civilization that is being imagined and assembled; a world where the good, those with virtue (arete) are not compelled to be incorporated into Leviathan's destructive and tone-death schemes. As well some people decide to check-out in order to actively contradict what they see as arbitrary norms and standards and live on their own terms. Both sets overlap; they are dissenters, and in a myriad number of ways, they go their own way, whatever the opprobrium. I am not referring here to the legions of protestors or rioters who take to the streets to make some kind of statement periodically, but rather those who possess the knowledge, foresight, experience and the skill to actually disrupt the institutions of state (public and private)
+
+
+
+ by simply having the temerity to ghost them; deliberately rejecting them as well as their standard measures of 'success' (wealth, fame, connection and high office). 
 
 
 
