@@ -1,7 +1,7 @@
 ---
 author: Ashit Milne
 layout: base.njk
-title: Leviathan
+title: Leviathan Redux
 date: 2025-09-26
 stage: draft
 tags:
@@ -18,10 +18,14 @@ part: 1
 
 ![](./assets/ChatGPT%20Image%20Oct%2021,%202025,%2003_17_39%20PM-1761135977446-1.png)
 
-Artwork: Infinitely divisible: The paradox of a path into an infinite horizon of possibilities within a *bounded* reality resulting in balance. It's not addition by subtraction. Nor does it multiply like a growth.
+Animus, bound at the core of the hegemonic regime, watches constantly for challenges from the periphery. Most subversive are those who reject Leviathan’s standard of success—its greed and self-interest—and remain loyal to the people through obedience to the law.
+
+
 
 >Beauty — and all the values that derive from beauty — are not measured and evaluated in of the dollar.
 >~ Rachel Carson
+
+
 
 ## Introduction
 
@@ -31,21 +35,19 @@ Our money as it stands is unsound. Specifically it is a utility for Leviathan to
 
 Applied well, *any* money becomes the signal through which self-sovereign individuals and communities (including their aggregation as nation states) coordinate, flourish, and align with the emergent order of life itself. Temptation, fear and panic being real aspects of human animus, our money demands that we assure our obligations to each other, the Commons and Creation are met before rights may be afforded. Good money allows for this.
 
-***E Pluribus Unum*** extends the conversation we began in *Sin Qua Non* to discuss the qualities of good money (capital) which does exactly that. This first piece, entitled *Leviathan* lays out an incumbent default operating system. It amounts a relatively centralized virtual identity of those who meet a criteria which includes unwavering loyalty to the sovereign and deference in that regard to a hierarchy which determines what (and crucially *who*) is a priority. They claim a natural inclination towards survival as their justification for prioritizing their self-actualisation over that of other inhabitants of this planet; particularly those who are outside their semantic perimeter or social graph - the ones with whom they engage in routine dialogue. Needs and wants are met, beginning with those at the system's core through the dispensation of money used to procure them. An inability to objectively assess these needs and wants leads to an imbalance or systemic inequity sometimes referred to as the Cantillon effect.
-
-**HERE **
-
-running without overarching systemic governance; supporting transactional activity continuously to support self-interest. However, without a comprehensive social contract, an unwritten and seemingly autonomously *manufactured* consensus extracts from the planet indefinitely. This too without any meaningful satisfaction for either individuals nor sovereign states who feel intuitively that they are engaged in a race to the bottom. However, it is a mode which isn't obviously or at least imminently catastrophic. Which is to say, people active in this framework appear to be neither *particularly* happy or unhappy in their pursuit of meaning; could be worse’ is our default balm for each other.
+***E Pluribus Unum*** extends the conversation we began in *Sin Qua Non* to discuss the qualities of good money (capital) which does exactly that. This first piece, entitled *Leviathan* lays out an incumbent default operating system. It amounts a relatively centralized virtual identity of those who meet a criteria which includes unwavering loyalty to the sovereign and deference in that regard to a hierarchy which determines what (and crucially *who*) is a priority. They claim a natural inclination towards survival as their justification for prioritizing their self-actualisation over that of other inhabitants of this planet; particularly those who are outside their semantic perimeter or social graph - the ones with whom they engage in routine dialogue. Needs and wants are met, beginning with those at the system's core through the dispensation of money used to procure them. An inability to objectively assess these needs and wants leads to an imbalance or systemic inequity sometimes referred to as the Cantillon effect. The effect becomes more pronounced deeper into the periphery - the edges of the money's regime. Most damaging is the impact on those ordinary people who through no fault of their own are left outside of our global monetary system because the United States dollar has been weaponised - against their governments. For them prosperity is so far out of reach that they will do whatever it takes to secure basic needs for *their* loved ones. Even if it means targeting yours online. For them needs must and virtue is for those who can afford it. There will be no rest for those guilty of gross negligence, neglect and indifference towards humanity writ large. Those who are forced to go without will not leave them alone and will turn the screws indirectly by targeting their constituents online.
 
 
 
 ## One
 
+
+
 >Is it getting better
-Or do you feel the same?
-Will it make it easier on you now 
-You got someone to blame? 
-~ U2 (One)
+>Or do you feel the same?
+>Will it make it easier on you now 
+>You got someone to blame? 
+>~ U2 (One)
 
 
 
@@ -71,16 +73,18 @@ When serious peaceful Anarchists seek to offer alternatives they have been summa
 
 ## Leviathan
 
-
-
 Every sovereign has an approximately defined operating elite. Call this the *Sovereign's* semper idem formed through a social graph of those who have connected over time and shown some capacity for competence, commitment and service; all those contained within it are 'read-in' to the extent they are trusted by the collective and require access to the data. The agenda for this cohort largely deals with managing the affairs of state in either public or private institutions; a business which deals largely with negotiating a 'split the difference' compromise between their household self-interests and the interests of the state and its people. 
 
 The sovereign semper idem is analogous to Thomas Hobbes' Leviathan and is generally made up of giants (those who may or may not have personal wealth, but do at least have access to capital, connections and a market place for favours). Within the incumbency wealth, fame and high-office is the measure of success. This framework is replicated in regimes across earth in both time and space regardless of their founding mythologies. These measure of self-interest are accumulated as due consideration in a quest to serve civil society (the commons). The negotiation however has not until relatively recently included the ecology. While many in the regime sincerely advocate on behalf of the environment's protection and restoration, it sits *alongside* and not ahead of various other 'priorities' - electoral success, security and order in civil society, stable profits and jobs, and relative prestige.
 
 This sovereign semper idem constantly 'assesses' the terrain beyond its perimeter for threats and opportunities which amount to the same thing: 'managing' people who are spirited, passionate, charismatic and capable; who have oversized potential for influence but remain at the periphery (deliberately at lower levels of the administrative apparatus) or outside of the regime entirely (i.e the pipeline for leadership) because they dissent; they object not so much to the underlying value system but to the operating system and structural resistance to the innovation and evolution.
 
+
+
 >The world is my country, all mankind are my brethren, and to do good is my religion.
 >~ Thomas Paine
+
+
 
 The term 'enemies foreign and domestic' paints a stark picture of protagonist and antagonist: of those loyal to the sovereign arrayed against those who are working with adversaries to undermine it.  The reality is considerably more nuanced and complicated. The 20th century's most profound legacy was the speed with which people and information dispersed across planet. An increasingly large number of the intellectual and academic elite dispense with notions of loyalty (at any cost) to a particularly sovereign. The most they will promise, with formal segregation now a memory, is to observe the law.
 
@@ -91,25 +95,7 @@ As well many of them are conversant and uncompromising on global climate change.
 - **Diffuse responsibility:** Large institutions diffuse responsibility so no single person is fully accountable — which often blurs heroism into quiet persistence or compromise.
 - **Human variability:** Leaders expressing any dissent or non-conformity to their party's line on a matter will invariably be ostracised or forced to compromise their ideals, courage, creativity
 
-In practical terms 'dying' for the planet means checking out of the incumbent framework for what constitutes prestige and credibility; and instead operating in the parallel post-scarcity, post-consumerist system design for civilization that is being imagined and assembled. As well, others decide to check-out in order to actively contradict what they see as arbitrary norms and standards. Both sets overlap; they are dissenters, and in a myriad number of ways, choose to live on their own terms, whatever the opprobrium. I am not referring here to the legions of protestors or rioters who take to the streets to make some kind of statement periodically, but rather those with the knowledge, experience and skills to actually disrupt the institutions of state (public and private) by simply having the temerity to ghost them; deliberately rejecting them as well as the their standard measures of 'success' (wealth, fame, connection and high office). 
-
-![](./assets/ChatGPT%20Image%20Oct%2021,%202025,%2003_17_39%20PM.png)
-
-Above: Leviathan envisioned as a semper idem of insiders - those 'Inside the House'.
-
-
-
-
-
-
-
-Even the most beautiful, sensitive, rational, poetic, intelligent and sublime ones - simply because we have accepted the generated imagined collectives of 'us' and 'them' of those who claim to lead impossibly large and diverse groups which we are now rallied and called to love as our own and marshalled into the hierarchy as though we were an extension of the war machine operating on *their* social network.
-
-For these 'leaders', 'winners' and 'drivers' - these champions of all that is high and mighty - and their ambition (and that of their children) we have made those other beautiful ones foreign by turning them away for a mere utility - a travel document. A passport and the cash carried with it. As well an unforgivably high standard of permanent disparity. Which is to say any disparity at all.
-
-This is war even when it is conducted by other *mercantilist* means. It is Indiscriminate violence perpetrated by the *very* *strongest* upon the 'other'.  Ask the question: If they place themselves above all others and follow no one then *what* do they follow? What are their values. What price will they sell a thing and how is that price to be denominated? 
-
-This is how the United States dollar lost its legitimacy. It failed because it became too tempting an instrument to be used against *any* adversary in *any* domain through executive action - behaviour which continues unabated even now. It *was* to be a vehicle of persuasion - a legitimate *transparent* instrument of tender for consideration. Instead it became Tolkien's one ring to rule them all Or at least ensure survival and comfort - even if it means that a growth spreads wildly and uncontrollably - sown on the endless fruitless toil of weekend weak-end humanity.
+In practical terms 'dying' for the planet means checking out of the incumbent framework for what constitutes prestige and credibility; and instead operating in the parallel post-scarcity, post-consumerist system design for civilization that is being imagined and assembled. As well, others decide to check-out in order to actively contradict what they see as arbitrary norms and standards. Both sets overlap; they are dissenters, and in a myriad number of ways, choose to live on their own terms, whatever the opprobrium. I am not referring here to the legions of protestors or rioters who take to the streets to make some kind of statement periodically, but rather those with the knowledge, experience and skills to actually disrupt the institutions of state (public and private) by simply having the temerity to ghost them; deliberately rejecting them as well as their standard measures of 'success' (wealth, fame, connection and high office). 
 
 
 
@@ -127,12 +113,16 @@ We don't even have to cast a ballot such is our capacity now to live without the
 
 There is only one thing greater than our institutions for those that occupy their offices. On this there is overwhelming consensus: they place a premium on their reputations, careers, personal wealth and their friends and families. In whatever order those are placed - they are no different from you and I. What is missing however and what separates a public servant on a mission is that they place the Commons and Creation (or if you prefer the ecology) *ahead* of those other things. Above all, they speak truth to power (which for them are the people). This is a truth that true believers in democracy (anarchists) hold to be no longer self-evident. Instead of admitting a truth and then working to secure increment aesthetic improvement, they have gone backward. What our incumbent leaders have done is adjust a truth they find inconvenient because they cannot secure a consensus of electors to support them otherwise. Over time the accumulation of these *compromises* degrades the beauty of our ecology, our commons and ultimately every individual self who still persists (lives) in them. It is always the *vital* polarities that suffer before our institutions collapse exhausted - the ecology and our identity and sense of self. This time we have data telling us clearly we are heading into Ragnarök and the struggle for the allegiance of innocent souls caught in the crossfire of the pitched battle between Creation and the giants who defy virtue (arete) and the ecology within which it flourishes at *any* cost. One's life is a suicide mission - it ends in death *if* we choose to live first. What separates a giant from a man who 'walks with God' (and is so possessed of virtue) is that the giant places his life before the other regardless of merit and virtue. The man on the hand accepting his fate (God's will) and his station in life, keeps faith with the virtue within him and continues to make his path in life. He may not command much (in fact he deliberately chooses not to). However, he is in *full* command of his faculties and works to acquit and represent himself well.
 
+
+
 >These are dangerous days
 >To say what you feel is to dig your own grave
 >Remember what I told you
 >If you were of the world they would love you
 >
 >~ Sinead O'Connor (Black Boys on Mopeds)
+
+
 
 Cash and the institutional esteem of office are the only tools available to the Sovereign and its agents for securing 'the help' when competence (at least with integrity) can no longer be bought; *loyalty* is now the only thing now which can be bought by the impersonal institution and it is bought and sold as a transaction between *individuals* whose claims now to represent an institution of state is compromised because they are now acting as themselves and not the officer in their bid to secure a cadre of cohorts through a process of identifying and recruiting a coalition of the willing (and at least somewhat able). At the very least the line has been blurred as to where self ends and where the Commons start. Pragmatism of the political realist is called for; combined with the idealism of liberalism the anarchist pivots to the ecology as the terrain to serve and protect. Everyone else has been bought - that is the prudent and conservative *assumption.*
 
@@ -176,4 +166,4 @@ Subjective value often demands destruction for comfort, but the more arbitrary o
 
 The motto of my [alma mater](https://www.uwo.ca/index.html), the University of Western Ontario, is *Veritas et Utilitas*—Truth and Usefulness. Arthur Kroeger, Canada’s great civil servant, spoke at my convocation in 1991. He also served as Chancellor at Carleton while I completed my Master's Degree in International Affairs there. His Mennonite family came to Canada from the Soviet Union seeking freedom from the animus of unbounded competition, and the possibility of dialogue grounded in fairness.
 
-In his quiet way, he embodied a Canadian vision of legitimacy: a politics that balances loyalty to tradition with openness to the new. Canada has deliberately renounced certain forms of military power to exercise influence founded instead on reason and empathy. That, too, is *Utilitas et Veritas*—the usefulness of truth, the truth in what is useful. Wherever you go, there you are: X marks the spot where value maybe generated infinitum for self, the commons and creation.
+In his quiet way, he embodied a Canadian vision of legitimacy: a politics that balances loyalty to tradition with openness to the new. Canada has deliberately renounced certain forms of military power to exercise influence founded instead on reason and empathy. That, too, is *Utilitas et Veritas*—the usefulness of truth, the truth in what is useful. Wherever you go, there you are.
