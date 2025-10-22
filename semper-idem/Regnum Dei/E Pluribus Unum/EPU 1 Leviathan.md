@@ -1,7 +1,7 @@
 ---
 author: Ashit Milne
 layout: base.njk
-title: Generation Ex Infinitum
+title: Leviathan
 date: 2025-09-26
 stage: draft
 tags:
@@ -16,7 +16,7 @@ part: 1
 
 
 
-![](./../../../assets/WholeAlphaHorizonBalance.png)
+![](./assets/ChatGPT%20Image%20Oct%2021,%202025,%2003_17_39%20PM-1761135977446-1.png)
 
 Artwork: Infinitely divisible: The paradox of a path into an infinite horizon of possibilities within a *bounded* reality resulting in balance. It's not addition by subtraction. Nor does it multiply like a growth.
 
@@ -24,11 +24,13 @@ Artwork: Infinitely divisible: The paradox of a path into an infinite horizon of
 
 ## Introduction
 
-**REWRITE NEEDED ON INTRO**
+If intelligence — expressed as Anima — is the blueprint for legitimacy (and what is more legitimately reasonable and beautiful than our ecology and its bounded animus?) then *capital* is its vector in the material world for humanity to replicate the order perceived in the natural world. It is the current which flows as the distilled codification of trust, the manifestation of collective purpose, and the medium through which creativity, labor, and cooperation transform potential into realized abundance without needless toil and spin. Without it we will incur the wrath of our ecology as its animus becomes ever more unbounded. The materialist's hubris is that nature may be tamed and that we may live in a utopia for eternity *literally* with data modeled with science bought by shredded trees they call cash; their 4,000 year-old technology for contracts. Self-styled titans, they are Leviathan. Better instead we embrace our fate than submit to their whims. Better to govern ourselves and live life on our own terms to find truth and beauty.
 
-If intelligence — expressed as Anima — is the blueprint for legitimacy (and what is more legitimately reasonable and beautiful than our ecology and its bounded animus?) then *capital* is its vector in the material world for humanity to replicate the order perceived in the natural world: the current which flows as the distilled codification of trust, the manifestation of collective purpose, and the medium through which creativity, labor, and cooperation transform potential into realized abundance without needless toil and spin. Without it we will incur the wrath of our ecology as its animus becomes ever more unbounded. The materialist's hubris is that nature may be tamed. Instead, we must better govern ourselves within it.
+**HERE**
 
-Our money as it stands is misapplied through sub-optimal decisions at the individual and sovereign level mirroring the failure of intelligence. The ultimate reflection of this is our admiration for the dragons who hoard and flaunt it: This is destructive, extractive, and ultimately unsustainable in Creation. Worse, it's in bad taste and soon enough everyone despises those with objectively bad taste because it a tell that you're corrupt and so lacking in self-awareness that you wear it openly.
+Our money as it stands is unsound. Specifically it is a utility for Leviathan to perpetuate a prosperity for its sphere of influence and it is used to deliver a form of consumption-oriented hedonistic satiety; it is a salve and a mechanism for coping with a deeper underlying problem - a lack of meaning because we cannot or will not use our time to find and follow our *Calling* - that thing we would do of value to ourself and to the world if we did not need money. The enormous issue at hand is that this coping mechanism comes at the expense of our ecology. The only response to this mounting crisis that many can muster is to clamour for their government to take action while they continue to live in ways that are utterly unsustainable and balk at adjustments they themselves are required to make.
+
+for misapplied through sub-optimal decisions at the individual and sovereign level mirroring the failure of intelligence. The ultimate reflection of this is our admiration for the dragons who hoard and flaunt it: This is destructive, extractive, and ultimately unsustainable in Creation. Worse, it's in bad taste and soon enough everyone despises those with objectively bad taste because it a tell that you're corrupt and so lacking in self-awareness that you wear it openly.
 
 Applied well, *any* money becomes the signal through which self-sovereign individuals and communities (including their aggregation as nation states) coordinate, flourish, and align with the emergent order of life itself. Temptation, fear and panic being real aspects of human animus, our money demands that we assure our obligations to each other, the Commons and Creation are met before rights may be afforded. Good money allows for this.
 
