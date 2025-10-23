@@ -51,7 +51,7 @@ Applied well, *any* money becomes the signal through which self-sovereign indivi
 
 
 
-*E Pluribus Unum* - From one, many. From *within* one world we are capable of apprehending the infinite with our faculties - our minds and bodies. As finite as our planet is we have an extraordinary capacity for productivity on it. The matter at hand is whether we see our potential and use it well or squander it; engorging in the instant gratification of constant consumerism. As it stands there are many who style themselves one. They are a corpus or body organizing themselves into a tier of the great and the good. They are friend indeed to their pal-in-tier. They comprise Leviathan.
+*E Pluribus Unum* - From one, many. From *within* one world we are capable of apprehending the infinite with our faculties - our minds and bodies. As finite as our planet is we have an extraordinary capacity for productivity on it. The matter at hand is whether we see our potential and use it well or squander it; engorging in the instant gratification of constant consumerism. As it stands there are many who style themselves one. They are a corpus or body organizing themselves into a tier of the great and the good. They comprise Leviathan.
 
 Whatever anyone else chooses to do, you yourself have the capacity to decide for yourself what you want and need in your life; this is the power of autonomy: Start by closely governing what (and who) we bring into our lives, we deliberately and carefully curate every thing, person and moment of our life. Then crucially we grasp the beauty of our ecology and recognize is as our common ground; it is ours as much as anyone's.
 
@@ -171,3 +171,4 @@ Subjective value often demands destruction for comfort, but the more arbitrary o
 The motto of my [alma mater](https://www.uwo.ca/index.html), the University of Western Ontario, is *Veritas et Utilitas*—Truth and Usefulness. Arthur Kroeger, Canada’s great civil servant, spoke at my convocation in 1991. He also served as Chancellor at Carleton while I completed my Master's Degree in International Affairs there. His Mennonite family came to Canada from the Soviet Union seeking freedom from the animus of unbounded competition, and the possibility of dialogue grounded in fairness.
 
 In his quiet way, he embodied a Canadian vision of legitimacy: a politics that balances loyalty to tradition with openness to the new. Canada has deliberately renounced certain forms of military power to exercise influence founded instead on reason and empathy. That, too, is *Utilitas et Veritas*—the usefulness of truth, the truth in what is useful. Wherever you go, there you are.
+
