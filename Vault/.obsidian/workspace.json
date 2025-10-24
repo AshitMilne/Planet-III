@@ -11,10 +11,14 @@
             "id": "e240e20d4a4a8690",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "tagged/Anima.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anima"
             }
           }
         ]
@@ -167,7 +171,23 @@
   },
   "active": "e240e20d4a4a8690",
   "lastOpenFiles": [
+    "tagged/Order.md",
+    "notes/commons.md",
+    "notes/Trinity Bellwoods Park (TBP).md",
+    "notes/satyam, shivam, sundaram.md",
+    "tagged/Virtualis.md",
+    "notes/STOIC.md",
+    "notes/Path of Most Resistance (POMR).md",
+    "notes/Path of Least Resistance (POLR).md",
+    "tagged/Genesis To SysGen.md",
+    "tagged/Machina.md",
+    "tagged/Arete.md",
+    "tagged/EPU 1 Leviathan Redux.md",
+    "notes/E Pluribus Unum.md",
+    "notes/calling.md",
+    "notes/Leviathan.md",
     "tagged/Ashit-Patel.md",
+    "notes/creation.md",
     "notes/Patel.md",
     "notes/self-sovereign.md",
     "notes/self-sovereignty.md",
@@ -176,22 +196,6 @@
     "notes/Yoga.md",
     "notes/redcurrant.md",
     "notes/human-centric systems.md",
-    "notes/Stone Rose.md",
-    "tagged/Arete.md",
-    "tagged/Genesis To SysGen.md",
-    "notes/Sysgen.md",
-    "tagged/Virtualis.md",
-    "tagged/Machina.md",
-    "notes/Capital.md",
-    "notes/Identity Stack.md",
-    "notes/legitimate.md",
-    "tagged/Anima.md",
-    "notes/D.E.C.A.Y.md",
-    "notes/creation.md",
-    "tagged/Lexica.md",
-    "notes/arete.md",
-    "notes/calling.md",
-    "aretearete.md",
-    "notes/giant.md"
+    "notes/Stone Rose.md"
   ]
 }

@@ -1,0 +1,3 @@
+**Stop, Think, Observe, Intuit, Create.** The order matters. First, stop completely whatever you were doing. Then, think: Where am I? How do I feel? Which aspect of myself am I bringing to this moment? Next, observe carefully, then seek to understand—intuit—the thing or the other person before you. Only now can you act or interact with a sense of full opportunity.
+
+Stoicism teaches acceptance: _it is what it is_—but with meaning. No conversation or transaction requires blame. Reconciliation is optional; forgiveness is optional. You may walk away, carrying the lesson without the burden of resentment. The verdict is simple: they are no longer part of your life to the degree practicable.
