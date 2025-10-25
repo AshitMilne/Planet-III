@@ -48,9 +48,9 @@ The sundial is rendered a unique signal in time and space with which to work rea
 
 
 
-### InHabit (Self-Sovereign Governance)
+### TelOS (Self-Sovereign Governance)
 
-InHabit explores the architecture of self-sovereign human data and development — how individuals evolve across cycles of time through feedback, reflection, and behavioral pattern recognition. The aim is to create a self-governing, non-coercive system for human flourishing — one that aligns personal growth, economic independence, and social balance without reliance on imposed hierarchies or outdated industrial constructs of “work” and “retirement.”
+TelOS explores the architecture of self-sovereign human data and development — how individuals evolve across cycles of time through feedback, reflection, and behavioral pattern recognition. The aim is to create a self-governing, non-coercive system for human flourishing — one that aligns personal growth, economic independence, and social balance without reliance on imposed hierarchies or outdated industrial constructs of “work” and “retirement.”
 
 The framework blends philosophy, behavior science, and temporal design — integrating Decameron cycles (10-day phases), self-assessment algorithms, and life-stage dynamics to model how individuals transform, and externalized cost to create value internally
 
