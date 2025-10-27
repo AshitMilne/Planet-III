@@ -1,4 +1,76 @@
-**American Beauty: It’s Right on the Money**
+---
+author: Ashit Milne
+title: The Social Contract
+date: 2025-10-27
+layout: base.njk
+stage: draft
+tags: [philosophy]
+series: E Pluribus Unum
+part: 2
+---
+
+![](./assets/SocialConsensus.jpg)
+
+**Contract**: The word has the sense of wheel or weal. It is how we, together (con~) cover ground (*tract*) to create wealth (a sum positive outcome for *both* parties - i.e. you and them. Hence the terms wealth and commonwealth.  In practical terms there are only two parties to a contract as far as your concerned. Of course in a liberal society we are free to abstain from contracts that do not appeal to us. The social contract however is accepted *implicitly* by (being alive - i.e. possessing the quality of liveness.
+
+
+
+## Cum Tractus
+
+>Lift me right out of this world
+>Trip me, won't you won't you trip me
+>Won't you won't you trip me
+>Lift me ride me to the stars
+>
+>~ Primal Scream (Come Together)
+
+
+
+Contracts are created as a utility (an instrument or tool) to allow complex civilizations to flourish. The prefix *con~* is derived from the Latin *cum* (together) while the term tract denotes an area or scope of reference. We speak for example of a tract of land and as well to gain traction or purchase as we *move* over a space or upon ground which needs to be covered. The implication for a *social* contract is that through our connectedness to each other we lift and ride with each other out of the world in its bare original state to derive comfort* (which means 'together strong' if you analyse the term for its etymology in Latin). we need to live well enough to pursuit contentment; whatever fate allows in our circumstances based on what we are afforded by each other. Intuitively this should make sense to you as you look around. The heating, lighting, the building you are in keep you comfortable and you are unlikely to have been self-sufficient in the *providing* of these.
+
+As well they are agreements, not necessarily of course explicit, specifying outcomes contingent on *obligations*. We will often talk about 'right and obligations' as though they arrive together.  
+
+
+
+**HERE**
+
+
+
+but in reality one precedes another; obligations precede rights. Now we may hallucinate or model our reality differently if we're not careful. For example, simply by using the term 'rights and obligations'  and placing one before the other can effect our expectations in civil society. 
+
+
+
+Think of a society, not as complex as ours but still orderly and structured. Those of our indigenous communities. Or the first societies which formed; ones with *implicit* rules rather than the explicit ones we have today (i.e. law). Obligations, except for the very young *always* precede rights. For example you cannot claim a *rightful* share of gathered and hunted victual without first having participated and asserted *some* talent to express the feeling that you want to belong to a community. Invariably you will introspect on what that may be as you scan your immediate surroundings to find a gap that needs to be filled; a reality or truth which needs to be adjusted to align better with what your nascent community requires as it seeks comfort.
+
+Now, it doesn't help that in our discourse the term *rights* literally precedes the term *obligation*. But at the minimum we seem to believe that both
+
+
+
+Similarly in software development, we have have conditions which need to be met in lines of code
+
+
+
+![](./assets/code.png)
+
+While the equator provides an objectively geocentric frame of reference in the physical world between north and south, it is the psychological axes that dominate our geopolitical realities and this has been true since the very beginning of civilization. Now, recency and personal biases affects our opinions. For example my own biases has it run through Greenwich (London). However in reality
+
+ there's only one axis that counts. It runs up the Nile from Lake Victoria and the nearby Rift Valley where human civilization began up the Nile to the first civilization to scale to enormous complexity
+
+Our reality pulsates and radiates from the these axes.  and one dominates completely. oThe first 
+
+
+
+ Paper contracts such as the US dollar have been used in the west since the invention of papyrus in ancient Egypt over 3,000 years ago. In the east 
+
+It is a token of trust in the government that creates it and administers its distribution throughout what's known as the US Dollar Regime. What this means is that it is not just the currency of the United States but rather purports to be a utility for a world based on a set of values; two primarily: democracy and capitalism.
+
+
+
+
+
+On it you will find the word 'In God We Trust'c
+
+
 
 Those are sacred words - so too ‘In God *We* Trust'. There is no ‘US’ in ‘We’ and gazing back from the azure God only sees us.
 

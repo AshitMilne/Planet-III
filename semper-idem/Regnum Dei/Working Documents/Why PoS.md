@@ -19,7 +19,7 @@
    - Use continuous-payment protocols such as **Superfluid**, **Sablier**, or **LlamaPay**.
    - Citizens receive “micro-dividends” or deductions minute-by-minute according to SQI deltas.
 4. **Token Economics:**
-   - Base token: staking asset of the PoS chain (e.g., SOL, ATOM, or ETH).
+   - xxxxxBase token: staking asset of the PoS chain (e.g., SOL, ATOM, or ETH).
    - *Regnum*-specific stable or derivative token: represents the UBI differential.
    - Treasury stakes reserves → staking rewards top up the UBI pool → virtuous cycle.
 

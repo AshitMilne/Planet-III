@@ -5,7 +5,7 @@
 - **Identity** → Who the individual *is* (sovereign subject; digital personhood)
 - **Intelligence** → The capacity to *know* and *learn* (reflexivity, agency)
 - **Capital** → The means to *act* (resources, credit, stake)
-- **Tel** → The *end* or *purpose* (teleology, the “good” — flourishing, sustainability, virtue)
+- **TelOS**→ The *end* or *purpose* (teleology, the “good” — flourishing, sustainability, virtue) Tel = Mound; OS = operating system (whole and runs (operates) while standing up but not infinitely - loop ends at discovery - S is both  <8 and >8 )
 
 These four pillars can map directly to system layers.
 
@@ -14,7 +14,7 @@ These four pillars can map directly to system layers.
 | Identity     | Sovereign data wallet              | Authentication, consent, and provenance                     |
 | Intelligence | AI inference and behavioral models | Insight generation, nudging                                 |
 | Capital      | Tokenized incentive layer          | Aligns micro- and macro-interests                           |
-| Tel          | Governance protocol                | Defines what “better behaviour” means (public good metrics) |
+| TelOS        | Governance protocol                | Defines what “better behaviour” means (public good metrics) |
 
 ------
 
@@ -48,7 +48,7 @@ $$
 Where:
 
 - $PV_{individual}$ is the short-term utility to the user (e.g., satisfaction, convenience, expenditure gain)
-- $FV_{sovereign}$ is the projected long-term cost or benefit to the commons (e.g., health system burden, emissions, civic trust)
+- $FV_{sovereign}$ is the projected long-term cost or benefit to the commons (e.g., health system burden, emissions, civic trust). No global governance layer (Creation is for modeling) - reverts back to the traditional idea of a commons.
 
 If $\Delta V < 0$ (i.e. behaviour is individually positive but socially costly), the system can **nudge** by:
 
@@ -73,7 +73,7 @@ This transforms UBI from a static entitlement into a **dynamic dividend** of col
 
 **Phase 1 — Foundation (Regnum Dei Corpus)**
 
-- Codify ontology of identity–intelligence–capital–Tel
+- Codify Ontology of Identity–Intelligence–Capital–Tel
 - Develop schema for Stone Rose & Redcurrant data
 - Establish ethical and legal scaffolding (consent, sovereignty, value attribution)
 
