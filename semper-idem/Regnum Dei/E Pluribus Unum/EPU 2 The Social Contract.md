@@ -4,7 +4,7 @@ title: The Social Contract
 date: 2025-10-27
 layout: base.njk
 stage: draft
-tags: [philosophy]
+tags: [contract, society,legitimacy, rights, obligations, process, function]
 series: E Pluribus Unum
 part: 2
 ---
@@ -12,6 +12,14 @@ part: 2
 ![](./assets/SocialConsensus.jpg)
 
 **Contract**: The word has the sense of wheel or weal. It is how we, together (con~) cover ground (*tract*) to create wealth (a sum positive outcome for *both* parties - i.e. you and them. Hence the terms wealth and commonwealth.  In practical terms there are only two parties to a contract as far as your concerned. Of course in a liberal society we are free to abstain from contracts that do not appeal to us. The social contract however is accepted *implicitly* by (being alive - i.e. possessing the quality of liveness.
+
+## Introduction
+
+Part two of E Pluribus Unum explores the idea of contract and in particular the social contract which amounts to how we agree to behave in society. Part 1 Leviathan explored the nature of what passes for leadership in 'so-called' western liberal democracy. Namely how it is constituted and bounded vis a vis the rest of the world. An unspoken mythology concerning western  democracy is the idea of meritocracy; that is, that institutions operating within a domain or jurisdiction are based in a system (capitalism) which automatically elevates the most capable people in a free and open marketplace of ideas carefully examined by an attentive citizenry. This myth clashes with the practical reality of maintaining an appearance of consistently functioning processes in nation-states that are far too large to allow it. Strictures are imposed at considerable cost in an earnest effort to ensure government operates with disciplined procedural oversight. As well in an equally sincere attempt at keeping costs manageable for citizens allowances and exceptions are made that undermine that very due diligence. Compounding this is the need to maintain a degree of esteem and prestige for office holders and institutions in a competitive and adversarial global macro context.
+
+The result over time is a separation or psychic distancing of government (Leviathan) from those it governs; and inevitably a loss of trust and legitimacy in government - which by most measures, for example the Pew Study, has declined since steadily since surveys were started in the 1950s. Nobody questions the ultimate objectives of the vast majority of senior talent in either public or private institutions, however systemic compromise and fiduciary pressures create mounting pressure on the social contract - the (implicit) agreement between us on how we treat each other - as evidence of obvious unfairness accumulate. The most harmful being the promise of upward mobility - that the most diligent, curious and creative will be vaulted into positions from which they may serve to the benefit of all. However there are built-in mechanism - the operating of a dialect in a pluralist context that allows innovation to persist outside of the incumbent structures so that they may then be introduced into our social contracts so that governance may then evolve.
+
+Without suggesting solutions this second segment of E Pluribus Unum explores the qualities of a well-functioning contract (i.e. one that executes processes consistently without biases)
 
 
 
@@ -26,7 +34,27 @@ part: 2
 
 
 
-Contracts are created as a utility (an instrument or tool) to allow complex civilizations to flourish. The prefix *con~* is derived from the Latin *cum* (together) while the term tract denotes an area or scope of reference. We speak for example of a tract of land and as well to gain traction or purchase as we *move* over a space or upon ground which needs to be covered. The implication for a *social* contract is that through our connectedness to each other we lift and ride with each other out of the world in its bare original state to derive comfort* (which means 'together strong' if you analyse the term for its etymology in Latin). we need to live well enough to pursuit contentment; whatever fate allows in our circumstances based on what we are afforded by each other. Intuitively this should make sense to you as you look around. The heating, lighting, the building you are in keep you comfortable and you are unlikely to have been self-sufficient in the *providing* of these.
+Contracts are created as a utility (an instrument or tool) to allow complex civilizations to flourish. The prefix *con~* is derived from the Latin *cum* (together) while the term tract denotes an area or scope of reference. We speak for example of a tract of land and as well to gain traction or purchase as we *move* over a space or upon ground which needs to be covered. The implication for a *social* contract is that through our connectedness to each other we lift and ride with each other out of the world in its bare original state to derive comfort* (which means 'together strong' if you analyse the term for its etymology in Latin). we need to live well enough to pursuit contentment; whatever fate allows in our circumstances based on what we are afforded by each other. Intuitively this should make sense to you as you look around. The heating, lighting, the building you are in keep you comfortable and you are unlikely to have been self-sufficient in the provisioning of these. As well throughout history, the breakdown of legitimacy or the social contract is made evident by the failure of basic processes or utilities long taken for granted: electrical failures and water shortages for example. As well the definition of a necessity appears to fail basic rational tests in a flawed system design; the panic over toilet paper remains a luxury for a large number on the planet - and one which is increasingly indefensible from an ecological perspective. These are red flags for those who assess security and risk at macro level. From a systemic (holistic) perspective it is actually insane. The intuitive loss of legitimacy suffered by the system (sovereign) is reflected by Krishnamurti:
+
+>It is no measure of health to be well adjusted to a profoundly sick society. 
+>
+>~ Krishnamurti
+
+The Indian philosopher and ethicist also intimated that observation needs to precede thought and judgement and that the entire experience of life was an education from the first minute to the last. We are apt to fall in line, guided by what passes for 'social norms'. Contemplatives however speak of a beginner's mind and understand that we *filter* information through a set of assumptions and perspectives. Thought may be rational but it is always *subjective*.
+
+**HERE**
+
+ If we understand that we have but one perspective with which to think, we continue to observe and gather data to see how others operate 
+
+
+
+
+
+
+
+
+
+
 
 As well they are agreements, not necessarily of course explicit, specifying outcomes contingent on *obligations*. We will often talk about 'right and obligations' as though they arrive together.  
 
