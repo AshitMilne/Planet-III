@@ -15,24 +15,10 @@ Above: Lord Shiva, Patron of Transformation. For yogis he represents the *inner*
 
 
 
->Come together oh oh
->Come together oh oh
->Come together oh oh
->Come together
->Kiss me, won't you won't you kiss me
->Won't you won't you kiss me
->Lift me right out of this world
->Trip me, won't you won't you trip me
->Won't you won't you trip me
->Lift me ride me to the stars
->I'm free you're free
->I'm free I want you to touch me
->Come touch me
->Now it's all too much
->All too much
->All too much
+>अगर भीतर शांति हो, तो हर चीज़ से मिलना सहज होता है।
+> *Agar bheetar shanti ho, to har cheez se milne sahaj hota hai.*
 >
->~ Primal Scream (Come Together)
+>If there is peace within, then meeting (milne) everything becomes effortless.
 
 
 
