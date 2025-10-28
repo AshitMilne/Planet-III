@@ -4,7 +4,7 @@ title: The Social Contract
 date: 2025-10-27
 layout: base.njk
 stage: draft
-tags: [contract, society,legitimacy, rights, obligations, process, function]
+tags: [contract, society, legitimacy, rights, obligations, process, function]
 series: E Pluribus Unum
 part: 2
 ---
@@ -25,7 +25,7 @@ The result is a growing separation — a psychic distancing — between the stat
 
 Yet there is an adaptive mechanism built into society: a kind of dialectic in pluralist systems that allows innovation to persist outside incumbent structures. New ideas can then diffuse into the social contract, enabling governance to evolve — or, as I suggested in Part One, devolve — outward from the Leviathan to the periphery, ultimately empowering individuals to govern themselves without permanent intermediaries.
 
-This second part explores the qualities of a well-functioning contract: one that executes processes consistently, predictably, and without bias. Such contracts — particularly those capable of operating autonomously, on-chain, or algorithmically — may be central to the devolution of governance to the self-sovereign individual. As well they are critical to the long-term resilience of human civilization sustainably on our planet.
+This second part explores the qualities of a well-functioning contract: one that executes processes consistently, predictably, and without bias. Such contracts — particularly those capable of operating autonomously, on-chain, or algorithmically — may be central to the devolution of governance to the self-sovereign individual. As well they are critical to the long-term resilience of human civilization sustainably on our planet as the transparency with privacy and security enabled allow optimal outcomes: In technical terms, maximal extractable (legitimate and credible) value.
 
 
 
@@ -40,11 +40,21 @@ This second part explores the qualities of a well-functioning contract: one that
 
 
 
-Contracts are created as a utility (an instrument or tool) to allow complex civilizations to flourish. The word is derived from Latin. The prefix *con~* from *cum* (meaning together) while the term tract is from *trahere* meaning to draw, pull, drag. So a contract is a means for us to come together to gain traction and manifest a sum positive result. Something greater than what we might have achieved separately. Contracts are creative and in a practical sense they facilitate generation, productivity or if you will, fertility; you will note the synchronicity drawn from the primal reality of life's fundamental attraction. This idea extends into the rest of our life and it's why the discovery of one's *Calling* is important; turning us from the anguished scream of repressed identity and instead to truly productive outcomes.
+Contracts are created as a utility (an instrument or tool) to allow complex civilizations to flourish. The word is derived from Latin. The prefix *con~* from *cum* (meaning together) while the term tract is from *trahere* meaning to draw, pull, drag. So a contract is a means for us to come together to gain traction and manifest a sum positive result. Something greater than what we might have achieved separately. Contracts are creative and in a practical sense they facilitate generation, productivity or if you will, fertility; you will note the synchronicity drawn from the primal reality of life's fundamental attraction. This *seminal* moment of creation extends into the rest of our lives and it's why the discovery of one's *Calling* is important; turning us from the anguished scream of repressed identity to instead a discovery of our primal selves so that we may manifest productive outcomes.
 
-Legal contracts are drawn up to stipulate explicit terms: “If this, then that.” The structure is conditional, encoding obligations that arise from an envisioned opportunity, which in turn enable the enjoyment of rights. There is a clearly defined cause and effect. One thing precedes and results in another. 
+Legal contracts are drawn up to stipulate explicit terms: “If this, then that.” The structure is conditional, encoding obligations that arise from envisioned opportunities, which in turn enable the enjoyment of rights to a share of a fruitful outcome. There is a clearly defined cause and effect between obligation and right with the former preceding and resulting in another. 
 
-**HERE**
+Think of a society, not as complex as ours but still orderly and structured. Those of our indigenous communities. Or the first societies which formed; ones with *implicit* rules rather than the explicit ones we have today (i.e. law). Obligations, except for the very young *always* precede rights. For example you cannot claim a *rightful* share of gathered and hunted victual without first having participated and asserted *some* talent to express the feeling that you want to belong to a community. Invariably you will introspect on what that may be as you scan your immediate surroundings to find a gap that needs to be filled; a reality or truth which needs to be adjusted to align better with what your nascent community requires as it seeks comfort. In economy, you are *obligated* to stake a investment in order to affect a *return* on investment. In our health and welfare we are obligated to invest time, effort and care in relative youth to reap the return of a relatively comfortable old age.
+
+Now we may hallucinate in a moment of inconsiderateness, perhaps prompted by fear or a sense of scarcity, to model our reality differently. It seems trite and simplistic for example but simply using the term 'rights and obligations', placing the effect before the cause may have a profound and rippling impact on how we govern our relationships and transactions with one another. However, nor are rights and obligations enjoyed *simultaneously*.
+
+
+
+Here add behaviour online etc.
+
+
+
+
 
 
 
@@ -106,11 +116,11 @@ As well they are agreements, not necessarily of course explicit, specifying outc
 
 
 
-but in reality one precedes another; obligations precede rights. Now we may hallucinate or model our reality differently if we're not careful. For example, simply by using the term 'rights and obligations'  and placing one before the other can effect our expectations in civil society. 
 
 
 
-Think of a society, not as complex as ours but still orderly and structured. Those of our indigenous communities. Or the first societies which formed; ones with *implicit* rules rather than the explicit ones we have today (i.e. law). Obligations, except for the very young *always* precede rights. For example you cannot claim a *rightful* share of gathered and hunted victual without first having participated and asserted *some* talent to express the feeling that you want to belong to a community. Invariably you will introspect on what that may be as you scan your immediate surroundings to find a gap that needs to be filled; a reality or truth which needs to be adjusted to align better with what your nascent community requires as it seeks comfort.
+
+
 
 Now, it doesn't help that in our discourse the term *rights* literally precedes the term *obligation*. But at the minimum we seem to believe that both
 

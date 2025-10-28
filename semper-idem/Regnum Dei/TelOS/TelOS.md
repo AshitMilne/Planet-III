@@ -47,7 +47,3 @@ The nighttime is for rest, recovery, and quiet contemplation. The goal is to pre
 - **"Nocturnal Wakefulness"**
   - The state you describe is a natural phenomenon, historically called "first sleep" and "second sleep." If you wake up in the middle of the night, it is an optimal time for quiet, low-stimulus activities.
   - **Stillness and Contemplation:** Lying still and meditating or simply existing in a state of quiet wakefulness can be a profoundly restorative experience. Avoid checking the time or engaging with your phone, as this can trigger anxiety and activate your brain unnecessarily.
-
-
-
-Need to dovetail into this model (Huckle) that offers incentivized choice for people to move closer or further away (whoever, whatever, wherever, whenever, however based on why - Busytown lens) to keep them reign-in themselves hallelujah.
