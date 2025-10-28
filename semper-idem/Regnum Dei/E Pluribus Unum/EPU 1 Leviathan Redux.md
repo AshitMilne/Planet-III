@@ -51,7 +51,7 @@ Applied well, *any* money becomes the signal through which self-sovereign indivi
 
 
 
-*E Pluribus Unum* — from one, many. From *within* one world we are capable of apprehending the infinite with our faculties — our minds and bodies. As finite as our planet is, we have an extraordinary capacity for productivity on it. The matter at hand is whether we see our potential and use it well or squander it, engorging in the instant gratification of constant consumerism. As it stands, there are many who style themselves one. They are a corpus or body organizing themselves into a tier of the great and the good. They comprise Leviathan.
+*E Pluribus Unum* — from one, many. From *within* one world we are capable of apprehending the infinite with our faculties — our minds and bodies. As finite as our planet is, we have an extraordinary capacity for productivity on it. The matter at hand is whether we see our potential and use it well or squander it, engorging in the instant gratification of constant consumerism. As it stands, there are many who style themselves one. They are a corpus or body organizing themselves into a tier of the great and the good. They comprise Leviathan. 
 
 Whatever anyone else chooses to do, you yourself have the capacity to decide for yourself what you want and need in your life. This is the power of autonomy. Start by closely governing what (and who) we bring into our lives; we deliberately and carefully curate every thing, person, and moment of our life. Then, crucially, we grasp the beauty of our ecology and recognize it as our common ground; it is ours as much as anyone's.
 
@@ -67,7 +67,7 @@ So *animus* was inevitable: it was the clash between cosmologies. One saw territ
 
 And yet that same *animus* — the spirit of resistance — became a testament to survival. It was not merely opposition to colonization but an affirmation of life itself: a refusal to be written out of the story of creation. This is the energy that anarchism seeks to harness as we look past a sovereign and hegemon and towards the ecology it even now continues to tear away at.
 
-When serious peaceful anarchists seek to offer alternatives, they have been summarily canceled. David Graeber was targeted and persecuted in the aftermath of the great financial crisis: a serious intellectual losing his position and tenure at Yale without any explanation, forced into exile in London. It may be a short-term kluge, but it's not a good look in the long run for any regime that seeks to lead the world as a champion of thought, democracy, and liberalism. And so we learn from our mentors and pivot when the opportunity arises to grasp the autonomy that frees us decisively from institutional dependence and Leviathan's coercive screw.
+When serious peaceful anarchists seek to offer alternatives, they have been summarily canceled. David Graeber was targeted and persecuted in the aftermath of the great financial crisis: a serious intellectual losing his position and tenure at Yale without any explanation, forced into exile in London. It may be a short-term kluge, but it's not a good look in the long run for any regime that seeks to lead the world as a champion of thought, democracy, and liberalism. And so we learn from our mentors and pivot when the opportunity arises to grasp the autonomy that frees us decisively from institutional dependence and Leviathan's coercive screw. 
 
 
 

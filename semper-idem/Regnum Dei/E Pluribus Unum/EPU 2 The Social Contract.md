@@ -40,7 +40,19 @@ Contracts are created as a utility (an instrument or tool) to allow complex civi
 >
 >~ Krishnamurti
 
-The Indian philosopher and ethicist also intimated that observation needs to precede thought and judgement and that the entire experience of life was an education from the first minute to the last. We are apt to fall in line, guided by what passes for 'social norms'. Contemplatives however speak of a beginner's mind and understand that we *filter* information through a set of assumptions and perspectives. Thought may be rational but it is always *subjective*.
+
+
+Social Contracts have two interrelated components: the law provides and and social norms.; one . The other one, implicit, are social norms.
+
+
+
+
+
+
+
+The Indian philosopher and ethicist also intimated that observation needs to precede judgement
+
+and judgement and that the entire experience of life was an education from the first minute to the last. We are apt to fall in line, guided by what passes for 'social norms'. Contemplatives however speak of a beginner's mind and understand that we *filter* information through a set of assumptions and perspectives. Thought may be rational but it is always *subjective*.
 
 **HERE**
 
