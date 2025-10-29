@@ -9,13 +9,13 @@ A rule (both in terms of governance and measurement which has numerical consensu
 
 
 
-### Sine Qua Non (Intelligence)
+### Sine Qua Non (Intelligence) - Final (Pre-Published)
 
 Through *Sine Qua Non* Parts 1–5, intelligence emerges as the organizing principle of legitimacy, flourishing, and coherence: it is holistic, systemically valid, and expressed through Anima’s five dimensions—connection, empathy, shared time, memory, and shared purpose. From *Deus En Machina* to *Machina Virtualis*, we see that true intelligence reconciles self, society, and creation, operates without coercion, embodies sufficiency, and catalyzes emergent, harmonious order akin to nature itself. Legitimacy arises not from force or accumulation but from ordination, consensus, creative surplus, and transparent structures that bind communities into coherent wholes. This trajectory naturally pivots to capital: just as intelligence-as-Anima orders life, capital must reflect legitimacy—structured to honor shared purpose, accountability, and long-term sustainability. Misaligned money mirrors misapplied intelligence: clever but destructive. When guided by intelligence, capital becomes a codified, trust-based, and generative expression of human creativity, bounded yet capable of infinite productive potential, transforming individual labor and communal resourcefulness into tangible, life-affirming abundance.
 
 
 
-### E Pluribus Unum (Capital)
+### E Pluribus Unum (Capital) 
 
 Across nine essays, this work traces humanity’s long oscillation between order and chaos, meaning and mechanism, through the lens of money, morality, and technology. It begins by rooting legitimacy and capital in *Anima* — the creative, ethical impulse in living things that aligns human will with natural intelligence. From this foundation, it follows how money—our symbolic language of trust—becomes corrupted by opacity and kluges (courtesy and privilege) that concentrates power to keep systems operational as layers of complexity accumulate, turning civilization’s nervous system against itself.
 
