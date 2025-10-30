@@ -18,6 +18,10 @@ Artwork: *In the Blink of An Eye*: Insight that arranges equivalence to express 
 
 ## Introduction
 
+>Walk on, through the wind
+>Walk on, through the rain
+>Though your dreams be tossed and blown
+>
 >Walk on, walk on
 >With hope in your heart
 >And you'll never walk alone

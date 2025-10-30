@@ -11,15 +11,16 @@ part: "2"
 
 **Artwork**:  The Stone Rose: The earth was once a barren stone that flowered, bringing forth humanity. This flowering represents the Square of the Dial Square — a fractal form that mirrors both the individual self and the greater whole we call society. The Square holds atop the Dial (Our Glass), representing reason and objectivity, and within it rests the Yoga Element (Lingam), symbolizing introspection and intuition. Society, through evolving mechanisms of governance, is tasked with stewarding the commons. As we accumulate and share insight, we move toward a new earth — one where self-actualized custodians, both individual and collective, maintain creation in equilibrium. 
 
-*"The Lord God took the man and put him in the Garden of Eden to work it and take care of it."* 
 
-\- Genesis 2:15
 
-Oh, it's a mystery to me We have a greed, with which we have agreed And you think you have to want more than you need Until you have it all you won't be free
 
-\- Eddie Vedder ([Society](https://www.youtube.com/watch?v=UAphzAmDc4w))
+>My blood will forever
+>Run through the stone
+>~ Louis Dunford (North London Forever)
 
-**Made of Stone**
+
+
+## Made of Stone
 
 We are modeling a framework for governance, Regnum Dei, that recognizes an individual's need for pluralistic self-actualization while acknowledging our collective responsibility as custodians of creation. Our model is the Dial Square, and here we explore the Stone Rose, asking: What does it take for one to become someone you can live with?
 
