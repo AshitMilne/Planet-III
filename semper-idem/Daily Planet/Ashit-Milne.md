@@ -7,20 +7,30 @@ title: "The Making of Ashit Milne"
 date: "2025-09-14"
 tags: ["Daily Planet"]
 
----
 
-![Lord Shiva](./assets/Shiva.png)
 
-Above: Lord Shiva, Patron of Transformation. For yogis he represents the *inner* transformative power - the ability to dissolve ego and ignorance to realize the higher self - and to be *in it* as part of the whole.
+![](./assets/Shiva.png)
+
+Lord Shiva, Patron of Transformation or evolution. For yogis he represents the *inner* transformative power - the ability to dissolve ego and ignorance to realize the higher self and to be at peace within and as part of the whole. The yogi comes together and meets with wih everything.
 
 
 
 >अगर भीतर शांति हो, तो हर चीज़ से मिलना सहज होता है।
-> *Agar bheetar shanti ho, to har cheez se milne sahaj hota hai.*
+>*Agar bheetar shanti ho, to har cheez se milne sahaj hota hai.*
 >
->If there is peace within, then meeting (milne) everything becomes effortless.
+>If there is peace within, then meeting everything becomes effortless.
 
 
+
+We are born a heralded innovation, a unique creation, into the structure of family and community; our every quirk of personality delights those around us; our incredulous wonderment at all things the source of their joy.
+
+
+
+ Made ready, we are launched into broader society—into the realm of the Sovereign and its institutions. 
+
+
+
+**HERE**
 
 Entering Act III I have assumed Milne as my given name. In my ancestral Gujarati (and Hindi), the word 'milne' (मिल्न) phonetically means, in an abstract sense, to 'come together' or meet - whether it be to break bread within one's community of friends and partners in life or to conduct an atomic transaction for due consideration with a stranger. On a spectrum those are the extreme two bounds within which parties exchange value, and are then over time imbued with a notion of relative *trust* as they manage their affairs in a social network, digital or otherwise.
 

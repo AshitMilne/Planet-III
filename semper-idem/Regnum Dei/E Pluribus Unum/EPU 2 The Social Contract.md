@@ -11,7 +11,11 @@ part: 2
 
 ![](./assets/SocialConsensus.jpg)
 
-**Contract**: The word has the sense of wheel or weal. It is how we, together (con~) cover ground (*tract*) to create wealth (a sum positive outcome for *both* parties - i.e. you and them. Hence the terms wealth and commonwealth.  In practical terms there are only two parties to a contract as far as your concerned. Of course in a liberal society we are free to abstain from contracts that do not appeal to us. The social contract however is accepted *implicitly* by (being alive - i.e. possessing the quality of liveness.
+**Contract**: The word carries the sense of a wheel or weal — a means by which we move together (*con~tract*) across shared ground to create wealth, a positive sum for all parties involved. Contracts operate within a sovereign context — the law, the government, or the Crown — whose responsibility is to ensure that the interests of the environment, or *the commons*, are protected.
+
+When these sovereigns fail to acknowledge facts or assume that responsibility, the result is the familiar *tragedy of the commons*. I also refer to this third, often neglected party as *Creation*, to draw a clear distinction from the sovereign, which — quite undeservedly — is sometimes held to be synonymous with the commons. For all the government’s claims to safeguard Creation when it exercises its right of *eminent domain*, it generally does so for the purse — its own or the private purses of those who sponsor incumbent officers with material support.
+
+Yet the sovereign edifice remains slow to evolve, resistant to the very innovations required to safeguard Creation. This is partly because, in practice, those who serve within these structures are rarely visionaries; they are administrators and careerists performing a role. Thus arises a conflict between their interest in maintaining their sinecure and the performance of it to the satisfaction of the general public.
 
 
 
@@ -40,7 +44,7 @@ This second part explores the qualities of a well-functioning contract: one that
 
 
 
-Contracts are created as a utility (an instrument or tool) to allow complex civilizations to flourish. The word is derived from Latin. The prefix *con~* from *cum* (meaning together) while the term tract is from *trahere* meaning to draw, pull, or drag. So a contract is a means for us to come together to gain traction and manifest a sum positive result for mutual benefit: Something greater than that we would have achieved separately. Therefore contracts are creative and in a practical sense they facilitate generation, productivity or if you will, fertility; you will note the synchronicity drawn from the primal reality of that moment when life itself begins. This *seminal* moment of creation extends into the rest of our lives and it's why the discovery of one's *Calling* is important; turning us from the anguished scream of repressed identity to instead a discovery of our primal selves so that we may manifest productive outcomes. 
+Contracts are created as a utility (an instrument or tool) to allow complex civilizations to flourish. The word is derived from Latin. The prefix *con~* from *cum* (meaning together) while the term tract is from *trahere* meaning to draw, pull, or drag. So a contract is a means for us to come together to gain traction and manifest a sum positive result for mutual benefit: Something greater than that we would have achieved separately. Therefore contracts are creative and in a practical sense they facilitate generation, productivity or if you will, fertility; you will note the synchronicity drawn from the primal reality of that moment when life itself begins. This *seminal* moment of creation extends into the rest of our lives and it's why the discovery of one's *Calling* is important; turning us from the anguished scream of repressed identity to instead a discovery of our primal selves so that we may manifest productive outcomes.
 
 Legal contracts are drawn up to stipulate explicit terms: “If this, then that.” The structure is conditional, encoding obligations that arise from envisioned opportunities, which in turn enable the enjoyment of rights to a share of a fruitful outcome. There is a clearly defined cause and effect between obligation and right with the former preceding and resulting in another. So much for explicitly defined contracts.
 
@@ -50,7 +54,11 @@ As a component of what we might comprehensively denote as *social contract*, in 
 
 
 
-## Supervision (Transparency)
+## 
+
+
+
+
 
 While children require supervision we expect 
 
