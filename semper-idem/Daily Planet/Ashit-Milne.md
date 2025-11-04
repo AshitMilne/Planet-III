@@ -15,6 +15,10 @@ Lord Shiva, Patron of Transformation or evolution. For yogis he represents the *
 
 
 
+## Grain of Truth (and Beauty)
+
+
+
 >अगर भीतर शांति हो, तो हर चीज़ से मिलना सहज होता है।
 >*Agar bheetar shanti ho, to har cheez se milne sahaj hota hai.*
 >
@@ -22,7 +26,9 @@ Lord Shiva, Patron of Transformation or evolution. For yogis he represents the *
 
 
 
-We are born a heralded innovation, a unique creation, into the structure of family and community; our every quirk of personality delights those around us; our incredulous wonderment at all things the source of their joy.
+We are born heralded; an innovation from the well-spring of culture and into the structure of family and community: the foundation of all civilizations. The moment of conception begins the blush of anticipation; what young idea will his fresh third eye bring to our semi-charmed lives to end the futile pursuit? What blind aimlessness will they in some almost imperceptible way will they set right. What grain of truth will be grist for its mill to divine and make beautiful? Will it be a *Milne* who spins energy for a purpose deemed true or the rentier and speculator who exploits and trades on his talents on the markets? 
+
+Our every quirk of personality delights; it's our incredulous wonderment at all things the source of their joy.
 
 
 
@@ -32,11 +38,11 @@ We are born a heralded innovation, a unique creation, into the structure of fami
 
 **HERE**
 
-Entering Act III I have assumed Milne as my given name. In my ancestral Gujarati (and Hindi), the word 'milne' (मिल्न) phonetically means, in an abstract sense, to 'come together' or meet - whether it be to break bread within one's community of friends and partners in life or to conduct an atomic transaction for due consideration with a stranger. On a spectrum those are the extreme two bounds within which parties exchange value, and are then over time imbued with a notion of relative *trust* as they manage their affairs in a social network, digital or otherwise.
+ 'milne' (मिल्न) phonetically means, in an abstract sense, to 'come together' or meet - whether it be to break bread within one's community of friends and partners in life or to conduct an atomic transaction for due consideration with a stranger. On a spectrum those are the extreme two bounds within which parties exchange value, and are then over time imbued with a notion of relative *trust* as they manage their affairs in a social network, digital or otherwise.
 
 My given name, is Indo-Aryan Sanskrit - Ashit अशित). It denotes the immaterial yet desirable. That unfrozen (warm) space, our planet, which has allowed consciousness to evolve, and through it truth to be known over time; allowing ultimately for the end of ignorance (below). The notion is made real on this planet - Earth - which yields comfort for humanity. Ashit Milne therefore means 'The Planet Come Together'. It reverberates with anarchism - the world is our country, to do good is our religion.
 
-Whatever I am to the world, I call *myself* Ashit Milne. 'Milne' suggests a hewer of wood, drawer of water, and a grindr of grain with which to bake bread. My maternal grandfather was a Milne of sorts - operating a saw mill and workshops building Modern Furniture (he had some vision, for that was literally the name of the company he founded) for the Modern English of British East Africa (Kenya, Tanzania and Uganda). The name though is Scottish in origin, and so perfectly suited to modulate and balance my sheer Englishness (I have yet to set foot in Scotland or Wales - never mind Ireland). I came of age as walls came down, save one on the island, I was born. Hadrian's that metaphorically only, of course, needs to fall for genuine home country reconciliation. The name also brings me myself full circle and home to my adopted country Canada - British North America. If that seems too serious and self-important then forget poetry and foreign languages for a moment and stick with English.
+Whatever I am to the world, I call *myself* Ashit Milne. 'Milne' suggests a hewer of wood, drawer of water, and a grinder of grain with which to bake bread. My maternal grandfather was a Milne of sorts - operating a saw mill and workshops building Modern Furniture (he had some vision, for that was literally the name of the company he founded) for the Modern English of British East Africa (Kenya, Tanzania and Uganda). The name though is Scottish in origin, and so perfectly suited to modulate and balance my sheer Englishness (I have yet to set foot in Scotland or Wales - never mind Ireland). I came of age as walls came down, save one on the island, I was born. Hadrian's that metaphorically only, of course, needs to fall for genuine home country reconciliation. The name also brings me myself full circle and home to my adopted country Canada - British North America. If that seems too serious and self-important then forget poetry and foreign languages for a moment and stick with English.
 
 ![img](//img1.wsimg.com/isteam/ip/674c7aa6-fcc2-4283-a438-de467701f51c/planetGoog.webp/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280)Edit Image
 
