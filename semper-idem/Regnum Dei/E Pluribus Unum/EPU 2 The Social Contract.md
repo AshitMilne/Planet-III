@@ -29,7 +29,7 @@ The result is a growing separation — a psychic distancing — between the stat
 
 Yet there is an adaptive mechanism built into society: a kind of dialectic in pluralist systems that allows innovation to persist outside incumbent structures. New ideas can then diffuse into the social contract, enabling governance to evolve — or, as I suggested in Part One, devolve — outward from the Leviathan to the periphery, ultimately empowering individuals to govern themselves without permanent intermediaries.
 
-This second part explores the qualities of a well-functioning contract: one that executes processes consistently, predictably, and deterministically. Such contracts — particularly those capable of operating autonomously, on-chain, or algorithmically — may be central to the devolution of governance to the self-sovereign individual  As well they are critical to the long-term resilience of human civilization sustainably on our planet as the transparency with privacy and security enabled allow optimal outcomes: In technical terms, maximal extractable (legitimate and credible) value. The bias or normative preference systemically embedded within such contracts amount to aligning self-interests with those of the commons (sovereign) and the ecology without compromise.
+This second part explores the qualities of a well-functioning contract: one that executes processes consistently, predictably, and deterministically. Such contracts — particularly those capable of operating autonomously, on-chain, or algorithmically — may be central to the devolution of governance to the self-sovereign individual  As well they are critical to the long-term resilience of human civilization sustainably on our planet as the transparency with privacy and security enabled allow optimal outcomes: In technical terms, maximal extractable (legitimate and credible) value. The bias or normative *preference* systemically embedded within such contracts amount to aligning self-interests with those of the commons (sovereign) and the ecology without compromise so that human civilization and culture may persist and flourish indefinitely without degrading the planet.
 
 
 
@@ -60,9 +60,17 @@ Many for example will pragmatically accept the injustices of slavery, segregatio
 
 Withdrawal from contracts whose social norms routinely fail to meet the dictates of conscience is crucial — both for personal wellbeing and for the potential recovery of the system itself. Conscience cannot be ignored for long without exacting a heavy cost on one’s sense of self and even on one’s health. The word itself — *conscientia* — means “to know together,” a shared recognition of basic facts. The dictates of conscience differ in degree, but not in kind, from the fundamental principles that govern reality — physics, chemistry — and are deeply rooted in biology. We ignore them at our peril because the steady incremental evolution of our civilization is founded on the acknowledgement of basic facts otherwise the system is itself slowly becomes more unstable and require ever more compromises concerning what we are willing to let pass as 'bare acceptable behaviour'. Increasingly it no longer models or frame a field of reference within people are willing to live, quite simply because it accepts without remorse or recourse too many arbitrarily unfair outcomes.
 
+Conscience may be seen as the internal mechanism which speaks for creation or the ecology or indeed for integrated holistic intelligence. It seeks to persist liveness in all its varieties and keep animus bounded within reason. Where conscience fails, and in my estimation is beginning to fail across vast number of us is when exhaustion sets in with profoundly materialistic ambitions of those who occupy high office, that is, those I referred in Part 1 as comprising Leviathan. 
+
+Reword and introduce the idea of Providence (hierarchy) One unspoken mythology of Western democracy is that of meritocracy: institutions, it is claimed, operate within a system (capitalism) that automatically elevates the most capable individuals, in a free marketplace of ideas rigorously examined by attentive citizens
+
 
 
 ## 
+
+
+
+
 
 
 
