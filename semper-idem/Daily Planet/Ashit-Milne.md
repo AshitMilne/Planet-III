@@ -1,12 +1,12 @@
-
-
 ---
-
-layout: "base.njk"
-title: "The Making of Ashit Milne"
-date: "2025-09-14"
-tags: ["Daily Planet"]
-
+author: Ashit Milne
+title: The Making of Ashit Milne
+date: 2025-09-14
+layout: base.njk
+stage: draft
+tags: []
+series Daily Planet
+---
 
 
 ![](./assets/Shiva.png)
@@ -26,13 +26,11 @@ Lord Shiva, Patron of Transformation or evolution. For yogis he represents the *
 
 
 
-We are born heralded; an innovation from the well-spring of culture and into the structure of family and community: the foundation of all civilizations. The moment of conception begins the blush of anticipation; what young idea will his fresh third eye bring to our semi-charmed lives to end the futile pursuit? What blind aimlessness will they in some almost imperceptible way will they set right. What grain of truth will be grist for its mill to divine and make beautiful? Will it be a *Milne* who spins energy for a purpose deemed true or the rentier and speculator who exploits and trades on his talents on the markets? 
-
-Our every quirk of personality delights; it's our incredulous wonderment at all things the source of their joy.
+We are born heralded; an innovation from the well-spring of culture and into the structure of family and community: the foundation of all civilizations. The moment of conception begins the blush of anticipation; what young idea will his fresh third eye bring to our semi-charmed lives to end the futile pursuit? What blind aimlessness will they in some almost imperceptible way will they set right. What grain of truth will be grist for its mill to divine and make beautiful? Will the child be a *Milne* who spins energy for a true creative purpose or the rentier and speculator who exploits and trades on his talents on the markets? 
 
 
 
- Made ready, we are launched into broader society—into the realm of the Sovereign and its institutions. 
+
 
 
 
@@ -44,9 +42,9 @@ My given name, is Indo-Aryan Sanskrit - Ashit अशित). It denotes the imma
 
 Whatever I am to the world, I call *myself* Ashit Milne. 'Milne' suggests a hewer of wood, drawer of water, and a grinder of grain with which to bake bread. My maternal grandfather was a Milne of sorts - operating a saw mill and workshops building Modern Furniture (he had some vision, for that was literally the name of the company he founded) for the Modern English of British East Africa (Kenya, Tanzania and Uganda). The name though is Scottish in origin, and so perfectly suited to modulate and balance my sheer Englishness (I have yet to set foot in Scotland or Wales - never mind Ireland). I came of age as walls came down, save one on the island, I was born. Hadrian's that metaphorically only, of course, needs to fall for genuine home country reconciliation. The name also brings me myself full circle and home to my adopted country Canada - British North America. If that seems too serious and self-important then forget poetry and foreign languages for a moment and stick with English.
 
-![img](//img1.wsimg.com/isteam/ip/674c7aa6-fcc2-4283-a438-de467701f51c/planetGoog.webp/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280)Edit Image
 
-Planet - Third rock from the Sun
+
+
 
 
 
@@ -56,9 +54,9 @@ A. A. Milne is a creator of a world with an *assorted mess* of odd characters wh
 
 Milne's world is an allegory of our modern humanity (such as it is); we have become a litter (basket case) of types sorted into compartments contented *enough* to exchange the odd greeting as we pass one other in our lanes, each of us trapped in a state of imaginary grace. We're alive and kicking in fits of 'dappy happy', curtailed though, is our sense of truth and trust. This is not the promised salvation of philosophical liberalism that I dreamed of as a youngster. It is self-evidently incomplete, and for an unlucky few who are privileged in all the wrong ways - that is to say granted liberties (over themselves or others) that they cannot manage -  it is isolation, desolation, alienation and self-destructive self-indulgence in excess. They are oblivious of the burning beds they have made and have made others lie in - and our passive acceptance makes the rest of us complicit.
 
-![The Dignity Honey of Londinium](//img1.wsimg.com/isteam/ip/674c7aa6-fcc2-4283-a438-de467701f51c/MoneyHoney.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280)Edit Image
 
-The Dignity Honey of Londinium
+
+
 
 I am however capable of a little humour and self-deprecate for a moment. For me Donegan's illustration (below) adds comic relief and the reminiscences of growing up with a *distinctive* name. Within the confines of his 100-acre wood Pooh at least feels secure enough, whereas who know what sadness, cruelty, and bully hurt lies beyond it. The wood is a place of sanctuary (it is not nothing) from which we have an opportunity to contemplate and enable our collective intellectual property (*Deus In Machina*) to calibrate  closeness and find love - not just the love we need but that which the essence of life actually demands that we must *have*  - the ecstasy and rapture of union to procreate ones who grow to perceive pure devotional love in their parentage - giving them faith and hope for the future. It is the promise of both the New and the Ancient Jerusalem and of both Modern English and Mythical Eden: Paradise with neither trespass nor even the temptation of it.
 
