@@ -60,9 +60,57 @@ Many for example will pragmatically accept the injustices of slavery, segregatio
 
 Withdrawal from contracts whose social norms routinely fail to meet the dictates of conscience is crucial — both for personal wellbeing and for the potential recovery of the system itself. Conscience cannot be ignored for long without exacting a heavy cost on one’s sense of self and even on one’s health. The word itself — *conscientia* — means “to know together,” a shared recognition of basic facts. The dictates of conscience differ in degree, but not in kind, from the fundamental principles that govern reality — physics, chemistry — and are deeply rooted in biology. We ignore them at our peril because the steady incremental evolution of our civilization is founded on the acknowledgement of basic facts otherwise the system is itself slowly becomes more unstable and require ever more compromises concerning what we are willing to let pass as 'bare acceptable behaviour'. Increasingly it no longer models or frame a field of reference within people are willing to live, quite simply because it accepts without remorse or recourse too many arbitrarily unfair outcomes.
 
-Conscience may be seen as the internal mechanism which speaks for creation or the ecology or indeed for integrated holistic intelligence. It seeks to persist liveness in all its varieties and keep animus bounded within reason. Where conscience fails, and in my estimation is beginning to fail across vast number of us is when exhaustion sets in with profoundly materialistic ambitions of those who occupy high office, that is, those I referred in Part 1 as comprising Leviathan. 
+Conscience may be seen as the internal mechanism that speaks for creation, the ecology, or integrated holistic intelligence as we navigate interactions in the world. It seeks to preserve liveness in all forms and to keep our own animus bounded within reason. Yet conscience falters, and animus arises, when *perceived* scarcity mars rational thought — resulting in its emotional counterparts fear and anger. This sense of scarcity originates in a cognitive assessment: a calculation that wealth, opportunities, or *time* are limited. In civil society, particularly in the liberal democratic west, the idea of scarcity also extend to entirely notional concepts, such as title, status, reputation or relative wealth - certainly for those who aspire to upward mobility. 
 
-Reword and introduce the idea of Providence (hierarchy) One unspoken mythology of Western democracy is that of meritocracy: institutions, it is claimed, operate within a system (capitalism) that automatically elevates the most capable individuals, in a free marketplace of ideas rigorously examined by attentive citizens
+When our cleverest physicists opt for roles in finance as quants instead of building the apparatus required to explore and understand the universe we are being sent a clear distress signal about social norms. As well when instead of opting to spend time in creative pursuits whether it be planting, building, teaching, nursing or even in the arts our young choose blandly administrative roles that bestow some title and (what appears for the time being at least) a handsome salary. What this amounts to is unbounded animus wrought universally; whereas creativity, the place where risk and reward meet at one's *Calling* is the lifeblood of human civilization, we instead opt *wholesale* for the perceived safety of sinecure; the result is stagnation for us as individuals, for society and civilization itself. Moreover, the resulting inexplicable disquiet is invariably settled with hedonistic consumption resulting in the rapid depletion of our finite resource and the ravaging of the very environment we once depended up on for our mere subsistence.
+
+Particularly troubling is that these circumstances accompany a widening disparity in outcomes for people in western society as wealth, income inequality and the so-called diseases of civilization (cancer, heart disease, diabetes, chronic stress) leave increasingly large numbers of people fearful and panicked at the prospect of very real *scarcity* (malnutrition and illness) for the first time since the Great Depression.
+
+What we have then is a polarized escalation of animus both among increasingly static middle class and the poorest. Meanwhile those comfortably ensconced in positions of authority perceiving rising volatility and civil unrest ramp up their perimeter, surveillance and security apparatus. Each segment of society anticipating and pre-emptively *reacting* to animus from another propels an escalating cycle of chaos.
+
+All the while of course we sense the world coming apart because our administrative classes appear increasingly spontaneous in their generation of policy responses. If they are market focused their only objective is revenue and the current quarter.  As well, more to the point, rather than guide our collective towards creative pursuits to resolve our long-lasted 'productivity conundrum' they are instead mired in a competitive race to accumulate and express opulent consumption; then serving it up to the world as evidence of great ability and accomplishment.
+
+**HERE**
+
+Meanwhile, having grown disenchanted real creative talent checks out.
+
+ best and most creative check out to express themselves in the arising parallel system designed, with the self-enforcing discipline of transparency, to manifest providence.
+
+
+
+## Providence
+
+
+
+
+
+
+
+
+
+
+
+and in my estimation is beginning to fail across vast number of us is when exhaustion sets in with materialistic ambitions of those who occupy high office, that is, those I referred in Part 1 as comprising Leviathan. 
+
+t
+
+
+
+A *sense of scarcity* can arise from cognitive assessment — your mind calculating that resources, opportunities, or time are limited.
+ It’s a **rational perception**, often tied to survival logic:
+
+- “There isn’t enough food / money / attention / status to go around.”
+- “If I don’t act now, I’ll lose out.”
+
+
+
+## Providence
+
+Once again the key idea in contracts, and of course this includes social contracts is they result in sum positive outcomes.
+
+
+
+**HERE** Reword and introduce the idea of Providence (hierarchy) One unspoken mythology of Western democracy is that of meritocracy: institutions, it is claimed, operate within a system (capitalism) that automatically elevates the most capable individuals, in a free marketplace of ideas rigorously examined by attentive citizens
 
 
 
